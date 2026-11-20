@@ -1,0 +1,1240 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" id="www-roblox-com">
+<!-- MachineID: APP45 -->
+<head id="ctl00_Head1">
+    <!--[if lte IE 7]>
+    <style>
+    .Navigation .dropdownnavcontainer
+    {
+        margin-left:121px;
+    }
+    </style>
+    <![endif]-->
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=7" /><title>
+	Build, Roleplay and Fight III - Shard I, a Free Game by Vikatikki - ROBLOX (updated 8/24/2010 9:24:48 AM)
+</title><link id="ctl00_Imports" rel="stylesheet" type="text/css" href="/CSS/Base/CSS/AllCSS.ashx?v=20100924qrwef&amp;t=RBX2" /><link id="ctl00_Link1" rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico" /><link rel="Stylesheet" type="text/css" href="/chat/css/party.css" /><link rel="Stylesheet" type="text/css" href="/chat/css/party_leader.css" /><link rel="Stylesheet" type="text/css" href="/chat/css/party_invite.css" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Content-Language" content="en-us" /><meta name="author" content="ROBLOX Corporation" /><meta id="ctl00_metadescription" name="description" content="Build, Roleplay and Fight III - Shard I, a Free Game by Vikatikki - ROBLOX (updated 8/24/2010 9:24:48 AM): Votekick added. Say &amp;quot;vote playername&amp;quot; to vote for someone to be kicked. Requires ~2/3 of a server to kick. Shard One has default chat options and roleplaying is suggested but not enforced. Rules: No deleting, mass copying, spamming, spawnkilling, or teamkilling unless accepted in roleplay storyline. No skypaths, seapaths, flying glitch and so on. Report hackers/exploiters, and ask everyone to do so. For the roleplay-only shard, go to the second page of my profile." /><meta id="ctl00_metakeywords" name="keywords" content="virtual good Build, Roleplay and Fight III - Shard I, a Free Game by Vikatikki - ROBLOX (updated 8/24/2010 9:24:48 AM) items, ROBLOX Build, Roleplay and Fight III - Shard I, a Free Game by Vikatikki - ROBLOX (updated 8/24/2010 9:24:48 AM)" />
+
+<link href="/p/WebResource.axd" type="text/css" rel="stylesheet" /></head>
+<body>
+    <form name="aspnetForm" method="post" action="item.aspx?seoname=Build-Roleplay-and-Fight-III-Shard-I&amp;id=18953144" id="aspnetForm">
+<input type="hidden" name="ctl00_cphRoblox_TabbedInfo_ClientState" id="ctl00_cphRoblox_TabbedInfo_ClientState" value="{&quot;ActiveTabIndex&quot;:0,&quot;TabState&quot;:[true,true,true,true]}" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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ZUljb25zL0Nhc3RsZS5wbmdkZAICDxUBDy9tZWRpZXZhbC1nYW1lc2QCCw8PFgIfAWhkFgQCAQ8PFgIfBgUmfi9pbWFnZXMvR2VucmVJY29ucy9Nb2Rlcm5NaWxpdGFyeS5wbmdkZAICDxUBCi93YXItZ2FtZXNkAg0PDxYCHwFoZBYEAgEPDxYCHwYFHX4vaW1hZ2VzL0dlbnJlSWNvbnMvTmluamEucG5nZGQCAg8VAQwvbmluamEtZ2FtZXNkAg8PDxYCHwFoZBYEAgEPDxYCHwYFHn4vaW1hZ2VzL0dlbnJlSWNvbnMvUGlyYXRlLnBuZ2RkAgIPFQENL3BpcmF0ZS1nYW1lc2QCEQ8PFgIfAWhkFgQCAQ8PFgIfBgUdfi9pbWFnZXMvR2VucmVJY29ucy9TY2lGaS5wbmdkZAICDxUBDS9zY2ktZmktZ2FtZXNkAhMPDxYCHwFoZBYEAgEPDxYCHwYFHn4vaW1hZ2VzL0dlbnJlSWNvbnMvU3BvcnRzLnBuZ2RkAgIPFQENL3Nwb3J0cy1nYW1lc2QCFQ8PFgIfAWhkFgQCAQ8PFgIfBgUcfi9pbWFnZXMvR2VucmVJY29ucy9DaXR5LnBuZ2RkAgIPFQEUL3Rvd24tYW5kLWNpdHktZ2FtZXNkAhcPDxYCHwFoZBYEAgEPDxYCHwYFIH4vaW1hZ2VzL0dlbnJlSWNvbnMvV2lsZFdlc3QucG5nZGQCAg8VARcvd2lsZC13ZXN0LWNvd2JveS1nYW1lc2QCGQ8PFgIfAWhkFgQCAQ8PFgIfBgUhfi9pbWFnZXMvR2VucmVJY29ucy9Ta2F0ZVBhcmsucG5nZGQCAg8VARAvc2thdGVwYXJrLWdhbWVzZAIbDw8WAh8BaGQWBAIBDw8WAh8GBSB+L2ltYWdlcy9HZW5yZUljb25zL1R1dG9yaWFsLmdpZmRkAgIPFQEUL2dhbWV0dXRvcmlhbHMtZ2FtZXNkAhMPZBYUAgEPFgIfCwUTQWxsb3dlZCBHZWFyIFR5cGVzOmQCAw8PFgIfAWhkFgQCAQ8PFgIfBgUffi9pbWFnZXMvR2VucmVTdWl0Y2FzZTE2eDE2LnBuZ2RkAgMPFgIfCwURRmFudGFzeSBnZWFyIG9ubHlkAgUPDxYCHwFoZBYCAgEPDxYCHwYFIH4vaW1hZ2VzL0NhdGVnb3J5SWNvbnMvTWVsZWUucG5nZGQCBw8PFgIfAWhkFgICAQ8PFgIfBgUhfi9pbWFnZXMvQ2F0ZWdvcnlJY29ucy9SYW5nZWQucG5nZGQCCQ8PFgIfAWhkFgICAQ8PFgIfBgUkfi9pbWFnZXMvQ2F0ZWdvcnlJY29ucy9FeHBsb3NpdmUucG5nZGQCCw8PFgIfAWhkFgICAQ8PFgIfBgUjfi9pbWFnZXMvQ2F0ZWdvcnlJY29ucy9Qb3dlclVwcy5wbmdkZAINDw8WAh8BaGQWAgIBDw8WAh8GBSV+L2ltYWdlcy9DYXRlZ29yeUljb25zL05hdmlnYXRpb24ucG5nZGQCDw8PFgIfAWhkFgICAQ8PFgIfBgUgfi9pbWFnZXMvQ2F0ZWdvcnlJY29ucy9NdXNpYy5wbmdkZAIRDw8WAh8BaGQWAgIBDw8WAh8GBSF+L2ltYWdlcy9DYXRlZ29yeUljb25zL1NvY2lhbC5wbmdkZAITDw8WAh8BaGQWAgIBDw8WAh8GBSN+L2ltYWdlcy9DYXRlZ29yeUljb25zL0J1aWxkaW5nLnBuZ2RkAhQPDxYCHwFoZBYEAgEPDxYCHwYFJH4vaW1hZ2VzL0NhdGVnb3J5SWNvbnMvSG91ckdsYXNzLnBuZ2RkAgMPFgIfCwUFTmV2ZXJkAhUPZBYCAgEPFgIfCwXUA1ZvdGVraWNrIGFkZGVkLiBTYXkgInZvdGUgcGxheWVybmFtZSIgdG8gdm90ZSBmb3Igc29tZW9uZSB0byBiZSBraWNrZWQuIFJlcXVpcmVzIH4yLzMgb2YgYSBzZXJ2ZXIgdG8ga2ljay4gU2hhcmQgT25lIGhhcyBkZWZhdWx0IGNoYXQgb3B0aW9ucyBhbmQgcm9sZXBsYXlpbmcgaXMgc3VnZ2VzdGVkIGJ1dCBub3QgZW5mb3JjZWQuIFJ1bGVzOiBObyBkZWxldGluZywgbWFzcyBjb3B5aW5nLCBzcGFtbWluZywgc3Bhd25raWxsaW5nLCBvciB0ZWFta2lsbGluZyB1bmxlc3MgYWNjZXB0ZWQgaW4gcm9sZXBsYXkgc3RvcnlsaW5lLiBObyBza3lwYXRocywgc2VhcGF0aHMsIGZseWluZyBnbGl0Y2ggYW5kIHNvIG9uLiBSZXBvcnQgaGFja2Vycy9leHBsb2l0ZXJzLCBhbmQgYXNrIGV2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BTYvQnVpbGQtUm9sZXBsYXktYW5kLUZpZ2h0LUlJSS1TaGFyZC1JLWl0ZW0/aWQ9MTg5NTMxNDRkZAIBDxYCHwFoFgICAQ8PFgIfDQUTfi9NeS9DaGFyYWN0ZXIuYXNweGRkAgkPZBYEZg8PFgIfDQU2L0J1aWxkLVJvbGVwbGF5LWFuZC1GaWdodC1JSUktU2hhcmQtSS1pdGVtP2lkPTE4OTUzMTQ0ZGQCAQ8WAh8BaBYCAgEPDxYCHw0FE34vTXkvQ2hhcmFjdGVyLmFzcHhkZAIKD2QWBGYPDxYCHw0FNi9CdWlsZC1Sb2xlcGxheS1hbmQtRmlnaHQtSUlJLVNoYXJkLUktaXRlbT9pZD0xODk1MzE0NGRkAgEPFgIfAWgWAgIBDw8WAh8NBRN+L015L0NoYXJhY3Rlci5hc3B4ZGQCCw9kFgRmDw8WAh8NBTYvQnVpbGQtUm9sZXBsYXktYW5kLUZpZ2h0LUlJSS1TaGFyZC1JLWl0ZW0/aWQ9MTg5NTMxNDRkZAIBD2QWAgIBDw8WAh8NBRN+L015L0NoYXJhY3Rlci5hc3B4ZGQCDA9kFgRmDw8WAh8NBTYvQnVpbGQtUm9sZXBsYXktYW5kLUZpZ2h0LUlJSS1TaGFyZC1JLWl0ZW0/aWQ9MTg5NTMxNDRkZAIBD2QWAgIBDw8WAh8NBRN+L015L0NoYXJhY3Rlci5hc3B4ZGQCDQ9kFgRmDw8WAh8NBTYvQnVpbGQtUm9sZXBsYXktYW5kLUZpZ2h0LUlJSS1TaGFyZC1JLWl0ZW0/aWQ9MTg5NTMxNDRkZAIBD2QWAgIBDw8WAh8NBRN+L015L0NoYXJhY3Rlci5hc3B4ZGQCDg9kFgRmDw8WAh8NBRV+L1VwZ3JhZGVzL1JvYnV4LmFzcHhkZAIBDw8WAh8NBSB+L01hcmtldHBsYWNlL1RyYWRlQ3VycmVuY3kuYXNweGRkAg8PZBYCZg8PFgIfDQUgfi9NYXJrZXRwbGFjZS9UcmFkZUN1cnJlbmN5LmFzcHhkZAIqD2QWAgIBDw8WAh8BaGQWAmYPZBYCAgMPZBYGAgEPEA8WAh8PZ2QQFR8ABUJhc2ljCEdsb3Jpb3VzBEwzM3QEVWJlcgRDb29sB0F3ZXNvbWUFU3dlZXQHUmFkaWNhbAZHbmFybHkGU2NhcmV5BU5pZnR5CkZ1dHVyaXN0aWMGRGVhZGx5BVF1aWNrB01hZ2ljYWwIU3BhY2lvdXMIRXh0ZXJpb3IISW50ZXJpb3IIR2lnYW50aWMJTWluaWF0dXJlBVNtYWxsBFRpbnkESHVnZQdQb3B1bGFyBkNsZXZlcgdUcmlja3N5CFN0ZWFsdGh5CkVuY2hhbnRpbmcJQnJpbGxpYW50C0Rlc3RydWN0aXZlFR8ABUJhc2ljCEdsb3Jpb3VzBEwzM3QEVWJlcgRDb29sB0F3ZXNvbWUFU3dlZXQHUmFkaWNhbAZHbmFybHkGU2NhcmV5BU5pZnR5CkZ1dHVyaXN0aWMGRGVhZGx5BVF1aWNrB01hZ2ljYWwIU3BhY2lvdXMIRXh0ZXJpb3IISW50ZXJpb3IIR2lnYW50aWMJTWluaWF0dXJlBVNtYWxsBFRpbnkESHVnZQdQb3B1bGFyBkNsZXZlcgdUcmlja3N5CFN0ZWFsdGh5CkVuY2hhbnRpbmcJQnJpbGxpYW50C0Rlc3RydWN0aXZlFCsDH2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2cWAGQCAw8QDxYCHw9nZBAVHQAITWVkaWV2YWwHRmFudGFzeQxXb3JsZCBXYXIgSUkLV29ybGQgV2FyIEkFTmluamEHU2FtdXJhaQZTY2ktRmkGSG9ycm9yA0xPTAdGYW50YXN5D01vZGVybiBNaWxpdGFyeQZQaXJhdGUGU3BvcnRzDVRvd24gYW5kIENpdHkJV2lsZCBXZXN0CEVneXB0aWFuBVJvbWFuBUdyZWVrB0FxdWF0aWMFU3BhY2UJU3RhciBXYXJzBUVsdmVuA09yYwVUcm9sbAZHb2JsaW4GV2l6YXJkB01hZ2ljYWwNVGVjaG5vbG9naWNhbBUdAAhNZWRpZXZhbAdGYW50YXN5DFdvcmxkIFdhciBJSQtXb3JsZCBXYXIgSQVOaW5qYQdTYW11cmFpBlNjaS1GaQZIb3Jyb3IDTE9MB0ZhbnRhc3kPTW9kZXJuIE1pbGl0YXJ5BlBpcmF0ZQZTcG9ydHMNVG93biBhbmQgQ2l0eQlXaWxkIFdlc3QIRWd5cHRpYW4FUm9tYW4FR3JlZWsHQXF1YXRpYwVTcGFjZQlTdGFyIFdhcnMFRWx2ZW4DT3JjBVRyb2xsBkdvYmxpbgZXaXphcmQHTWFnaWNhbA1UZWNobm9sb2dpY2FsFCsDHWdnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnFgBkAgUPEA8WAh8PZ2QQFTEFSXRlbXMEQ2FycwVQYXJ0cwVUb29scwRUb3lzBEtpdHMHV2VhcG9ucwRHdW5zBUFybW9yBENhcnMJQnVpbGRpbmdzCFZlaGljbGVzCUZ1cm5pdHVyZQZDaGFpcnMFQm9hdHMFU2hpcHMGVHJhaW5zCUFpcnBsYW5lcwRIYXRzBlNjZW5lcwdXaW5kb3dzBURvb3JzBVJvb21zBVRyYXBzBEJlZHMGSG91c2VzB0Nhc3RsZXMDU2V0BFBpZXMFRm9vZHMLRWFzdGVyIEVnZ3MHRmlndXJlcwZNb2RlbHMGVGhpbmdzBE5QQ3MJU2hvd2Nhc2VzBUdhbWVzCUZhY3RvcmllcwZTdG9yZXMFU2hvcHMHQW5pbWFscwVCZWFycwVMaW9ucwlNaW5pYmVhcnMJUm9ibG9UaW1zBEJhZ3MFTG9nb3MGRGVjYWxzBEJvdHMVMQVJdGVtcwRDYXJzBVBhcnRzBVRvb2xzBFRveXMES2l0cwdXZWFwb25zBEd1bnMFQXJtb3IEQ2FycwlCdWlsZGluZ3MIVmVoaWNsZXMJRnVybml0dXJlBkNoYWlycwVCb2F0cwVTaGlwcwZUcmFpbnMJQWlycGxhbmVzBEhhdHMGU2NlbmVzB1dpbmRvd3MFRG9vcnMFUm9vbXMFVHJhcHMEQmVkcwZIb3VzZXMHQ2FzdGxlcwNTZXQEUGllcwVGb29kcwtFYXN0ZXIgRWdncwdGaWd1cmVzBk1vZGVscwZUaGluZ3METlBDcwlTaG93Y2FzZXMFR2FtZXMJRmFjdG9yaWVzBlN0b3JlcwVTaG9wcwdBbmltYWxzBUJlYXJzBUxpb25zCU1pbmliZWFycwlSb2Jsb1RpbXMEQmFncwVMb2dvcwZEZWNhbHMEQm90cxQrAzFnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnFgBkGA8FHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRpjdGwwMCRjcGhSb2Jsb3gkVGFiYmVkSW5mbwUcY3RsMDAkY3BoUm9ibG94JEJhZGdlRXhwaXJlZA8PZAIBZAUjY3RsMDAkTGVmdEd1dHRlckFkJEFzeW5jQWRNdWx0aVZpZXcPD2RmZAVAY3RsMDAkY3BoUm9ibG94JFRhYmJlZEluZm8kR2FtZXNUYWIkUnVubmluZ0dhbWVzRGF0YVBhZ2VyX0Zvb3Rlcg8UKwAEZGQCBQIDZAUaY3RsMDAkY3BoUm9ibG94JFRhYmJlZEluZm8PD2RmZAU5Y3RsMDAkY3BoUm9ibG94JFRhYmJlZEluZm8kVXNlclNhbGVzVGFiJGxzdEl0ZW1zRm9yUmVzYWxlDzwrAAoBCGZkBS9jdGwwMCRjcGhCYW5uZXJBZCRJdGVtQmFubmVyQWQkQXN5bmNBZE11bHRpVmlldw8PZGZkBThjdGwwMCRjcGhSb2Jsb3gkVGFiYmVkSW5mbyRVc2VyU2FsZXNUYWIkcGdJdGVtc0ZvclJlc2FsZQ88KwAEAQNmZAUqY3RsMDAkY3BoUm9ibG94JEFzc2V0UHJlc2VudGF0aW9uTXVsdGlWaWV3Dw9kAgFkBR5jdGwwMCRjcGhSb2Jsb3gkQmFkZ2VQbGFjZUxpbmsPD2QCAWQFJGN0bDAwJFJpZ2h0R3V0dGVyQWQkQXN5bmNBZE11bHRpVmlldw8PZGZkBR1jdGwwMCRjcGhSb2Jsb3gkRHVyYXRpb25UaW1lcg8PZAIBZAUjY3RsMDAkcmJ4R29vZ2xlQW5hbHl0aWNzJE11bHRpVmlldzEPD2RmZAUyY3RsMDAkY3BoUm9ibG94JGFkc1dpZGVTa3lzY3JhcGVyJEFzeW5jQWRNdWx0aVZpZXcPD2RmZAU4Y3RsMDAkY3BoUm9ibG94JFRhYmJlZEluZm8kR2FtZXNUYWIkUnVubmluZ0dhbWVzTGlzdFZpZXcPPCsACgIHFCsAA2RkZAgCA2QetwQkd9uplfCsWVuEX2XdwpEmrA==" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+function checkRobloxInstall(){window.location="/Install/Unsupported.aspx"; return false;}//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=4DlCiUcqgNm3rwxw-XjB1CYLJrM0XaBGHo4L76RYUgyUk09px-Hx5XU-TWC-cotdFySkM8v436LkzfrLOqd7373bT4CW_pWJ3Mfc0Sl5Qz7X8fbWFzsX8DHdHcxJ--BfzyNozltU2Ahoo6bwCXwYeOs5T4DSrjEHLoeSDzi2pLhdnQQgkEkUja3CqtRjdpq2JccCMgXtGZE2aYQ_Q4zIQPQdFUvwfQAy0yO5OhydHh1RCEfqAFz9q2G1NxIj9zzCIgDhybz_lF-MUIF-9no99NXOpxrZbfGCvCeG0-j6i9Y3YrrljVVQY7avFLqcn83FxAf9EphX4TwKqcSjU0f8ahHdqDNJwEKRohFUBFyyM0rDuqr140IeLs8KI8C9-StJ0" type="text/javascript"></script>
+<script src="/js/jquery.cookies.2.2.0.1.js" type="text/javascript"></script>
+<script src="/js/jquery.jsoncookie.js" type="text/javascript"></script>
+<script src="/js/client-installer.js" type="text/javascript"></script>
+<script src="/js/jquery.cookie.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=EprEoYmSsRaNS4W5V8FsyEB881D94i_nLazbwYPTWa_0uyXsd0E_kMCZU8NmzVq7oDWpeEX8yDGnjfJzlkcY2DSX7vZcx6qX8WxkKi95Gfox_JMTrS4y0Z8DxhfyoL76V3VO_jmWtiouSWIBG84-b-10N7DRuAqnDVcCoU7A6MoQy9SfRYLbBd6LkNIJpdLL4FgKlVSHY1j8ZJMRE0TleG_c3NHEBlZOhYTHZq_owPyTKkI5r-pBhz5SHwzXRIJFrAZCrWzhABowFQzktOXyyLwuPRegDRGpq67sH_4Mo3qm4G8qrgQTeBGyDJfmO3f67DqXIYC5Jgd8qdMmZ2RuNgudICFs1VowuySZcpUQX7bLUxmTwThn6PvgGwP_Fz-g0" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=-CuItUGshhmpBo6mF6g-VVwiulMCq58jQyDUJJvqub_KC6i6UHO27PK_MbenGZQZ0" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=T8SwZoIUcVlsmSB3yf6PNkJVVZ2PQ8p--nTz9Md1n41qhmjq9cVcCRrcwBINHciwCEetSuYYf_jH7oMFsCtcC6s4hdtGkPbFWZytmnLLgHpj_0dSTX39tZBB1aAru7C70&amp;t=349c8b5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=T8SwZoIUcVlsmSB3yf6PNkJVVZ2PQ8p--nTz9Md1n42imnukgs74Sdl69IQ2VisS94jNgggdh1E4XjQn2Qp1AQB1E_DJrZ62LtM4XvkxpcOi908TR-xiubxkxg-ox8JT0&amp;t=349c8b5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=T8SwZoIUcVlsmSB3yf6PNkJVVZ2PQ8p--nTz9Md1n41PlLp8ytIc9FKYL9bW0gFP8n5N2hKC_S_XjXET-kJdbvVLh45iH7DOhXKOBAo8VbI1&amp;t=349c8b5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=T8SwZoIUcVlsmSB3yf6PNkJVVZ2PQ8p--nTz9Md1n41lsxASEuiNFsffqtDHT9cyyMUv2aHx8kc2kR3tj5Y2sX35Sf7BVjRKCXUfYcin7mI1&amp;t=349c8b5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=T8SwZoIUcVlsmSB3yf6PNkJVVZ2PQ8p--nTz9Md1n43yyT4MAC3vXOXV-U1I6OMgKBzZGBfZL-l3O5Mw7l9x_Ow4UgpO1pe63jI_7eo86O01&amp;t=349c8b5" type="text/javascript"></script>
+    
+    
+    <div id="MasterContainer">
+     <!-- Begin chat bar -->
+        <div style="width: 100%">
+        
+        </div>
+    <!-- End chat bar -->
+    
+        <div id="Container">
+            <div id="HeaderContainer">
+            
+    <div id="AdvertisingLeaderboard">
+        
+
+<div style="overflow: hidden;">
+    
+            <div id="ctl00_cphBannerAd_ItemBannerAd_OutsideAdPanel" class="AdPanel">
+	
+            <iframe id="ctl00_cphBannerAd_ItemBannerAd_AsyncAdIFrame" allowtransparency="true" frameborder="0" scrolling="no" height="90" src="/Ads/IFrameAdContent.aspx?v=2&amp;slot=Roblox_Item_Top_728x90&amp;format=banner&amp;v=2" width="728"></iframe>
+            
+</div>
+            <a id="ctl00_cphBannerAd_ItemBannerAd_ReportAdButton" title="click to report an offensive ad" class="BadAdButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphBannerAd$ItemBannerAd$ReportAdButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">[ report ]</a>
+        
+    
+
+</div>
+    </div>
+
+             
+            <div id="Header">
+                <div id="Banner">
+                    
+                            
+
+<div id="Options">
+	<div id="Authentication">
+		<span id="AuthenticationBannerSpan" style="width: 40px;">
+		    <a id="ctl00_BannerOptionsLoginView_BannerOptions_Anonymous_LoginHyperLink" href="/p/Login/Default.aspx">Login</a>
+		</span>
+	</div>
+	<div id="Settings"></div>
+</div>
+                            <a id="Logo" href="/p/Default.aspx" style="cursor: pointer; border: none;"></a>
+                        
+                    
+                            
+<div style="float: right; width: 203px;">
+    <a id="ctl00_BannerAlertsLoginView_BannerAlerts_Anonymous_rbxAlerts_SignupAndPlayHyperLink" class="SignUpAndPlay" Text="Sign-up and Play!" href="/p/Games.aspx" style="display:inline-block;cursor:pointer;"><img src="/images/Holiday3Button.png" border="0" onerror="return Roblox.Controls.Image.OnError(this)" blankUrl="/ext/t1bg.roblox.com/blank-210x40.gif" /></a>
+
+
+</div>
+
+                        
+                </div>
+                
+
+<script type="text/javascript" language="javascript">
+    function toggleDropDownNav()
+    {
+        if ($(".dropdownnavcontainer:visible").size() > 0)
+        {
+            $(".dropdownnavcontainer").hide();
+            $("#gamesMenuToggle").css("background-position", "0 0");
+        }
+        else
+        {
+            $(".dropdownnavcontainer").show();
+            $("#gamesMenuToggle").css("background-position", "0 -6px");
+        }
+    }
+</script>
+
+<div class="Navigation">
+    <div class="dropdownnavcontainer">
+        <div class="dropdownmainnav" style="z-index:1023;">
+            
+                    <div style="float: left; width: 50%; text-align: left;" onclick="window.location = '/all-games'">
+                        <img src="/images/GenreIconsInverted/Classic.png" />
+                        <a href='/all-games' title="All" style="padding: 0; margin: 0 2px 0 0; border: none; font-size: 15px;">All</a>
+                    </div>
+                
+                    <div style="float: left; width: 50%; text-align: left;" onclick="window.location = '/town-and-city-games'">
+                        <img src="/images/GenreIconsInverted/City.png" />
+                        <a href='/town-and-city-games' title="Town and City" style="padding: 0; margin: 0 2px 0 0; border: none; font-size: 15px;">Town and City</a>
+                    </div>
+                
+                    <div style="float: left; width: 50%; text-align: left;" onclick="window.location = '/medieval-games'">
+                        <img src="/images/GenreIconsInverted/Castle.png" />
+                        <a href='/medieval-games' title="Fantasy" style="padding: 0; margin: 0 2px 0 0; border: none; font-size: 15px;">Fantasy</a>
+                    </div>
+                
+                    <div style="float: left; width: 50%; text-align: left;" onclick="window.location = '/sci-fi-games'">
+                        <img src="/images/GenreIconsInverted/SciFi.png" />
+                        <a href='/sci-fi-games' title="Sci-Fi" style="padding: 0; margin: 0 2px 0 0; border: none; font-size: 15px;">Sci-Fi</a>
+                    </div>
+                
+                    <div style="float: left; width: 50%; text-align: left;" onclick="window.location = '/ninja-games'">
+                        <img src="/images/GenreIconsInverted/Ninja.png" />
+                        <a href='/ninja-games' title="Ninja" style="padding: 0; margin: 0 2px 0 0; border: none; font-size: 15px;">Ninja</a>
+                    </div>
+                
+                    <div style="float: left; width: 50%; text-align: left;" onclick="window.location = '/scary-games'">
+                        <img src="/images/GenreIconsInverted/Cthulu.png" />
+                        <a href='/scary-games' title="Scary" style="padding: 0; margin: 0 2px 0 0; border: none; font-size: 15px;">Scary</a>
+                    </div>
+                
+                    <div style="float: left; width: 50%; text-align: left;" onclick="window.location = '/pirate-games'">
+                        <img src="/images/GenreIconsInverted/Pirate.png" />
+                        <a href='/pirate-games' title="Pirate" style="padding: 0; margin: 0 2px 0 0; border: none; font-size: 15px;">Pirate</a>
+                    </div>
+                
+                    <div style="float: left; width: 50%; text-align: left;" onclick="window.location = '/adventure-games'">
+                        <img src="/images/GenreIconsInverted/Adventure.png" />
+                        <a href='/adventure-games' title="Adventure" style="padding: 0; margin: 0 2px 0 0; border: none; font-size: 15px;">Adventure</a>
+                    </div>
+                
+                    <div style="float: left; width: 50%; text-align: left;" onclick="window.location = '/sports-games'">
+                        <img src="/images/GenreIconsInverted/Sports.png" />
+                        <a href='/sports-games' title="Sports" style="padding: 0; margin: 0 2px 0 0; border: none; font-size: 15px;">Sports</a>
+                    </div>
+                
+                    <div style="float: left; width: 50%; text-align: left;" onclick="window.location = '/funny-games'">
+                        <img src="/images/GenreIconsInverted/LOL.png" />
+                        <a href='/funny-games' title="Funny" style="padding: 0; margin: 0 2px 0 0; border: none; font-size: 15px;">Funny</a>
+                    </div>
+                
+                    <div style="float: left; width: 50%; text-align: left;" onclick="window.location = '/wild-west-cowboy-games'">
+                        <img src="/images/GenreIconsInverted/WildWest.png" />
+                        <a href='/wild-west-cowboy-games' title="Wild West" style="padding: 0; margin: 0 2px 0 0; border: none; font-size: 15px;">Wild West</a>
+                    </div>
+                
+                    <div style="float: left; width: 50%; text-align: left;" onclick="window.location = '/war-games'">
+                        <img src="/images/GenreIconsInverted/ModernMilitary.png" />
+                        <a href='/war-games' title="War" style="padding: 0; margin: 0 2px 0 0; border: none; font-size: 15px;">War</a>
+                    </div>
+                
+                    <div style="float: left; width: 50%; text-align: left;" onclick="window.location = '/skatepark-games'">
+                        <img src="/images/GenreIconsInverted/Skatepark.png" />
+                        <a href='/skatepark-games' title="Skate Park" style="padding: 0; margin: 0 2px 0 0; border: none; font-size: 15px;">Skate Park</a>
+                    </div>
+                
+                    <div style="float: left; width: 50%; text-align: left;" onclick="window.location = '/gametutorials-games'">
+                        <img src="/images/GenreIconsInverted/Tutorial.gif" />
+                        <a href='/gametutorials-games' title="Tutorial" style="padding: 0; margin: 0 2px 0 0; border: none; font-size: 15px;">Tutorial</a>
+                    </div>
+                
+        </div>
+        <div class="dropdownmainnav" style="width:145px;border-left:0px;z-index:1023">
+            <div onclick="window.location = '/games.aspx'"><a href="/p/games.aspx" style="font-size:15px;"><b>Most Popular</b></a><br /></div>
+            <div onclick="window.location = '/games.aspx?m=TopFavorites'"><a href="/p/games.aspx" style="font-size:15px;">Top Favorites</a><br /></div>
+            <div onclick="window.location = '/games.aspx?m=RecentlyUpdated'"><a href="/p/games.aspx" style="font-size:15px;">Recently Updated</a><br /></div>
+            <div onclick="window.location = '/user.aspx?id=1'"><a href="/p/user.aspx" style="font-size:15px;">Featured Games</a><br /></div>
+            <div onclick="window.location = '/Catalog.aspx?m=TopFavorites&c=9&t=AllTime&d=All&q='"><a href="/p/Catalog.aspx" style="font-size:15px;">Search Games</a></div>
+        </div>
+    </div>
+    <ul id="ctl00_Menu_MenuUL">
+        
+                <li><a id="ctl00_Menu_hlMyRobloxLink_hlMyRoblox" href="/p/My/Home.aspx" style="">My ROBLOX</a></li>
+            
+       
+        <li class="gamesLink"><a id="hlGames" href="/p/Games.aspx" style="" title="Games">Games</a> <a id="gamesMenuToggle" onclick='toggleDropDownNav();' style="padding:0 2px;cursor:pointer;border:none;background:url(/images/topNav_arrow_white.png) no-repeat;height:6px;width:10px;display:inline-block;"></a></li>
+        <li><a id="hlCatalog" href="/p/Catalog.aspx" style="" title="Catalog">Catalog</a></li>
+        <li><a id="hlBrowse" href="/p/Browse.aspx" style="" title="People">People</a></li>
+        <li><a id="hlBuildersClub" href="/p/Upgrades/BuildersClub.aspx" style="" title="Builders Club">Builders Club</a></li>
+        <li id="ctl00_Menu_ContestsMenuTab"><a id="hlContests" href="/p/Contests/index.aspx" style="" title="Contests">Contests</a></li>
+        <li><a id="hlForum" onclick="" href="/p/Forum/Default.aspx" style="" title="Forum">Forum</a></li>
+        <li><a id="hlNews" href="http://blog.roblox.com/" target="_blank" title="News">News</a><a id="hlNewsFeed" href="http://blog.roblox.com/?feed=rss" title="RSS" class="icons rss_icon" style="padding: 0; margin: 0 4px 0 0; border: none;"></a> <a style="display:none;" id="h1Twitter" href="http://www.twitter.com/roblox" target="_blank" title="The ROBLOX Twitter Feed" class="icons twitter_icon" style="padding: 0; margin: 0 4px 0 0; border: none;"></a></li>
+        <li><a id="hlParents" href="/p/Parents.aspx" style="" title="Parents">Parents</a></li>
+        <li><a id="hlHelp" href="/p/Help/Builderman.aspx" style="" title="Help">Help</a></li>
+    </ul>
+</div>
+            </div>
+            </div>
+            
+            
+           
+            
+   
+           
+           
+            <div id="Body">
+                
+    <!-- The second set of script includes are for optimization (CompositeScript). The 'true' include is declared in PlaceLauncher.ascx -->
+    
+    
+    <div id="ItemContainer">
+        <div class="StandardBoxHeader" style="width: 709px;">
+            <span class="item-header">
+                <a id="ctl00_cphRoblox_FavoriteThisButton2" disabled="disabled" class="favoriteStar_20h tooltip" title="Add This to Your Favorites" style="background-position: 0px 0px;"></a>
+                <h1>
+                    Build, Roleplay and Fight III - Shard I
+                </h1>
+            </span>
+        </div>
+        <div id="Item" class="StandardBox" style="width: 709px;">
+            <div id="Details">
+                
+                        <div id="placeContainer">
+                            <div id="Thumbnail_Place">
+                                <a id="ctl00_cphRoblox_AssetThumbnailImage_Place" title="Build, Roleplay and Fight III - Shard I" onclick="var fn = function() { if (Roblox.Client.WaitForRoblox(function() { window.location = '/Login/Default.aspx?ReturnUrl=http%3a%2f%2fwww.roblox.com%2fitem.aspx%3fseoname%3dBuild-Roleplay-and-Fight-III-Shard-I%26id%3d18953144' })){tryToDownload('/install/setup.ashx'); logStatistics('playmp'); }return false; }; if (fn()) __doPostBack('ctl00$cphRoblox$AssetThumbnailImage_Place',''); else return false;" style="display:inline-block;cursor:pointer;"><img src="/ext/t6bg.roblox.com/16abff7ab84af59f9ded41392cf2197a" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="Build, Roleplay and Fight III - Shard I" /></a>
+                            </div>
+                            <div id="Actions_Place">
+                                <a id="ctl00_cphRoblox_FavoriteThisPlaceButton" disabled="disabled">Favorite</a>
+                            </div>
+                            <div id="ctl00_cphRoblox_PlayGames" class="PlayGames">
+                                <div class="PlaceInfoIcons">
+                                    
+<span class="PlaceAccessIndicator">
+    <span id="ctl00_cphRoblox_PlaceAccessIndicator_FriendsOnlyLocked" style="display: none">
+        <a class="iLocked tooltip" title="Private: Friends Only"></a><span class="rbx2hide">&nbsp;Friends-only</span></span>
+    <span id="ctl00_cphRoblox_PlaceAccessIndicator_FriendsOnlyUnlocked" style="display: none">
+        <a class="iUnlocked tooltip" title="Private: You Have Access"></a><span class="rbx2hide">&nbsp;Friends-only:
+        You have access</span></span>
+    <span id="ctl00_cphRoblox_PlaceAccessIndicator_Public" class="rbx2hide" style="display:inline;">
+            <a class="iPublic tooltip" title="Public: Anyone Can Play"></a><span class="rbx2hide">&nbsp;Public</span></span>
+    <span id="ctl00_cphRoblox_PlaceAccessIndicator_ExpiredSelf" style="display: none">
+        <a class="iLocked tooltip" title="Locked"></a>
+        <span class="rbx2hide">&nbsp;Your Turbo Builders Club or Builders Club membership has expired, so you can
+        only have one open place. Your places will not be deleted, and you can <a id="ctl00_cphRoblox_PlaceAccessIndicator_RBXLDownloadLink">download the RBXL here.</a> To unlock all of your places,
+        please <a href="/p/upgrades/buildersclub.aspx">re-order Turbo Builders Club or Builders
+            Club </a>.<br /></span>
+    </span>
+    <span id="ctl00_cphRoblox_PlaceAccessIndicator_ExpiredOther" style="display: none">
+        <a class="iLocked tooltip" title="Locked"></a>
+        <span class="rbx2hide">This place is locked because the creator's <a href="/p/upgrades/buildersclub.aspx">Builders
+            Club / Turbo Builders Club </a>has expired. </span></span>
+</span>
+                                    
+                                    
+                                    <a class="CopyLockedIcon tooltip" title="Copylocked"></a>
+                                    <span class="rbx2hide">Copy Protection: CopyLocked</span>
+                                    
+                                    
+                                    <a class="NoGearIcon tooltip" title="No Gear Allowed"></a>
+                                    <span class="rbx2hide">Gear Not Allowed</span>
+                                </div>
+                                <center>
+
+<div ID="PlaceLauncherStatusPanel" style="display: none; width: 300px">
+    <div class="modalPopup" style="margin: 1.5em; color: Black; padding: 10px">
+        <div id="Spinner" style="float:left;margin:0 1em 1em 0">
+            <img id="ctl00_cphRoblox_VisitButtons_rbxPlaceLauncher_Image1" src="/images/ProgressIndicator2.gif" alt="Progress" border="0" /></div>
+        <div id="Starting" style="display: inline">
+            Starting Roblox...</div>
+        <div id="Waiting" style="display: none">
+            Waiting for a server...</div>
+        <div id="Loading" style="display: none">
+            A server is loading the game...</div>
+        <div id="Joining" style="display: none">
+            The server is ready. Joining the game...</div>
+        <div id="Error" style="display: none">
+            An error occurred. Please try again later.</div>
+        <div id="Expired" style="display: none">
+            Joining games is temporarily disabled while we upgrade. Please try again soon.</div>
+        <div id="GameEnded" style="display: none">
+            The game you requested has ended.</div>
+        <div id="GameFull" style="display: none">
+            The game you requested is currently full. Waiting for an opening...</div>
+        <div id="Updating" style="display: none">
+            Roblox is updating. Please wait...</div>
+        <div id="Updated" style="display: none">
+            Requesting a server</div>
+       <div style="text-align: center; margin-top: 1em">
+            <input type="button" class="Button CancelPlaceLauncherButton" value="Cancel" />
+        </div>
+    </div>
+</div>
+
+
+
+<div id="InstallationInstructions"  class="modalPopup blueAndWhite" style="display: none;overflow:hidden;width:380px;" >
+       <div style="padding: 0px 0px 10px 0px; text-align:center;">
+        <div class="titleBar">
+        Installation Instructions
+        </div>
+        
+        <div id="CancelButton" onclick="return Roblox.Client._onCancel();" class="Button" style="width: 80px; margin: 0px auto;">Close Window</div>
+    </div>
+</div>
+<iframe id="downloadInstallerIFrame" src="" style="visibility:hidden; height: 0px">
+</iframe>
+
+<div id="pluginObjDiv" style="height: 0px">
+</div>
+
+
+<div id="ctl00_cphRoblox_VisitButtons_FancyButtons" style="overflow: hidden; width: 400px;">
+	
+    <div id="ctl00_cphRoblox_VisitButtons_VisitMPButton" style="display: inline; width: 10px;">
+        <a id="ctl00_cphRoblox_VisitButtons_MultiplayerVisitButton" class="ImageButton MultiplayerVisit" onclick="$('#ctl00_cphRoblox_VisitButtons_ClientInstaller').click(); $('#GuestModePrompt').modal({escClose: true, opacity: 80, overlayCss: { backgroundColor: &quot;#000&quot; }}); return false; "></a>
+    </div>
+    
+    
+    
+
+</div>
+<script language="javascript">    
+    function redirectPlaceLauncherToLogin() {
+        var baseLoginString = "/login/default.aspx?ReturnUrl=";
+        var returnUrl = "/item.aspx?seoname=Build-Roleplay-and-Fight-III-Shard-I&id=18953144";
+        returnUrl = encodeURIComponent(returnUrl);
+        location.href = baseLoginString + returnUrl;
+    }
+
+    $(function() {
+        if (Roblox.Client.isIDE())
+            $('#ctl00_cphRoblox_VisitButtons_EditButton').show();
+    });
+</script>
+
+<style type="text/css">
+    .VisitButton
+    {
+        float: left;
+    }
+    .VisitRow
+    {
+        
+    }
+    .VisitDivText
+    {
+        float: right;
+        width: 490px;
+        text-align: left;
+    }
+    .VisitDivSpacer
+    {
+        clear: both;
+        height: 10px;
+    }
+</style>
+
+<div ID="GuestModePrompt" style="display: none; width: 740px" class="modalPopup">
+    <div ID="GuestDialog" style="margin: 1.5em">
+        <div style="margin-top: 1em">
+            <div style="text-align: center; margin-bottom: 10px; color: Green">You are not currently logged in. What would you like to do?</div>
+            <div class="VisitDivSpacer"></div>
+            <div id="ctl00_cphRoblox_VisitButtons_PlayAsGuestMPButtonDiv" class="VisitRow">
+			    <div class="VisitButton">
+			        <input name="ctl00$cphRoblox$VisitButtons$PlayAsGuestMPButton" type="button" id="ctl00_cphRoblox_VisitButtons_PlayAsGuestMPButton" class="MediumButton" style="width: 200px" value="Play as Guest" onclick="$.modal.close('#GuestModePrompt'); if (Roblox.Client.WaitForRoblox(function() { RobloxLaunch.RequestGame('PlaceLauncherStatusPanel', 18953144) })) { tryToDownload('/install/setup.ashx'); logStatistics('playasguestmp'); } return false;  " /> 
+			    </div>
+			    <div class="VisitDivText">Play away. But: You will not collect any free tickets for playing. You can not save
+                    high scores nor receive badges. Only few people choose ‘Play as Guest’ .</div>
+			    <div class="VisitDivSpacer"></div>
+			</div>
+			<div class="VisitRow">
+			    <div class="VisitButton">
+			        <input name="ctl00$cphRoblox$VisitButtons$CreateAccountButton" type="button" id="ctl00_cphRoblox_VisitButtons_CreateAccountButton" class="MediumButtonSignup" onclick="window.location='login/newage.aspx'" style="width: 200px; cursor: pointer" value="Create an Account" />
+			    </div>
+			    <div class="VisitDivText">It’s FREE. Collect tickets every time you play. Trade them for cool stuff.  Track scores and get a free online profile + a free ‘world’. Most people choose this option.</div>
+			    <div class="VisitDivSpacer"></div>
+			</div>
+			<div class="VisitRow">
+			    <div class="VisitButton">
+			        <input name="ctl00$cphRoblox$VisitButtons$LoginButton" type="button" id="ctl00_cphRoblox_VisitButtons_LoginButton" class="MediumButton" onclick="redirectPlaceLauncherToLogin();return false;" style="width: 200px" value="Log in" />
+			    </div>
+			    <div class="VisitDivText">Have an account, why start from scratch? Log in to see your place, your profile and meet your friends.</div>
+			    <div class="VisitDivSpacer"></div>
+            </div>
+			<div class="VisitRow">
+                <div class="VisitButton">
+                    <input type="button" class="MediumButton simplemodal-close" style="width: 200px;" value="Cancel" />
+			    </div>
+			    <div class="VisitDivText">Wrong click? Go back.</div>
+			    <div class="VisitDivSpacer"></div>
+			</div>
+        </div>
+    </div>
+</div></center>
+                                
+                            </div>
+                            
+                            
+                        </div>
+                    
+                <!-- details -->
+                <div id="Summary" style="float: right;">
+                    <h3>
+                        ROBLOX Place
+                    </h3>
+                    <div>
+                    <b></b>
+                    
+                    
+                    
+                    <div class="clear"></div>
+                    </div>
+                    <!-- timer -->
+                    
+                    <div id="Creator" class="Creator section">
+                        <div class="Avatar">
+                            
+                            <a id="ctl00_cphRoblox_AvatarImage" class="tooltip-right" title="Vikatikki" href="/p/User.aspx" style="display:inline-block;cursor:pointer;"><img src="/ext/t7bg.roblox.com/33726b6679ab7643713445cc48cd2d61" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="Vikatikki" blankUrl="/ext/t6bg.roblox.com/blank-100x100.gif" /></a>
+                        </div>
+                        <span class="label creator-name">Creator:</span>
+                        <a id="ctl00_cphRoblox_CreatorHyperLink" href="/p/User.aspx">Vikatikki</a>
+                    </div>
+                    <div class="item-detail">
+                        <div>
+                            <span class="label">Created:</span>
+                            12/7/2009
+                        </div>
+                        <div id="LastUpdate">
+                            <span class="label">Updated:</span>
+                            1 month ago</div>
+                        <div id="Favorited">
+                            <span class="label">Favorited:</span>
+                            11,526 times</div>
+                        
+                        
+                        <div id="ctl00_cphRoblox_VisitedPanel" class="Visited">
+                            <span class="label">Visited:</span>
+                            295,669 times
+                        </div>
+                    </div>
+                    <div id="Genres" class="box section">
+                        <div id="ctl00_cphRoblox_Genres">
+	
+                            <div class="head label">Genres:</div>
+                            <div class="body">
+                                
+                                
+                                
+                                
+                                <div id="ctl00_cphRoblox_Panel2">
+		
+                                    <img id="ctl00_cphRoblox_Image5" class="GamesInfoIcon" src="/images/GenreIcons/Castle.png" alt="Fantasy" border="0" />
+                                    <a href="/p/medieval-games">Fantasy</a>
+                                
+	</div>
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                            </div>
+                        
+</div>
+                    </div>
+                    <div id="ctl00_cphRoblox_GearAttributes" class="box section">
+	
+                        <div style="margin-top: 5px; margin-bottom: 5px;">
+                            <div class="head label">Allowed Gear Types:</div>
+                            <div class="body">
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            </div>
+                        </div>
+                    
+</div>
+                    
+                    <div id="ctl00_cphRoblox_DescriptionPanel" class="box section">
+	
+                        <div class="head label">
+                            Description:</div>
+                        <div class="Description body">
+                            Votekick added. Say &quot;vote playername&quot; to vote for someone to be kicked. Requires ~2/3 of a server to kick. Shard One has default chat options and roleplaying is suggested but not enforced. Rules: No deleting, mass copying, spamming, spawnkilling, or teamkilling unless accepted in roleplay storyline. No skypaths, seapaths, flying glitch and so on. Report hackers/exploiters, and ask everyone to do so. For the roleplay-only shard, go to the second page of my profile.</div>
+                    
+</div>
+                    
+                        
+                    
+                    <div class="ReportAbuse">
+                        <div id="ctl00_cphRoblox_AbuseReportButton1_AbuseReportPanel" class="ReportAbusePanel">
+	
+    <span class="AbuseIcon"><a id="ctl00_cphRoblox_AbuseReportButton1_ReportAbuseIconHyperLink" href="AbuseReport/Asset.aspx?ID=18953144&amp;RedirectUrl=http%3a%2f%2fwww.roblox.com%2fitem.aspx%3fseoname%3dBuild-Roleplay-and-Fight-III-Shard-I%26id%3d18953144"><img src="/images/abuse.PNG" alt="Report Abuse" border="0" /></a></span>
+    <span class="AbuseButton"><a id="ctl00_cphRoblox_AbuseReportButton1_ReportAbuseTextHyperLink" href="AbuseReport/Asset.aspx?ID=18953144&amp;RedirectUrl=http%3a%2f%2fwww.roblox.com%2fitem.aspx%3fseoname%3dBuild-Roleplay-and-Fight-III-Shard-I%26id%3d18953144">Report Abuse</a></span>
+
+</div>
+                    </div>
+                    
+                </div>
+                
+                
+                 
+                <div class="clear">
+                </div>
+            </div>
+            
+            
+            <div style="margin-top: 10px;">
+                <div>
+                    
+<div class="StandardTabWhite"><span>Recommendations</span></div>
+<div class="StandardBoxWhite">
+    <div style="font-size: x-small;">Here are some other free games that we think you might like.</div>
+    <table id="ctl00_cphRoblox_AssetRec_dlAssets" cellspacing="0" align="Center" border="0" height="200" width="600">
+	<tr>
+		<td>
+            <div class="PortraitDiv" style="width: 140px; height: 190px; overflow: hidden;" visible="False">
+                <div class="AssetThumbnail">
+                    <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl00_AssetThumbnailHyperLink" title="Desert Warfare" href="/Desert-Warfare-item?id=281944" style="display:inline-block;cursor:pointer;"><img src="/ext/t5bg.roblox.com/5d9de89598b78b292a7286020960fdda" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="Desert Warfare" /></a>
+                </div>
+                <div class="AssetDetails" style="height:90px;">
+                    <div class="AssetName">
+                        <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl00_AssetNameHyperLinkPortrait" href="/Desert-Warfare-item?id=281944">Desert Warfare</a>
+                    </div>
+                    <div class="AssetCreator">
+                        <span class="Label">Creator:</span> <span class="Detail"><a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl00_CreatorHyperLinkPortrait" href="/p/User.aspx">sparttan</a></span>
+                    </div>
+                </div>
+            </div>
+        </td><td>
+            <div class="PortraitDiv" style="width: 140px; height: 190px; overflow: hidden;" visible="False">
+                <div class="AssetThumbnail">
+                    <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl01_AssetThumbnailHyperLink" title="Original Cops Vs. Robbers" href="/p/Original-Cops-Vs-Robbers-item" style="display:inline-block;cursor:pointer;"><img src="/ext/t4bg.roblox.com/a373acb4e6319d35db50535d625310c7" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="Original Cops Vs. Robbers" /></a>
+                </div>
+                <div class="AssetDetails" style="height:90px;">
+                    <div class="AssetName">
+                        <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl01_AssetNameHyperLinkPortrait" href="/p/Original-Cops-Vs-Robbers-item">Original Cops Vs. Robbers</a>
+                    </div>
+                    <div class="AssetCreator">
+                        <span class="Label">Creator:</span> <span class="Detail"><a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl01_CreatorHyperLinkPortrait" href="/p/User.aspx">Iceman629</a></span>
+                    </div>
+                </div>
+            </div>
+        </td><td>
+            <div class="PortraitDiv" style="width: 140px; height: 190px; overflow: hidden;" visible="False">
+                <div class="AssetThumbnail">
+                    <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl02_AssetThumbnailHyperLink" title="Heli-Wars: Winter Mayhem (NO VIP)" href="/p/Heli-Wars-Winter-Mayhem-NO-VIP-item" style="display:inline-block;cursor:pointer;"><img src="/ext/t4bg.roblox.com/3bbe648315a6182cf79d9069ab9fefe7" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="Heli-Wars: Winter Mayhem (NO VIP)" /></a>
+                </div>
+                <div class="AssetDetails" style="height:90px;">
+                    <div class="AssetName">
+                        <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl02_AssetNameHyperLinkPortrait" href="/p/Heli-Wars-Winter-Mayhem-NO-VIP-item">Heli-Wars: Winter Mayhem (NO VIP)</a>
+                    </div>
+                    <div class="AssetCreator">
+                        <span class="Label">Creator:</span> <span class="Detail"><a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl02_CreatorHyperLinkPortrait" href="/p/User.aspx">DrewsomeB</a></span>
+                    </div>
+                </div>
+            </div>
+        </td>
+	</tr><tr>
+		<td>
+            <div class="PortraitDiv" style="width: 140px; height: 190px; overflow: hidden;" visible="False">
+                <div class="AssetThumbnail">
+                    <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl03_AssetThumbnailHyperLink" title="The Tales Of Range's Cape - Suniros Event!" href="/The-Tales-Of-Ranges-Cape-Suniros-Event-item?id=5348734" style="display:inline-block;cursor:pointer;"><img src="/ext/t5bg.roblox.com/4450c23124fec4879108ca0b93bc2099" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="The Tales Of Range's Cape - Suniros Event!" /></a>
+                </div>
+                <div class="AssetDetails" style="height:90px;">
+                    <div class="AssetName">
+                        <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl03_AssetNameHyperLinkPortrait" href="/The-Tales-Of-Ranges-Cape-Suniros-Event-item?id=5348734">The Tales Of Range's Cape - Suniros Event!</a>
+                    </div>
+                    <div class="AssetCreator">
+                        <span class="Label">Creator:</span> <span class="Detail"><a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl03_CreatorHyperLinkPortrait" href="/p/User.aspx">RangeMeludE</a></span>
+                    </div>
+                </div>
+            </div>
+        </td><td>
+            <div class="PortraitDiv" style="width: 140px; height: 190px; overflow: hidden;" visible="False">
+                <div class="AssetThumbnail">
+                    <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl04_AssetThumbnailHyperLink" title="Solar Conquest (Planes Fixed!) [ReadDesc.]" href="/Solar-Conquest-Planes-Fixed-ReadDesc-item?id=4783435" style="display:inline-block;cursor:pointer;"><img src="/ext/t1bg.roblox.com/2c21946a517720bd3b318822ed284c4e" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="Solar Conquest (Planes Fixed!) [ReadDesc.]" /></a>
+                </div>
+                <div class="AssetDetails" style="height:90px;">
+                    <div class="AssetName">
+                        <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl04_AssetNameHyperLinkPortrait" href="/Solar-Conquest-Planes-Fixed-ReadDesc-item?id=4783435">Solar Conquest (Planes Fixed!) [ReadDesc.]</a>
+                    </div>
+                    <div class="AssetCreator">
+                        <span class="Label">Creator:</span> <span class="Detail"><a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl04_CreatorHyperLinkPortrait" href="/p/User.aspx">cocoawarrior</a></span>
+                    </div>
+                </div>
+            </div>
+        </td><td>
+            <div class="PortraitDiv" style="width: 140px; height: 190px; overflow: hidden;" visible="False">
+                <div class="AssetThumbnail">
+                    <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl05_AssetThumbnailHyperLink" title="~Original Five-Star Resort!~" href="/Original-Five-Star-Resort-item?id=308396" style="display:inline-block;cursor:pointer;"><img src="/ext/t0bg.roblox.com/d1c5d47cfcced4247fdd69835891b582" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="~Original Five-Star Resort!~" /></a>
+                </div>
+                <div class="AssetDetails" style="height:90px;">
+                    <div class="AssetName">
+                        <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl05_AssetNameHyperLinkPortrait" href="/Original-Five-Star-Resort-item?id=308396">~Original Five-Star Resort!~</a>
+                    </div>
+                    <div class="AssetCreator">
+                        <span class="Label">Creator:</span> <span class="Detail"><a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl05_CreatorHyperLinkPortrait" href="/p/User.aspx">wierdoking</a></span>
+                    </div>
+                </div>
+            </div>
+        </td>
+	</tr>
+</table>
+    
+</div>
+                </div>
+            </div>
+            <div style="width: 703px; color: #000000; margin-bottom: 10px;">
+                <a name="tabRegion">&nbsp;</a>
+                <div id="ctl00_cphRoblox_TabbedInfo" class="tab_white_31h_container">
+	<div id="ctl00_cphRoblox_TabbedInfo_header">
+		<span id="__tab_ctl00_cphRoblox_TabbedInfo_GamesTab">
+                            <h3 class="ajax_tab_label">
+                                Games</h3>
+                        </span><span id="__tab_ctl00_cphRoblox_TabbedInfo_CommentaryTab">
+                            <h3 class="ajax_tab_label">
+                                Commentary</h3>
+                        </span>
+	</div><div id="ctl00_cphRoblox_TabbedInfo_body">
+		<div id="ctl00_cphRoblox_TabbedInfo_GamesTab" style="display:none;">
+			
+                            <div id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesUpdatePanel">
+				
+                                    
+                                    
+                                            <table>
+                                                
+                                            
+                                            <tr class="">
+                                                <td valign="top" width="180px">
+                                                    <p>
+                                                        
+                                                        <img id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl0_ctl00_SlowImage" src="/images/Games/slow.png" alt="This game is running slowly. Try playing a different game" border="0" />
+                                                        Slow game
+                                                        <br />
+                                                        <br />
+                                                        <a onclick="window.location = '/Login/Default.aspx?ReturnUrl=http%3a%2f%2fwww.roblox.com%2fitem.aspx%3fseoname%3dBuild-Roleplay-and-Fight-III-Shard-I%26id%3d18953144'; return false;" id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl0_ctl00_JoinButton" class="Button" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$TabbedInfo$GamesTab$RunningGamesListView$ctrl0$ctl00$JoinButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Join</a>&nbsp;
+                                                        <br />
+                                                        
+                                                    </p>
+                                                    <br />
+                                                </td>
+                                                <td valign="top">
+                                                    
+                                                            <a id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl0_ctl00_PlayersRepeater_ctl00_PlayerImage1" disabled="disabled" title="yomenyor" href="/p/User.aspx" style="display:inline-block;"><img src="/ext/t3bg.roblox.com/c6243b3961d81b899a1334de56d3d908" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="yomenyor" /></a>
+                                                            
+                                                            
+                                                        
+                                                            <a id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl0_ctl00_PlayersRepeater_ctl01_PlayerImage1" disabled="disabled" title="elias9000" href="/p/User.aspx" style="display:inline-block;"><img src="/ext/t3bg.roblox.com/38225f98641ebb62362b3e0b7b88b1ff" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="elias9000" /></a>
+                                                            
+                                                            
+                                                        
+                                                            <a id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl0_ctl00_PlayersRepeater_ctl02_PlayerImage1" disabled="disabled" title="TimeBomb424" href="/p/User.aspx" style="display:inline-block;"><img src="/ext/t2bg.roblox.com/c9948c41e84c822b67e3d27933ecc428" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="TimeBomb424" /></a>
+                                                            
+                                                            
+                                                        
+                                                            <a id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl0_ctl00_PlayersRepeater_ctl03_PlayerImage1" disabled="disabled" title="lumen78" href="/p/User.aspx" style="display:inline-block;"><img src="/ext/t1bg.roblox.com/04364e4672e931e9e21497496001649f" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="lumen78" /></a>
+                                                            
+                                                            
+                                                        
+                                                            <a id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl0_ctl00_PlayersRepeater_ctl04_PlayerImage1" disabled="disabled" title="UnderstoodPuma" href="/p/User.aspx" style="display:inline-block;"><img src="/ext/t4bg.roblox.com/aa87f2306b19c852415375313c29fa84" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="UnderstoodPuma" /></a>
+                                                            
+                                                            
+                                                        
+                                                            <a id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl0_ctl00_PlayersRepeater_ctl05_PlayerImage1" disabled="disabled" title="KingPayton1234" href="/p/User.aspx" style="display:inline-block;"><img src="/ext/t0bg.roblox.com/a58f6653708e0cad2b65c8d2eaefaaf8" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="KingPayton1234" /></a>
+                                                            
+                                                            
+                                                        
+                                                            <a id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl0_ctl00_PlayersRepeater_ctl06_PlayerImage1" disabled="disabled" title="kiokenx10" href="/p/User.aspx" style="display:inline-block;"><img src="/ext/t3bg.roblox.com/8e25c46608ef95f0056d30bfb4ea18d7" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="kiokenx10" /></a>
+                                                            
+                                                            
+                                                        
+                                                            <a id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl0_ctl00_PlayersRepeater_ctl07_PlayerImage1" disabled="disabled" title="ShaunAnthony" href="/p/User.aspx" style="display:inline-block;"><img src="/ext/t1bg.roblox.com/7432efeefa23b17b120ffc7927aac1ce" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="ShaunAnthony" /></a>
+                                                            
+                                                            
+                                                        
+                                                    <br />
+                                                </td>
+                                            </tr>
+                                        
+                                        
+                                            
+                                            <tr class="">
+                                                <td valign="top" width="180px">
+                                                    <p>
+                                                        
+                                                        <img id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl1_ctl00_SlowImage" src="/images/Games/slow.png" alt="This game is running slowly. Try playing a different game" border="0" />
+                                                        Slow game
+                                                        <br />
+                                                        <br />
+                                                        <a onclick="window.location = '/Login/Default.aspx?ReturnUrl=http%3a%2f%2fwww.roblox.com%2fitem.aspx%3fseoname%3dBuild-Roleplay-and-Fight-III-Shard-I%26id%3d18953144'; return false;" id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl1_ctl00_JoinButton" class="Button" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$TabbedInfo$GamesTab$RunningGamesListView$ctrl1$ctl00$JoinButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Join</a>&nbsp;
+                                                        <br />
+                                                        
+                                                    </p>
+                                                    <br />
+                                                </td>
+                                                <td valign="top">
+                                                    
+                                                            <a id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl1_ctl00_PlayersRepeater_ctl00_PlayerImage1" disabled="disabled" title="albinomouse" href="/p/User.aspx" style="display:inline-block;"><img src="/ext/t4bg.roblox.com/fb9beca5b019eaedecafc6c154810942" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="albinomouse" /></a>
+                                                            
+                                                            
+                                                        
+                                                            <a id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl1_ctl00_PlayersRepeater_ctl01_PlayerImage1" disabled="disabled" title="switchinfeet4205" href="/p/User.aspx" style="display:inline-block;"><img src="/ext/t4bg.roblox.com/eff65a80ba75b2f6f17871e1cdf9b544" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="switchinfeet4205" /></a>
+                                                            
+                                                            
+                                                        
+                                                            <a id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl1_ctl00_PlayersRepeater_ctl02_PlayerImage1" disabled="disabled" title="FEJK" href="/p/User.aspx" style="display:inline-block;"><img src="/ext/t0bg.roblox.com/9b782c4d7314ced44d3641f104f647e8" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="FEJK" /></a>
+                                                            
+                                                            
+                                                        
+                                                            <a id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl1_ctl00_PlayersRepeater_ctl03_PlayerImage1" disabled="disabled" title="wackamack1" href="/p/User.aspx" style="display:inline-block;"><img src="/ext/t0bg.roblox.com/8ac2a7d99aca2f5e819cd65f7c7cfddf" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="wackamack1" /></a>
+                                                            
+                                                            
+                                                        
+                                                            <a id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl1_ctl00_PlayersRepeater_ctl04_PlayerImage1" disabled="disabled" title="dennis4396" href="/p/User.aspx" style="display:inline-block;"><img src="/ext/t0bg.roblox.com/33ec81de1686d16c1dd4f69f89a2532d" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="dennis4396" /></a>
+                                                            
+                                                            
+                                                        
+                                                            <a id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl1_ctl00_PlayersRepeater_ctl05_PlayerImage1" disabled="disabled" title="speedylugia" href="/p/User.aspx" style="display:inline-block;"><img src="/ext/t7bg.roblox.com/0102eb035a7e23b2113a9c104346354f" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="speedylugia" /></a>
+                                                            
+                                                            
+                                                        
+                                                            <a id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl1_ctl00_PlayersRepeater_ctl06_PlayerImage1" disabled="disabled" title="siriusblackk" href="/p/User.aspx" style="display:inline-block;"><img src="/ext/t6bg.roblox.com/d9b1fdc52bc56e567237b6c68809e22a" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="siriusblackk" /></a>
+                                                            
+                                                            
+                                                        
+                                                    <br />
+                                                </td>
+                                            </tr>
+                                        
+                                        
+                                            
+                                            <tr class="">
+                                                <td valign="top" width="180px">
+                                                    <p>
+                                                        
+                                                        <img id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl2_ctl00_SlowImage" src="/images/Games/slow.png" alt="This game is running slowly. Try playing a different game" border="0" />
+                                                        Slow game
+                                                        <br />
+                                                        <br />
+                                                        <a onclick="window.location = '/Login/Default.aspx?ReturnUrl=http%3a%2f%2fwww.roblox.com%2fitem.aspx%3fseoname%3dBuild-Roleplay-and-Fight-III-Shard-I%26id%3d18953144'; return false;" id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl2_ctl00_JoinButton" class="Button" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$TabbedInfo$GamesTab$RunningGamesListView$ctrl2$ctl00$JoinButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Join</a>&nbsp;
+                                                        <br />
+                                                        
+                                                    </p>
+                                                    <br />
+                                                </td>
+                                                <td valign="top">
+                                                    
+                                                            <a id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl2_ctl00_PlayersRepeater_ctl00_PlayerImage1" disabled="disabled" title="Microbeanz16" href="/p/User.aspx" style="display:inline-block;"><img src="/ext/t3bg.roblox.com/7cd2d5befe2cfe63529c2f698a2261bf" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="Microbeanz16" /></a>
+                                                            
+                                                            
+                                                        
+                                                            <a id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl2_ctl00_PlayersRepeater_ctl01_PlayerImage1" disabled="disabled" title="Hanwalker2" href="/p/User.aspx" style="display:inline-block;"><img src="/ext/t4bg.roblox.com/bc5187f374bf795c566d9c8f694b79e4" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="Hanwalker2" /></a>
+                                                            
+                                                            
+                                                        
+                                                            <a id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl2_ctl00_PlayersRepeater_ctl02_PlayerImage1" disabled="disabled" title="Chingvel" href="/p/User.aspx" style="display:inline-block;"><img src="/ext/t3bg.roblox.com/812f1d6a69f8a5c60a456b099c89ceb9" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="Chingvel" /></a>
+                                                            
+                                                            
+                                                        
+                                                            <a id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl2_ctl00_PlayersRepeater_ctl03_PlayerImage1" disabled="disabled" title="Cravern" href="/p/User.aspx" style="display:inline-block;"><img src="/ext/t3bg.roblox.com/2be075a0fd02dea1dcf4b032f184bf9c" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="Cravern" /></a>
+                                                            
+                                                            
+                                                        
+                                                            <a id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl2_ctl00_PlayersRepeater_ctl04_PlayerImage1" disabled="disabled" title="letmein11new1" href="/p/User.aspx" style="display:inline-block;"><img src="/ext/t1bg.roblox.com/50dbc97c46085386bf5a823fc76004cc" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="letmein11new1" /></a>
+                                                            
+                                                            
+                                                        
+                                                            <a id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesListView_ctrl2_ctl00_PlayersRepeater_ctl05_PlayerImage1" disabled="disabled" title="wierdo10101" href="/p/User.aspx" style="display:inline-block;"><img src="/ext/t2bg.roblox.com/4b32c71f389469ab1afca22ac41dca7a" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="wierdo10101" /></a>
+                                                            
+                                                            
+                                                        
+                                                    <br />
+                                                </td>
+                                            </tr>
+                                        
+                                        
+                                            </table>
+                                        
+                                    <div class="FooterPager" class="alignCenter">
+                                        <span id="ctl00_cphRoblox_TabbedInfo_GamesTab_RunningGamesDataPager_Footer"><a disabled="disabled">First</a>&nbsp;<a disabled="disabled">Previous</a>&nbsp;<span>1</span>&nbsp;<a disabled="disabled">Next</a>&nbsp;<a disabled="disabled">Last</a>&nbsp;</span>
+                                    </div>
+                                    <div class="RefreshRunningGames">
+                                        <input type="submit" name="ctl00$cphRoblox$TabbedInfo$GamesTab$RefreshRunningGamesButton" value="Refresh" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$TabbedInfo$GamesTab$RefreshRunningGamesButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_cphRoblox_TabbedInfo_GamesTab_RefreshRunningGamesButton" class="Button" />
+                                    </div>
+                                
+			</div>
+                        
+		</div><div id="ctl00_cphRoblox_TabbedInfo_CommentaryTab" style="display:none;">
+			
+                            <div id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsUpdatePanel">
+				
+        <div class="CommentsContainer">
+            
+                    <h3>Comments (5814)</h3>
+                    <div id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl00_HeaderPagerPanel" class="HeaderPager">
+			            
+			            <span id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl00_HeaderPagerLabel">Page 1 of 582</span>
+			            <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl00_HeaderPageSelector_Next" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$TabbedInfo$CommentaryTab$CommentsPane$CommentsRepeater$ctl00$HeaderPageSelector_Next&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Next <span class="NavigationIndicators">&gt;&gt;</span></a>
+		            </div>
+		            <div class="Comments">
+                
+                    <div class="Comment">
+                        <div class="Commenter">
+                            <div class="Avatar">
+                                <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl01_AvatarImage" title="Tyleder" href="/p/User.aspx" style="display:inline-block;cursor:pointer;"><img src="/ext/t4bg.roblox.com/9ba3179b5b23807ddec216eff8f70f34" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="Tyleder" blankUrl="/ext/t6bg.roblox.com/blank-100x100.gif" /></a></div>
+                        </div>
+                        <div class="Post">
+                            <div class="Audit">
+                                Posted
+                                3 hours ago
+                                by
+                                <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl01_UsernameHyperLink" href="/p/User.aspx">Tyleder</a>
+                            </div>
+                            <div class="Content">really good game 4/5 actully sometimes 5/5 but the 4 is because of noobs (tkers, spammers, ect.)</div>
+                            
+                        </div>
+                        <div style="clear: both;"></div>
+                    </div>
+                
+                    <div class="AlternateComment">
+                        <div class="Commenter">
+                            <div class="Avatar">
+                                <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl02_AvatarImage" title="Nancydrew462" href="/p/User.aspx" style="display:inline-block;cursor:pointer;"><img src="/ext/t7bg.roblox.com/1d3956d0bcef875c30f418da73acc98b" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="Nancydrew462" blankUrl="/ext/t6bg.roblox.com/blank-100x100.gif" /></a></div>
+                        </div>
+                        <div class="Post">
+                            <div class="Audit">
+                                Posted
+                                9 hours ago
+                                by
+                                <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl02_UsernameHyperLink" href="/p/User.aspx">Nancydrew462</a>
+                            </div>
+                            <div class="Content">i reaaly likes the first one and i hope this on is just as good</div>
+                            
+                        </div>
+                        <div style="clear: both;"></div>
+                    </div>
+                
+                    <div class="Comment">
+                        <div class="Commenter">
+                            <div class="Avatar">
+                                <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl03_AvatarImage" title="jagoan" href="/p/User.aspx" style="display:inline-block;cursor:pointer;"><img src="/ext/t3bg.roblox.com/6fbda0beec4f2eaf2e900bcde125f853" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="jagoan" blankUrl="/ext/t6bg.roblox.com/blank-100x100.gif" /></a></div>
+                        </div>
+                        <div class="Post">
+                            <div class="Audit">
+                                Posted
+                                10 hours ago
+                                by
+                                <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl03_UsernameHyperLink" href="/p/User.aspx">jagoan</a>
+                            </div>
+                            <div class="Content">do u like RPG?<br />do u like DragonFable?<br />come to my place if u like DragonFable RPG!!!</div>
+                            
+                        </div>
+                        <div style="clear: both;"></div>
+                    </div>
+                
+                    <div class="AlternateComment">
+                        <div class="Commenter">
+                            <div class="Avatar">
+                                <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl04_AvatarImage" title="uberness987" href="/p/User.aspx" style="display:inline-block;cursor:pointer;"><img src="/ext/t0bg.roblox.com/f32241e18de4f29004220795e1448bb0" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="uberness987" blankUrl="/ext/t6bg.roblox.com/blank-100x100.gif" /></a></div>
+                        </div>
+                        <div class="Post">
+                            <div class="Audit">
+                                Posted
+                                14 hours ago
+                                by
+                                <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl04_UsernameHyperLink" href="/p/User.aspx">uberness987</a>
+                            </div>
+                            <div class="Content">yes it does just have 75% of the server say:<br />vote Noobguy<br />make sure you have a capatial for the front of the name and say their HOLE name :P</div>
+                            
+                        </div>
+                        <div style="clear: both;"></div>
+                    </div>
+                
+                    <div class="Comment">
+                        <div class="Commenter">
+                            <div class="Avatar">
+                                <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl05_AvatarImage" title="Bear33" href="/p/User.aspx" style="display:inline-block;cursor:pointer;"><img src="/ext/t3bg.roblox.com/d23c9e9fb9264a8ad32adb76e692bb01" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="Bear33" blankUrl="/ext/t6bg.roblox.com/blank-100x100.gif" /></a></div>
+                        </div>
+                        <div class="Post">
+                            <div class="Audit">
+                                Posted
+                                15 hours ago
+                                by
+                                <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl05_UsernameHyperLink" href="/p/User.aspx">Bear33</a>
+                            </div>
+                            <div class="Content">the vote script dosent work!</div>
+                            
+                        </div>
+                        <div style="clear: both;"></div>
+                    </div>
+                
+                    <div class="AlternateComment">
+                        <div class="Commenter">
+                            <div class="Avatar">
+                                <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl06_AvatarImage" title="robloxunit1" href="/p/User.aspx" style="display:inline-block;cursor:pointer;"><img src="/ext/t0bg.roblox.com/7fb31b61fe1ca837d3e640a6874a6b68" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="robloxunit1" blankUrl="/ext/t6bg.roblox.com/blank-100x100.gif" /></a></div>
+                        </div>
+                        <div class="Post">
+                            <div class="Audit">
+                                Posted
+                                17 hours ago
+                                by
+                                <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl06_UsernameHyperLink" href="/p/User.aspx">robloxunit1</a>
+                            </div>
+                            <div class="Content">Vikatikkie the great this Vikatikki the god that,come on people theres plenty of robloxians like him.</div>
+                            
+                        </div>
+                        <div style="clear: both;"></div>
+                    </div>
+                
+                    <div class="Comment">
+                        <div class="Commenter">
+                            <div class="Avatar">
+                                <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl07_AvatarImage" title="erikrichboy" href="/p/User.aspx" style="display:inline-block;cursor:pointer;"><img src="/ext/t2bg.roblox.com/3b24d58dafdba8cf4c4cfd9b6ef476a2" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="erikrichboy" blankUrl="/ext/t6bg.roblox.com/blank-100x100.gif" /></a></div>
+                        </div>
+                        <div class="Post">
+                            <div class="Audit">
+                                Posted
+                                20 hours ago
+                                by
+                                <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl07_UsernameHyperLink" href="/p/User.aspx">erikrichboy</a>
+                            </div>
+                            <div class="Content">D:</div>
+                            
+                        </div>
+                        <div style="clear: both;"></div>
+                    </div>
+                
+                    <div class="AlternateComment">
+                        <div class="Commenter">
+                            <div class="Avatar">
+                                <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl08_AvatarImage" title="uberness987" href="/p/User.aspx" style="display:inline-block;cursor:pointer;"><img src="/ext/t0bg.roblox.com/f32241e18de4f29004220795e1448bb0" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="uberness987" blankUrl="/ext/t6bg.roblox.com/blank-100x100.gif" /></a></div>
+                        </div>
+                        <div class="Post">
+                            <div class="Audit">
+                                Posted
+                                1 day ago
+                                by
+                                <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl08_UsernameHyperLink" href="/p/User.aspx">uberness987</a>
+                            </div>
+                            <div class="Content">hi vik! HAVE MERCY D:</div>
+                            
+                        </div>
+                        <div style="clear: both;"></div>
+                    </div>
+                
+                    <div class="Comment">
+                        <div class="Commenter">
+                            <div class="Avatar">
+                                <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl09_AvatarImage" title="Vikatikki" href="/p/User.aspx" style="display:inline-block;cursor:pointer;"><img src="/ext/t7bg.roblox.com/33726b6679ab7643713445cc48cd2d61" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="Vikatikki" blankUrl="/ext/t6bg.roblox.com/blank-100x100.gif" /></a></div>
+                        </div>
+                        <div class="Post">
+                            <div class="Audit">
+                                Posted
+                                1 day ago
+                                by
+                                <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl09_UsernameHyperLink" href="/p/User.aspx">Vikatikki</a>
+                            </div>
+                            <div class="Content">@10lars10<br />&quot;None of the BRF-team name related accounts are made by me, and were made AFTER the BRF teams places were made. &quot;<br /><br />None of them are mine. You misread my blurb :u</div>
+                            
+                        </div>
+                        <div style="clear: both;"></div>
+                    </div>
+                
+                    <div class="AlternateComment">
+                        <div class="Commenter">
+                            <div class="Avatar">
+                                <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl10_AvatarImage" title="10lars10" href="/p/User.aspx" style="display:inline-block;cursor:pointer;"><img src="/ext/t4bg.roblox.com/9fce798a91a7d366f731a11d89574401" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="10lars10" blankUrl="/ext/t6bg.roblox.com/blank-100x100.gif" /></a></div>
+                        </div>
+                        <div class="Post">
+                            <div class="Audit">
+                                Posted
+                                2 days ago
+                                by
+                                <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl10_UsernameHyperLink" href="/p/User.aspx">10lars10</a>
+                            </div>
+                            <div class="Content">but vika says that all acounts related to an team name are his so that means vik has got a noob</div>
+                            
+                        </div>
+                        <div style="clear: both;"></div>
+                    </div>
+                
+                    </div>
+                    <div id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl11_FooterPagerPanel" class="FooterPager">
+			            
+			            <span id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl11_FooterPagerLabel">Page 1 of 582</span>
+			            <a id="ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl11_FooterPageSelector_Next" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$TabbedInfo$CommentaryTab$CommentsPane$CommentsRepeater$ctl11$FooterPageSelector_Next&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Next <span class="NavigationIndicators">&gt;&gt;</span></a>
+		            </div>
+                
+            
+            
+        </div>
+        <script type="text/javascript" language="javascript">
+            function limitText(limitField, limitNum)
+            {
+                if (limitField.value.length > limitNum) 
+                {
+                    limitField.value = limitField.value.substring(0, limitNum);
+                }
+                $('#CharsRemaining').html(Math.max(0, Math.min(200, limitNum - limitField.value.length)) + " characters remaining");
+            }
+        </script>   
+    
+			</div>
+
+                        
+		</div>
+	</div>
+</div>
+            </div>
+            
+            <div id="FreeGames">
+                <span><b>Other free games and items:</b></span><ul class='freegames' style='list-style: none; text-align: center;'><li style='display: inline; margin-right: 10px;'><a href='/granny9itanic5evas-Place-item?id=18953044' title='Free Games: granny9itanic5eva's Place'>granny9itanic5eva's Place</a></li><li style='display: inline; margin-right: 10px;'><a href='/levi001453s-Place-item?id=18953134' title='Free Games: levi001453's Place'>levi001453's Place</a></li><li style='display: inline; margin-right: 10px;'><a href='/My-club-shirt-item?id=18953143' title='Free Games: My club shirt'>My club shirt</a></li><li style='display: inline; margin-right: 10px;'><a href='/doorbell-item?id=18953145' title='Free Games: doorbell'>doorbell</a></li><li style='display: inline; margin-right: 10px;'><a href='/BRF-I-item?id=18953154' title='Free Games: BRF I'>BRF I</a></li><li style='display: inline; margin-right: 10px;'><a href='/feter123s-Place-item?id=18953244' title='Free Games: feter123's Place'>feter123's Place</a></li></ul><span><b>Other game genres you may like:</b></span><ul class='freegames' style='list-style: none; text-align: center;'><li style='display: inline; margin-right: 10px;'><a href='all-games' title='All games'>All games</a></li><li style='display: inline; margin-right: 10px;'><a href='town-and-city-games' title='Town and City games'>Town and City games</a></li><li style='display: inline; margin-right: 10px;'><a href='medieval-games' title='Fantasy games'>Fantasy games</a></li><li style='display: inline; margin-right: 10px;'><a href='sci-fi-games' title='Sci-Fi games'>Sci-Fi games</a></li></ul></div>
+        </div>
+        <div class="Ads_WideSkyscraper">
+            
+
+<div style="overflow: hidden;">
+    
+            <div id="ctl00_cphRoblox_adsWideSkyscraper_OutsideAdPanel" class="AdPanel">
+	
+            <iframe id="ctl00_cphRoblox_adsWideSkyscraper_AsyncAdIFrame" allowtransparency="true" frameborder="0" scrolling="no" height="600" src="/Ads/IFrameAdContent.aspx?v=2&amp;slot=Roblox_Item_Right_160x600&amp;format=skyscraper&amp;v=2" width="160"></iframe>
+            
+</div>
+            <a id="ctl00_cphRoblox_adsWideSkyscraper_ReportAdButton" title="click to report an offensive ad" class="BadAdButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$adsWideSkyscraper$ReportAdButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">[ report ]</a>
+        
+    
+
+</div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div id="ctl00_cphRoblox_ItemPurchasePopupPanel" class="modalPopup" style="display: none">
+	
+        <div id="ctl00_cphRoblox_ItemPurchasePopupUpdatePanel">
+		
+                
+            
+	</div>
+    
+</div>
+    <div id="ctl00_cphRoblox_SalePriceConfirmPopupPanel" class="modalPopup" style="display: none">
+	
+        <div id="ctl00_cphRoblox_UpdatePanel1">
+		
+                <div id="RobloxOffer">
+                    <h2>
+                        <font color="red">Warning!</font></h2>
+                    <p>
+                        You are trying to sell this item for <b>
+                            ERROR: No P2P offer price</b> ROBUX.</p>
+                    <p>
+                        This item normally sells for around <b>
+                            </b> ROBUX.</p>
+                    <p>
+                        If you want, ROBLOX will purchase this item from you instantly for <b>
+                            0</b> ROBUX.</p>
+                    <p>
+                        Minus marketplace fees, your profit would be: <b>
+                            ERROR: No P2P offer price</b> ROBUX</p>
+                    <p>
+                        <input type="submit" name="ctl00$cphRoblox$CancelAttemptedSale" value="Cancel Sale" onclick="$find('myBehavior2').hide();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$CancelAttemptedSale&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_cphRoblox_CancelAttemptedSale" class="MediumButton" /></p>
+                    <p>
+                        <input type="submit" name="ctl00$cphRoblox$SellItemToROBLOX" value="Sell to ROBLOX" onclick="document.getElementById('RobloxOffer').style.display = 'none';document.getElementById('ProcessROBLOXPurchase').style.display = 'block';WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$SellItemToROBLOX&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_cphRoblox_SellItemToROBLOX" class="MediumButton" /></p>
+                </div>
+                <div id="ProcessROBLOXPurchase">
+                    <div id="Div8" class="processingMgs">
+                        <img id="ctl00_cphRoblox_Image22" src="/images/ProgressIndicator2.gif" alt="Processing..." align="middle" border="0" />&nbsp&nbsp; Processing transaction
+                        ...
+                    </div>
+                </div>
+            
+	</div>
+    
+</div>
+    <input type="hidden" name="ctl00$cphRoblox$HiddenField1" id="ctl00_cphRoblox_HiddenField1" />
+    <input type="hidden" name="ctl00$cphRoblox$HiddenField2" id="ctl00_cphRoblox_HiddenField2" />
+    <input type="hidden" name="ctl00$cphRoblox$HiddenField3" id="ctl00_cphRoblox_HiddenField3" />
+    
+    
+
+
+
+
+
+
+<div id="ctl00_cphRoblox_CreateSetPanelDiv" class="createSetPanelPopup">
+	
+        
+      
+</div>
+
+    <script type="text/javascript" language="javascript">
+        function UpdateSets(assetSetItemId, updateAllSets)
+        {
+            $.get(
+                "/Sets/SetHandler.ashx?rqtype=getnewestversion&assetSetItemId=" + assetSetItemId + (updateAllSets ? "&allsets=true" : ""),
+                function()
+                {
+                    $('#ctl00_cphRoblox_UpdateSet').hide("slow");
+                    if (updateAllSets)
+                    {
+                        $('#ctl00_cphRoblox_updateSetsDiv').slideToggle("slow");
+                    }
+                });
+        }
+        $(document).ready(function()
+        {
+            $('.SetAddButton').click(function()
+            {
+                var assetId = $(this).parent().parent().attr('id').replace('setList_', '');
+                var setId = $(this).children('.setId')[0].value;
+                var setDivId = 'set_' + setId + '_' + assetId;
+                var imgId = "waiting" + setDivId;
+                $(setDivId).append("<img src='/images/spinners/spinner16x16.gif' id='" + imgId + "'");
+                $.ajax(
+                {
+                    type: "GET",
+                    async: true,
+                    cache: false,
+                    timeout: 50000,
+                    url: "/Sets/SetHandler.ashx?rqtype=addtoset&assetId=" + assetId + "&setId=" + setId,
+                    success: function(data)
+                    {
+                        if (data !== null)
+                        {
+                            // Remove that set from the list of available sets
+                            $('#' + setDivId).removeClass('SetAddButton');
+                            $('#' + setDivId).addClass('SetAddButtonAlreadyContainsItem');
+                            $('#' + setDivId).unbind('click');
+                            // Remove the spinner
+                            $('#' + imgId).remove();
+                        }
+                    },
+                    failure: function(data)
+                    {
+                        if (data !== null)
+                        {
+                            //alert("failure");
+                        }
+                    }
+                });
+            });
+        });
+	</script>  
+
+            </div>
+            
+<div id="Footer">
+    <div class="FooterNav">
+        <a id="ctl00_rbxFooter_PrivacyHyperLink" href="/p/info/Privacy.aspx"><b>Privacy Policy</b></a>
+        &nbsp;|&nbsp; 
+        <a id="ctl00_rbxFooter_AdvertiseHyperLink" href="http://sales.roblox.com">Advertise with Us</a>
+        &nbsp;|&nbsp; 
+        <a id="ctl00_rbxFooter_ContactHyperLink" href="/p/info/ContactUs.aspx">Contact Us</a>
+        &nbsp;|&nbsp;
+        <a id="ctl00_rbxFooter_AboutHyperLink" href="/p/info/About.aspx">About Us</a>
+        &nbsp;|&nbsp;
+        <a id="ctl00_rbxFooter_FreeGamesHyperLink" href="/p/FreeGames.aspx">Free Games</a>
+        &nbsp;|&nbsp;
+        <a id="ctl00_rbxFooter_JobsHyperLink" href="http://jobs.roblox.com">Jobs</a>
+    </div>
+    <div  class="FooterNav">
+        <div id="ctl00_rbxFooter_SEOGenreLinks" class="SEOGenreLinks"><a href='/town-and-city-games' title='Town and City Games'>Town and City</a>&nbsp;|&nbsp;<a href='/medieval-games' title='Fantasy Games'>Fantasy</a>&nbsp;|&nbsp;<a href='/sci-fi-games' title='Sci-Fi Games'>Sci-Fi</a>&nbsp;|&nbsp;<a href='/ninja-games' title='Ninja Games'>Ninja</a>&nbsp;|&nbsp;<a href='/scary-games' title='Scary Games'>Scary</a>&nbsp;|&nbsp;<a href='/pirate-games' title='Pirate Games'>Pirate</a>&nbsp;|&nbsp;<a href='/adventure-games' title='Adventure Games'>Adventure</a>&nbsp;|&nbsp;<a href='/sports-games' title='Sports Games'>Sports</a>&nbsp;|&nbsp;<a href='/funny-games' title='Funny Games'>Funny</a>&nbsp;|&nbsp;<a href='/wild-west-cowboy-games' title='Wild West Games'>Wild West</a>&nbsp;|&nbsp;<a href='/war-games' title='War Games'>War</a>&nbsp;|&nbsp;<a href='/skatepark-games' title='Skate Park Games'>Skate Park</a>&nbsp;|&nbsp;<a href='/gametutorials-games' title='Tutorial Games'>Tutorial</a></div>
+    </div>
+    <p class="Legalese">
+        ROBLOX, "Online Building Toy", characters, logos, names, and all related indicia are trademarks of <a id="ctl00_rbxFooter_hlRobloxCorporation" href="/p/info/About.aspx">ROBLOX Corporation</a>, ©2010. Patents pending.
+        <br />
+        ROBLOX is not sponsored, authorized or endorsed by any producer of plastic building bricks, including The LEGO Group, MEGA Brands, and K'Nex,<br /> and no resemblance to the products of these companies is intended.<br />Use of this site signifies your acceptance of the <a id="ctl00_rbxFooter_hlTermsOfService" href="/p/info/TermsOfService.aspx">Terms and Conditions</a>.
+        <br />
+    </p>
+</div>
+   
+        </div>
+    </div>
+    
+    
+        
+        <script type="text/javascript">            </script>
+    
+
+    
+    
+ 
+    
+    
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {var fn = function() {Roblox.Client._LaunchGamePage = "/Install/Download.aspx";Sys.Application.remove_load(fn);};Sys.Application.add_load(fn);})();Roblox.Controls.Image.ErrorUrl = "http://www.roblox.com/Analytics/BadHtmlImage.ashx";Roblox.Controls.Image.IE6Hack($get('ctl00_BannerAlertsLoginView_BannerAlerts_Anonymous_rbxAlerts_SignupAndPlayHyperLink'));Roblox.Controls.Image.IE6Hack($get('ctl00_cphRoblox_AvatarImage'));Roblox.Controls.Image.IE6Hack($get('ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl01_AvatarImage'));Roblox.Controls.Image.IE6Hack($get('ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl02_AvatarImage'));Roblox.Controls.Image.IE6Hack($get('ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl03_AvatarImage'));Roblox.Controls.Image.IE6Hack($get('ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl04_AvatarImage'));Roblox.Controls.Image.IE6Hack($get('ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl05_AvatarImage'));Roblox.Controls.Image.IE6Hack($get('ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl06_AvatarImage'));Roblox.Controls.Image.IE6Hack($get('ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl07_AvatarImage'));Roblox.Controls.Image.IE6Hack($get('ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl08_AvatarImage'));Roblox.Controls.Image.IE6Hack($get('ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl09_AvatarImage'));Roblox.Controls.Image.IE6Hack($get('ctl00_cphRoblox_TabbedInfo_CommentaryTab_CommentsPane_CommentsRepeater_ctl10_AvatarImage'));Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TabPanel, {"headerTab":$get("__tab_ctl00_cphRoblox_TabbedInfo_GamesTab")}, null, {"owner":"ctl00_cphRoblox_TabbedInfo"}, $get("ctl00_cphRoblox_TabbedInfo_GamesTab"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TabPanel, {"headerTab":$get("__tab_ctl00_cphRoblox_TabbedInfo_CommentaryTab")}, null, {"owner":"ctl00_cphRoblox_TabbedInfo"}, $get("ctl00_cphRoblox_TabbedInfo_CommentaryTab"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.TabContainer, {"activeTabIndex":0,"clientStateField":$get("ctl00_cphRoblox_TabbedInfo_ClientState")}, null, null, $get("ctl00_cphRoblox_TabbedInfo"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_cphRoblox_HiddenField1","DropShadow":true,"OkControlID":"ctl00_cphRoblox_HiddenField2","PopupControlID":"ctl00_cphRoblox_ItemPurchasePopupPanel","dynamicServicePath":"/item.aspx","id":"myBehavior1"}, null, null, $get("ctl00_cphRoblox_HiddenField3"));
+});
+Sys.Application.add_init(function() {
+    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_cphRoblox_HiddenField1","DropShadow":true,"OkControlID":"ctl00_cphRoblox_HiddenField2","PopupControlID":"ctl00_cphRoblox_SalePriceConfirmPopupPanel","dynamicServicePath":"/item.aspx","id":"myBehavior2"}, null, null, $get("ctl00_cphRoblox_HiddenField3"));
+});
+//]]>
+</script>
+</form>
+    
+    
+</body>
+</html>

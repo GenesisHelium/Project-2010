@@ -1,0 +1,215 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-Transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+		<title>NetSmartz Homepage - Resource has Moved</title>
+		<script type="text/javascript">
+		    window.location.href="http://www.netsmartz.org/index.aspx";
+		</script>
+	<link rel="icon" href="/favicon.ico" /><link rel="shortcut icon" href="/favicon.ico" /><link rel="meta" href="http://www.netsmartz.org/labels.xml" type="application/rdf+xml" title="ICRA labels" /><script type="text/Javascript" language="Javascript" src="/scripts/Browser.js"> //script </script><script type="text/Javascript" language="Javascript" src="/scripts/Popup.js"> //script </script><script type="text/Javascript" language="Javascript" src="/scripts/MediaPlayer.js"> //script </script><script type="text/Javascript" language="Javascript" src="/scripts/Flash.js"> //script </script><script type="text/Javascript" language="Javascript" src="/scripts/FLV.js"> //script </script><script type="text/Javascript" language="Javascript" src="/scripts/UserDefaults.js"> //script </script><script type="text/Javascript" language="Javascript" src="/scripts/Nav.js"> //script </script><script type="text/Javascript" language="Javascript" src="/scripts/jquery.js"> //script </script><script type="text/Javascript" language="Javascript" src="/scripts/swfobject.js"> //script </script><style type="text/css" media="screen"> @import url(/styles/format.css); </style><style type="text/css" media="screen"> @import url(/styles/format-portal.css); </style><style type="text/css" media="screen"> @import url(/styles/screen-default.css); </style><style type="text/css" media="screen"> @import url(/styles/nav.css); </style></head>
+  <body>
+    <div id="page">
+      <a href="/" id="site-heading" title="Home">
+        <span class="alt">NetSmartz Workshop</span>
+      </a>
+      <div id="ncmec-link-group">
+        <a href="http://www.missingkids.com/" title="NCMEC" id="ncmec-link" target="_blank">
+          <span class="alt">NCMEC</span>
+        </a>
+        <a href="http://www.missingkids.com/" title="MissingKids.com">MissingKids.com</a>
+        <a href="http://www.missingkids.com/missingkids/servlet/PageServlet?PageId=261" title="About Us">About Us</a>
+        <a href="https://secure.missingkids.com/missingkids/servlet/GenericPaymentServlet?main=netsmartzMain" title="Donate">Donate</a>
+      </div>
+      <a id="ns411" title="Ask the experts at NetSmartz411" class="css-rollover" href="http://www.netsmartz411.org/" onclick="urchinTracker('/urchin/outgoing/netsmartz411.org');">
+        <span class="alt">NetSmartz411.org</span>
+      </a>
+      <a id="nsteens-tab" title="NSTeens" class="css-rollover" target="_blank" href="http://www.nsteens.org/" onclick="urchinTracker('/urchin/outgoing/nsteens.org');">
+        <span class="alt">NSTeens</span>
+      </a>
+      <a id="nskids-tab" title="NetSmartz Kids" class="css-rollover" target="_blank" href="http://www.netsmartzkids.org/" onclick="urchinTracker('/urchin/outgoing/netsmartzkids.org');">
+        <span class="alt">NetSmartz Kids</span>
+      </a>
+      <ul id="site-navigation-main">
+        <li>
+          <a href="/netparents.htm" id="site-navigation-parents" class="css-rollover" onclick="javascript:__utmSetVar('Parents')">
+            <span class="alt">Parents</span>
+          </a>
+        </li>
+        <li>
+          <a href="/educators.htm" id="site-navigation-educators" class="css-rollover" onclick="javascript:__utmSetVar('Educators')">
+            <span class="alt">Educators</span>
+          </a>
+        </li>
+        <li>
+          <a href="/lawenf.htm" id="site-navigation-law" class="css-rollover" onclick="javascript:__utmSetVar('Law Enforcement')">
+            <span class="alt">Law Enforcement</span>
+          </a>
+        </li>
+        <li>
+          <a href="/netteens.htm" id="site-navigation-teens" class="css-rollover" onclick="javascript:__utmSetVar('Teens')">
+            <span class="alt">Teens</span>
+          </a>
+        </li>
+        <li>
+          <a href="http://www.netsmartzkids.org/" id="site-navigation-kids" class="css-rollover" target="_blank" onclick="javascript:urchinTracker('/urchin/outgoing/netsmartzkids.org');">
+            <span class="alt">Kids</span>
+          </a>
+        </li>
+        <li>
+          <a href="/espanol" id="site-navigation-espanol" class="css-rollover" onclick="javascript:__utmSetVar('Espanol')">
+            <span class="alt">Espanol</span>
+          </a>
+        </li>
+      </ul>
+      <dl id="menu">
+        <dt onclick="javascript:montre_3('smenu1');">
+          <a href="#" class="imgNav">
+            <img src="/images/nav/NS-menu_learn.gif" alt="Learn about the Issue" class="spaceOut" />
+          </a>
+          <dd id="smenu1">
+            <ul class="navMenu">
+              <li>
+                <a href="http://blog.netsmartz.org/" class="squareLink">
+                  <strong>NEW</strong> NetSmartz Blog
+                              </a>
+              </li>
+              <li>
+                <a href="/safety/risks.htm" class="squareLink">Online Risks</a>
+              </li>
+              <li>
+                <a href="/safety/definitions.htm" class="squareLink">Definitions</a>
+              </li>
+              <li>
+                <a href="/Presentations/" class="squareLink">NetSmartz Safety Presentations</a>
+              </li>
+              <li>
+                <a href="/news/index.htm" class="squareLink">Internet Safety News</a>
+              </li>
+              <li>
+                <a href="/safety/statistics.htm" class="squareLink">Statistics</a>
+              </li>
+              <li>
+                <a href="/resources/psas.htm" class="squareLink">Public-Service Announcements</a>
+              </li>
+            </ul>
+          </dd>
+        </dt>
+        <dt onclick="javascript:montre_3('smenu2');">
+          <a href="#" class="imgNav2">
+            <img src="/images/nav/NS-menu_safekids.gif" alt="Keep Kids &amp; Teens Safer" class="spaceOut" />
+          </a>
+        </dt>
+        <dd id="smenu2">
+          <ul class="navMenu">
+            <li>
+              <a href="/safety/drsharon_videos.htm" class="squareLink">Ask Dr. Sharon</a>
+            </li>
+            <li>
+              <a href="/UYN/UYN.htm" class="squareLink">Use Your NetSmartz</a>
+            </li>
+            <li>
+              <a href="/Presentations/" class="squareLink">NetSmartz Safety Presentations</a>
+            </li>
+            <li>
+              <a href="/resources/pledge.htm" class="squareLink">Safety Pledges</a>
+            </li>
+            <li>
+              <a href="/safety/safetytips.htm" class="squareLink">Safety Tips</a>
+            </li>
+            <li>
+              <a href="/resources/reallife.htm" class="squareLink">Real-Life Stories</a>
+            </li>
+          </ul>
+        </dd>
+        <dt onclick="javascript:montre_3('smenu3');">
+          <a href="#" class="imgNav">
+            <img src="/images/nav/NS-menu_teach.gif" alt="Teach Internet Safety" class="spaceOut" />
+          </a>
+        </dt>
+        <dd id="smenu3">
+          <ul class="navMenu">
+            <li>
+              <a href="/Presentations/" class="squareLink">NetSmartz Safety Presentations</a>
+            </li>
+            <li>
+              <a href="/resources/activitycards.htm" class="squareLink">Activity Cards</a>
+            </li>
+            <li>
+              <a href="/resources/nsresources.htm" class="squareLink">On/Offline Activities</a>
+            </li>
+            <li>
+              <a href="/resources/resources.htm" class="squareLink">Recommended Resources</a>
+            </li>
+          </ul>
+        </dd>
+        <dt onclick="javascript:montre_3('smenu4');">
+          <a href="#" class="imgNav">
+            <img src="/images/nav/NS-menu_videos.gif" alt="Watch Videos" class="spaceOut" />
+          </a>
+        </dt>
+        <dd id="smenu4">
+          <ul class="navMenu">
+            <li>
+              <a href="/resources/reallife.htm" class="squareLink">Real-Life Stories</a>
+            </li>
+            <li>
+              <a href="/safety/drsharon_videos.htm" class="squareLink">Ask Dr. Sharon</a>
+            </li>
+            <li>
+              <a href="/resources/psas.htm" class="squareLink">Public-Service Announcements</a>
+            </li>
+          </ul>
+        </dd>
+        <dt onclick="javascript:montre_3('smenu5');">
+          <a href="#" class="imgNav">
+            <img src="/images/nav/NS-menu_about.gif" alt="About NetSmartz" class="spaceOut" />
+          </a>
+        </dt>
+        <dd id="smenu5">
+          <ul class="navMenu">
+            <li>
+              <a href="/overview/aboutus.htm" class="squareLink">About Us</a>
+            </li>
+            <li>
+              <a href="/overview/howtousens.htm" class="squareLink">How to Use NetSmartz</a>
+            </li>
+            <li>
+              <a href="/overview/accolades.htm" class="squareLink">Accolades</a>
+            </li>
+            <li>
+              <a href="/sponsors/index.htm" class="squareLink">Sponsors</a>
+            </li>
+            <li>
+              <a href="/press/pressreleases.htm" class="squareLink">Press Releases</a>
+            </li>
+            <li>
+              <a href="/Contact/" class="squareLink">Contact Us</a>
+            </li>
+            <li>
+              <a href="/overview/linkstous.htm" class="squareLink">Link to Us</a>
+            </li>
+            <li>
+              <a href="/feedback/bulletin.htm" class="squareLink">NetSmartz Bulletin</a>
+            </li>
+          </ul>
+        </dd>
+      </dl>
+      <p class="navImage">
+        <img src="/images/nav/characters.jpg" alt="NetSmartz Characters" />
+      </p>
+      <div id="page-content">
+<p>This page has moved to <a href="http://www.netsmartz.org/index.aspx">http://www.netsmartz.org/index.aspx</a></p>
+<div class="extraHeight">  </div>
+</div>
+      <div id="site-footer">
+        <div class="legal">
+                Copyright © 2001-2010 National Center for Missing &amp; Exploited Children and Boys &amp; Girls Clubs of America.
+                All rights reserved.
+              </div>
+        <div class="boilerplate">
+          <a href="/legal/legalstatement.htm">Legal Statement</a>   |  <a href="/legal/privacypolicy.htm">Privacy Policy</a>   |  <a href="/legal/linkingpolicy.htm">Linking Policy</a>   |  <a href="/legal/reproductionpolicy.htm">Reproduction Policy</a>   |  <a href="/legal/termsofuse.htm">Terms of Use</a></div>
+      </div>
+    </div>
+    <script type="text/javascript">
+					</script>
+  </body>
+</html>

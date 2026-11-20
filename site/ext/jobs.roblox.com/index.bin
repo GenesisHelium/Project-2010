@@ -1,0 +1,324 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+	<head>
+		<title>Jobs at ROBLOX</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="description" content="Designed and developed by Codify Design Studio - codifydesign.com"/>
+		<link rel="stylesheet" type="text/css" href="stylesheet.css" />
+</head>
+	<body>
+
+	
+		<div class="bannerArea">
+			<div class="container">
+			  <div class="toplogo"><a href="http://www.roblox.com"><img src="images/robloxlogo.png" border="0"/></a></div>
+			  <div style="clear:both;"></div>
+			</div>
+	</div>
+		<div class="topnavigationArea">
+			<div class="container"> 
+				<div class="topnavigationgroup">			  </div>
+
+			  <div style="clear:both;"></div>
+			</div>
+		</div>
+		<div class="contentArea">
+			<div class="container">
+				<div class="contentleft">
+                <div id="johndiv1">
+				  <h1>Working at ROBLOX</h1>
+				  <p>With over 4 million unique monthly users spending  20+ minutes per session, ROBLOX is one of the top ranked kids gaming sites on  the internet!  The company is unique  among gaming sites in that kids are the main architects of their own worlds.  &nbsp;Core building blocks are used to create worlds and everything is customizable.  &nbsp;Kids build their own social hangouts, invite others in party mode, engage  in online chat and create virtual items using our site and 3D game client.  We are a massively multi-player online game  that uses physics to simulate the real world. As the site grows, the ROBLOX  virtual economy continues to evolve.  <br />
+                      <br />
+				    Reasons to work at ROBLOX:<strong> </strong></p>
+				  <ol>
+				    <li><strong>You will work  with some of the best minds in the industry.</strong> At ROBLOX we take  pride in hiring the best minds  in the business, people who are creative, passionate and intelligent. Once you’re  working at ROBLOX, you’ll be surrounded by these lateral thinkers who inspire and create a fitting arena for  cutting edge work.  </li>
+				    <li><strong>Promote from  within</strong>. We firmly  believe that excellence should be rewarded.   If you prove you can drive new businesses, you will have the chance to  lead a team and grow as the company grows. </li>
+				    <li><strong>Cutting Edge  Technology.</strong> Our platform is  a distributed physics environment running in a hand-crafted game cloud integrated  with a highly scalable web site. We are currently responding to 32,000 requests  per second and have our scaling sights set on 2X, 5X, and 10X. We’re also  pushing the envelope in our physics simulation, with a goal of over 1 million  physics-enabled building parts.</li>
+				    <li><strong>Creative freedom.</strong>  We  believe in giving our engineers extensive license with what they create.  In other words, you own what you build, and  your creativity will be rewarded with quick implementation.</li>
+				    <li><strong>Location.</strong>  Our download San Mateo office is perfect for travel to and from San Francisco and Silicon  Valley.  Additionally, we are a short  walk from the Caltrain, which allows for easy access to both The City and the  peninsula.</li>
+				    <li><strong>VC Funded.</strong> ROBLOX is a backed by Altos Ventures and First  Round Capital.</li>
+				    <li><strong>Our hiring  strategy.</strong> Find the  smartest, most talented people and create positions around them.</li>
+			      </ol>
+				  </div>
+                  
+                  <div id="johndiv2">
+				  <h1>Senior Web Engineer</h1>
+				  <p>ROBLOX is hiring a Senior Web Software Engineer to work on a variety of mission critical projects. </p>
+				  <p>Projects you may work on include:<br />
+				    </p>
+				  <p>•	Working with new technologies relevant to distributed systems <br />
+				    •	Optimizing website performance<br />
+				    •	Expanding our virtual economy<br />
+				    •	Integrating with our 3D game client<br />
+				    •	Overseeing all web application designs, test plans and rollout strategies</p>
+				  <p><br />
+				    <strong>Requirements</strong>:<br />
+				    </p>
+				  <p>•	BS or higher in Computer Science or equivalent experience<br />
+				    •	5+ years experience working on production high-load web applications<br />
+				    •	Experience with .NET, LAMP, Ruby, or other web application stack<br />
+				    •	Experience with SQL, MySQL, Oracle or similar<br />
+				    •	Experience with HTML, JavaScript, CSS, jQuery, Prototype, or other JavaScript libraries<br />
+				    •	Experience with NoSql technologies such as Memcached, Cassandra, HBase, and CouchDB is a plus<br />
+				    •	Passion for games, toys, and consumer media<br />
+				    </p>
+				  <p>&nbsp;</p>
+                  </div>
+                  
+                  <div id="johndiv3">
+				  <h1>Web Engineer</h1>
+				  <p>ROBLOX  is hiring a Web Engineer to work on a variety of mission critical projects.<br />
+                    <br />
+Projects you may work on include: <br />
+• Working with new technologies relevant to distributed systems <br />
+• Optimizing website performance <br />
+• Expanding our virtual economy <br />
+• Integrating with our 3D game client <br />
+<br />
+Requirements: <br />
+• BS or higher in Computer Science or equivalent experience <br />
+• Experience with .NET, LAMP, Ruby, or other web application stack <br />
+• Experience with SQL, MySQL, Oracle or similar <br />
+• Experience with C, C++ or similar <br />
+• Experience with HTML, JavaScript, CSS, jQuery, Prototype, or other JavaScript  libraries <br />
+<br />
+Pluses: <br />
+• Experience with NoSql technologies such as Memcached, Cassandra, HBase, and  CouchDB <br />
+• Experience working for games or social networks <br />
+• Passion for games, toys, and consumer media <br />
+				    </p>
+				  <p>&nbsp;</p>
+                  </div>
+                  
+                  
+                  
+                  <div id="johndiv4">
+				  <h1>Senior Game Engineer</h1>
+				  <p>ROBLOX is hiring an engineer who  lives and breathes high quality game code.&nbsp; You most likely wrote your  first Pac-man knockoff when you were in middle school.</p>
+				  <p>You will be part of the core game  client team. We prefer to hire generalists –as part of a small team, this  position will involve interaction with graphics, user interface, networking,  installer, physics, sound, scripting and build system code. &nbsp;</p>
+				  <p><strong>Requirements</strong>:<br />
+				    </p>
+				  <p>• BS or MS in CS or equivalent  education or experience <br />
+				    • 5-7+ years experience with  hardcore C++<br />
+				    • Self-starter,  comfortable with being lost in a large code base but is able to get stuff done  anyway<br />
+				    • Broad  experience in game development – you would be comfortable working on any and  all parts of our game<br />
+				    • A proven history of achievement  – creative, intellectual, academic, and/or professional<br />
+				    • Passion for games, toys, and  customer value</p>
+				  <p>Pluses:<br />
+				    </p>
+				  <p>• Experience with Ogre<br />
+				    • Experience with MMOs<br />
+                    • Aesthetic sensibilities </p>
+				  <p>&nbsp;</p>
+                  </div>
+                  
+                  <div id="johndiv5">
+				  <h1>Game Engineer</h1>
+				  <p>ROBLOX  is hiring a Game Engineer to be an integral member of our team.  You will be matched with and mentored by a  senior software engineer from our veteran engineering team. You will get to  work on a product with a rapid release cycle. The ideal candidate is an  intelligent, creative person who has a desire to learn new languages and work  with bleeding-edge technology. We prefer to hire generalists - this position  will involve interaction with our 3D client team as well, back-end scaling  team, and core web team. <br />
+                    <br />
+Responsibilities: <br />
+• Creating API's for a user-generated virtual world <br />
+• Executing security systems to keep ROBLOX games safe <br />
+• Building game designs and frameworks to facilitate new kinds of game play <br />
+<br />
+Requirements: <br />
+• Bachelors degree or higher in CS or similar discipline <br />
+• Production experience with some or all of the following: html/javascript/css,  C#, SQL, Lua <br />
+• History of academic and/or professional excellence and passion for game  development <br />
+<br />
+Pluses <br />
+• Game demos and/or portfolio</p>
+				  <p>&nbsp;</p>
+                  </div>
+                  
+                  <div id="johndiv6">
+				  <h1>Senior Graphics Engine Developer</h1>
+				  <p>ROBLOX is hiring a graphics engineer who lives and breathes high quality game and graphics code.  You most likely wrote your first Pac-man knockoff when you were in middle school. You are passionate about graphics technology. </p>
+				  <p>You will be part of the core team developing our rendering, networking and physics engine. We prefer to hire generalists –as part of a small team, this position will involve interaction with graphics, user interface, networking, installer, physics, sound, scripting and build system code. <br />
+                      <br />
+				      <strong>Requirements</strong>: <br />
+				    </p>
+				  <p>• BS or MS in CS or equivalent education or experience <br />
+				    • 3+ years experience C++ and DirectX/OpenGL in a production environment<br />
+				    • Experience with shaders and advanced rendering techniques<br />
+				    • Proven C++ skills <br />
+				    • A proven history of achievement – creative, intellectual, academic, and/or professional<br />
+				    • Passion for games, toys, and graphics</p>
+				  <p>Pluses:<br />
+				    </p>
+				  <p>• Experience with Ogre<br />
+				    • Knowledge of STL, Boost<br />
+				    </p>
+				  <p>&nbsp;</p>
+                  </div>
+                  
+                  <div id="johndiv7">
+				  <h1>Senior Core Usability Engineer</h1>
+				  <p>ROBLOX is hiring a graphics engineer who lives and breathes high quality game and graphics code.  You most likely wrote your first Pac-man knockoff when you were in middle school. You are passionate about graphics technology. </p>
+				  <p>You will be part of the core team developing our rendering, networking and physics engine. We prefer to hire generalists –as part of a small team, this position will involve interaction with graphics, user interface, networking, installer, physics, sound, scripting and build system code. <br />
+                      <br />
+				      <strong>Requirements</strong>: <br />
+				    </p>
+				  <p>• BS or MS in CS or equivalent education or experience <br />
+				    • 3+ years experience C++ and DirectX/OpenGL in a production environment<br />
+				    • Experience with shaders and advanced rendering techniques<br />
+				    • Proven C++ skills <br />
+				    • A proven history of achievement – creative, intellectual, academic, and/or professional<br />
+				    • Passion for games, toys, and graphics</p>
+				  <p>Pluses:<br />
+				    </p>
+				  <p>• Experience with Ogre<br />
+				    • Knowledge of STL, Boost<br />
+				    </p>
+				  <p>&nbsp;</p>
+                  </div>
+                  <div id="johndiv8">
+				  <h1>Data Architect / Analyst</h1>
+				  <p>ROBLOX  is looking for a Data Architect/ Analyst to be responsible for data extraction,  analysis and modeling. We are looking for someone with experience with large-scale  data mining and analysis. <br />
+                    <br />
+Your responsibilities will include: <br />
+• Discover and analyze source data that affects downstream data <br />
+• Refine and simplify data extraction processes <br />
+• Model extracted data in an easily accessible and analyzable way <br />
+• Analyze volumes of data realizing statistical patterns <br />
+• Translate business reporting requests into data fields <br />
+• Design queries for different legacy databases using multiple tools <br />
+• Develop infrastructure to inform on key metrics, recommend changes, and  predict future results <br />
+• Extract and integrate 3rd party data with our internal data stream <br />
+<br />
+Requirements: <br />
+• Bachelors or higher in Computer Science or similar discipline <br />
+• Programming in support of data retrieval and statistical analysis, with  experience in the use of at least: SQL, SAS, SPSS, Excel <br />
+• Proficient with scripting languages (PHP, Perl) and MySQL Database  Administration <br />
+• Experience with data mining techniques in a data-rich environment <br />
+• Knowledge of entity relationship data modeling <br />
+• Strong oral and written communications skills <br />
+• Must be able to take ownership of tasks and projects and consistently deliver  on time, high quality results with minimal supervision <br />
+• Must be highly motivated, a self-starter, and a team player<br />
+				    </p>
+				  <p>&nbsp;</p>
+                  </div>
+                  <div id="johndiv9">
+				  <h1>Continuous Integration / Release Engineer</h1>
+				  <p>Responsibilities: <br />
+• Own, manage and improve our release process, focusing on scale and efficiency <br />
+• Build and maintain tools needed during release pushes <br />
+• Hands-on experiences in creating automated build <br />
+• Push new releases to production and help monitor performance <br />
+• Design, develop, document and maintain the framework to automate the  continuous build, unit test, system test, release, and deploy activities <br />
+• Support non-production development and testing sites <br />
+<br />
+Required Skills: <br />
+• Bachelors degree or higher in CS or similar discipline <br />
+• 5-7 years experience in a release or build-engineering related role <br />
+• Expert scripting ability in at least one scripting language (Python,  Powershell, PERL, bash, etc.) <br />
+• Experience in installing, configuring, deploying, and debugging the Microsoft  .NET web stack <br />
+• Experience in installing, configuring, deploying, and debugging open source  software <br />
+• Experience building C++, C#, and/or objective-C applications <br />
+• Previous experience developing Web Services using SOAP, REST, etc. <br />
+• Experience using at least one source code management systems (CVS,  Subversion, Perforce, etc.) <br />
+• Attention to detail: ability to define test cases, document processes, set  expectations, and take over big projects with minimal supervision <br />
+• Excellent written and verbal communication <br />
+<br />
+Pluses <br />
+• Experience in fast-pace consumer web environments <br />
+				    </p>
+				  <p>&nbsp;</p>
+                  </div>
+                  <div id="johndiv10">
+				  <h1>Junior QA Engineer</h1>
+				  <p>You will:</p>
+
+				    <li>Organize functional testing for game client  and web site</li>
+				    <li>Analyze new and revised features for failure points, create structured test scripts and test  plans&nbsp; </li>
+				    <li>Proactively identify and hunt down bugs on  production and test sites</li>
+				    <li>Automate testing wherever possible</li>
+
+				    <p>&nbsp;</p>
+				    <p>Requirements:</p>
+
+				    <li>BS or  higher in CS or similar discipline</li>
+				    <li>Internship  or full-time job experience in a gaming or web company</li>
+				    <li>Understanding  of internet technologies (HTTP, HTML, CSS and JavaScript)</li>
+				    <li>Web /  Internet application testing and an understanding of test strategies&nbsp;</li>
+				    <li>Understanding of the software development  process</li>
+				    <li>Experience playing or developing a 3D game </li>
+				    <li>Excellent  attention to detail&nbsp;</li>
+				    <li>Superb  communication skills both written and verbal&nbsp;</li>
+				    <li>Focus on continuous learning and improvement&nbsp; </li>
+				    <li>Organized, works well under pressure,  able to deliver high quality results in a timely manner </li>
+
+				    <p>&nbsp;</p>
+				    <p>Pluses:</p>
+				    <li>Prior  experience as a QA engineer</li>
+				    <li>Familiarity  or experience with C++, graphics rendering,   and 3D game development</li>
+				    <li>Experience  in automated and compatibility testing</li>
+				    <li>Understanding  of unit, functional, stress, performance, security, regression and UAT testing</li>
+				    <li>Massively multiplayer game and/or large  scale application client/server application QA experience</li>
+				  <p><br />
+				    </p>
+				  <p>&nbsp;</p>
+                  </div>
+                  
+                  <div id="footer">
+				  <p>If working with cutting edge technology to create something unique  appeals to you, send your resume to:</p>
+				  <p><a href="mailto:jobs@roblox.com">jobs@roblox.com</a></p>
+				  <p>Please include the position  you are applying for in the subject line. </p>
+				  <p>&nbsp;</p>
+                  </div>
+                  
+			  </div>
+              
+                <div class="contentright">
+
+				  <h1>Current Openings</h1>
+				  <p><a href="javascript: setActiveDiv(2);">Senior Web Engineer</a></p>
+                  <p><a href="javascript: setActiveDiv(3);">Web Engineer</a></p>
+                  <p><a href="javascript: setActiveDiv(4);">Senior Game Engineer</a></p>
+                  <p><a href="javascript: setActiveDiv(5);">Game Engineer</a></p>
+                  <p><a href="javascript: setActiveDiv(6);">Senior Graphics Engine Developer</a></p>
+                  <p><a href="javascript: setActiveDiv(7);">Senior Core Usability Engineer</a></p>
+				  <p><a href="javascript: setActiveDiv(8);">Data Architect / Analyst</a></p>
+				  <p><a href="javascript: setActiveDiv(9);">Continuous Integration / Release Engineer</a></p>
+                  <p><a href="javascript: setActiveDiv(10);">Junior QA Engineer</a></p>
+				  <p>&nbsp;</p>
+				  <p><a href="javascript: setActiveDiv(1);">Working at ROBLOX</a></p>
+				  <p>&nbsp;</p>
+				  <h2>Hey You. Over here. Arrrr!</h2>
+				  <img class="imageright" src="images/pirate.png" alt="" border="0"/>
+				  <p>ROBLOX is a great product, with a lot of traction in the marketplace. However, it is a work in progress.</p>
+				  <p>I need you to implement roiling seas for me to captain my ship on, refractive gem shaders to add that characteristic glint to my treasure hoard, and, if it's not too much to ask, sea monsters, just for the romance of it all.</p>
+				  <p>Some of my deckhands are mac users, so we&rsquo;ll need to take care of them too.</p>
+				  <p>There's also a host of social web features I need in order to be able to effectively coordinate raids on the colonials across my pirate hoard, which is 12,000 users strong. And we need *someone* to get around to making all this happen in a realtime, scalable environment. Pirates hate waiting for page loads.</p>
+
+				  <p>Don't disappoint this old sea dog, send in your resume today!</p>
+			  </div>
+				<div style="clear:both;"></div>
+			</div>
+		</div>
+		<div class="footerArea">
+			<div class="container"> 
+				<div class="copyright">&copy; 2010 ROBLOX.  All rights reserved.</div>
+
+			</div>
+		</div>
+	<script type="text/javascript">
+			function setActiveDiv(index)
+			{
+				for(var i = 1; i <= 10; i++)
+				{
+					var ele = document.getElementById("johndiv" + i);
+					if (i == index)
+					{
+						ele.style.display = "block";
+					}
+					else
+					{
+						ele.style.display = "none";
+					}
+				}
+			}
+			setActiveDiv(1);
+              </script> 
+        </body>
+</html>

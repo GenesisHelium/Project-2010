@@ -1,0 +1,1161 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+<script language="javascript" type="text/javascript">
+    //redirect any request for https to http
+    if (window.location.href.toLowerCase().match("https")) 
+    {
+        if (!(window.location.href.toLowerCase().match("checker.aspx"))) 
+        {
+            var strUrl = window.location.href.toLowerCase().replace("https", "http");
+        //alert(strUrl);
+            window.location = strUrl;
+        }
+    }
+    if ((window.location.href.toLowerCase().match("http:")) && (window.location.href.toLowerCase().match("checker.aspx"))) {
+        var strUrl1 = window.location.href.toLowerCase().replace("http", "https");
+        window.location = strUrl1;
+    }  
+</script>
+
+<title>
+    Computer Security | Internet Security | Identity Theft Protection
+</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Learn about computer security, internet security and how to protect yourself and your family from fraud with resources like identity theft protection from Microsoft. " />
+<meta name="keywords" content="Computer security, internet security, identity theft protection, Microsoft online security" />
+<meta name="robots" content="all" />
+<meta name="language" content="english" />
+<meta name="rating" content="general" />
+<meta http-equiv="imagetoolbar" content="no" />
+<link rel="shortcut icon" href="" type="image/x-icon" />
+<link rel="icon" href="" type="image/x-icon" />
+<meta http-equiv="Content-Type" content="text/html" />
+<meta http-equiv="Content-Language" content="en-us" />
+<meta name="WT.sp" content="_protect_" />
+<meta name="MS.LOCALE" content="en-us" />
+<style type="text/css" title="currentStyle">
+	@import url("/protect/assets/styles/all.css");
+	@import url("/protect/assets/styles/FeedbackCSS.css");
+</style>
+<!--[if lte IE 7]>
+	<style type="text/css">
+		@import url("/protect/assets/styles/IE7.css");
+	</style>
+<![endif]-->
+<!--[if lte IE 6]>
+    <style type="text/css">
+		@import url("/protect/assets/styles/IE6.css");
+	</style>
+<![endif]-->
+<meta http-equiv="X-UA-Compatible" content="IE=7" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+
+<script type="text/javascript" src="/protect/assets/scripts/lib/jquery.js"></script>
+
+<script type="text/javascript" src="/protect/assets/scripts/main.js"></script>
+
+<link rel="alternate" type="application/rss+xml" href="news/rss.xml" title="RSS feed for My Page" /><link rel="stylesheet" type="text/css" href="assets/styles/Home.css" />
+    
+
+    
+
+    <style type="text/css">
+        hr#FeedbackRule
+        {
+            visibility: hidden;
+        }
+    </style>
+    
+    
+  <script src="http://js.microsoft.com/library/svy/broker.js"></script>
+  <script src="assets/scripts/ajax.js" type="text/javascript"></script>
+  <style type="text/css">#siteSubmit       {       background-color:transparent;       background-image:url(/protect/assets/images/buttons/go.png);       background-repeat:no-repeat;       border-width:0;       cursor:pointer;       height:22px;       margin:0px 0px 0px 5px;       padding:0;       width:32px;       }       hr#FeedbackRule       {       display:none;       }</style>
+<title>
+
+</title></head>
+<body>
+    <div id="protect" class="homepage">
+        <div id="main-background">
+            <div id="main-wrapper">
+                
+
+<script language="javascript" type="text/javascript">
+
+      function trackLSB(type) {
+        
+        if (typeof dcsMultiTrack == "function") {
+            var qu = document.getElementById("msviLSBtbox").value;
+            //alert(qu);
+            var dcsuri = "results.aspx";
+            var dcssip, ti;
+            if (type == "Site") {
+                dcssip = "search.microsoft.com";
+                ti = "SearchButton: OnSite";
+            }
+            else if (type == "Web") {
+                dcssip = "bing.com"; ti = "SearchButton: Web";
+            }
+            dcsMultiTrack("DCS.dcsuri", dcsuri, "DCS.dcssip", dcssip, "WT.ti", ti, "WT.dl", "2", "WT.z_srch_t", qu, "DCS.dcsqry", "", "WT.ad", "", "WT.mc_id", "");
+            wtflag = true;
+            DCS.dcsuri = DCS.dcssip = DCS.dcsqry = WT.ti = WT.z_srch_t = "";
+        }
+        
+    }
+
+    function searchSiteorWeb(type) {
+
+        var URL;
+        var searchText = document.getElementById("msviLSBtbox").value;
+
+        if (type == "Site") {
+            URL = 'http://search.microsoft.com/results.aspx?mkt=en-US&setlang=en-US&q=' + searchText;
+        }
+        else if (type == "Web") {
+            URL = 'http://www.bing.com/search?mkt=en-US&q=' + searchText;
+        }
+        else {
+            URL = "http://search.microsoft.com/results.aspx?mkt=en-US&setlang=en-US&q=privacy";
+        }
+        window.location = URL;
+    }
+
+    var isInputqu = false;
+    var searchBoxWidthWithKievLogo = 0;
+    var searchBoxWidthWithoutKievLogo = 0;
+//    function clearDefaultSearchLabel() {
+//        var searchBox = document.getElementById("msviLSBtbox");
+//        if (!isInputqu) {
+//            searchBox.value = "";
+//        }
+//    }
+    var kievImageWidth = 0;
+
+    function searchBoxFocused(defaultSearchLabel) {
+        //alert("in focus");
+        var searchBoxInput = document.getElementById("msviLSBtbox");
+        var kievImage = document.getElementById("msviLSBlogo");
+        //alert(defaultSearchLabel);
+        if (searchBoxInput.value == defaultSearchLabel) {
+            searchBoxInput.value = '';
+            //        if(kievImageWidth == 0)
+            //        {
+            //            kievImageWidth = kievImage.clientWidth;
+            //        }
+            //        searchBoxInput.style.fontStyle = '';
+            //        searchBoxInput.style.color='#000000';
+            //        kievImage.style.width = '1px';
+            //        if(searchBoxWidthWithKievLogo == 0)
+            //        {
+            //            searchBoxWidthWithKievLogo = searchBoxInput.style.width;
+            //            searchBoxWidthWithoutKievLogo = searchBoxInput.clientWidth + (kievImageWidth - 1);
+            //        }
+        }
+        searchBoxInput.style.right = "23px";
+        searchBoxInput.style.width = "245px";
+        kievImage.style.width = "0px";
+        isInputqu = true;
+
+    }
+
+    function searchBoxBlur(defaultSearchLabel) {
+        //alert("in blur");
+        var searchBoxInput = document.getElementById("msviLSBtbox");
+        var kievImage = document.getElementById("msviLSBlogo");
+        if (searchBoxInput.value.replace(/(^\s*)|(\s*$)/g, '') == '') {
+            searchBoxInput.value = defaultSearchLabel;
+            //        searchBoxInput.style.fontStyle ='Italic';
+            //        searchBoxInput.style.color = "#a1a1a1";
+            //        kievImage.style.width = kievImageWidth;
+            //        searchBoxInput.style.right="70px";
+            //        searchBoxInput.style.width = searchBoxWidthWithKievLogo+"px";
+            //        alert(searchBoxInput.style.width);
+
+            searchBoxInput.style.right = "70px";
+            searchBoxInput.style.width = "198px";
+            kievImage.style.width = "47px";
+            isInputqu = false;
+        }
+        else {
+            isInputqu = true;
+        }
+
+    }
+</script>
+
+<style type="text/css">
+    #msviLSBForm
+    {
+        margin: 0;
+        padding: 0;
+    }
+    .msviLSBsform
+    {
+        height: 24px;
+        margin: 0;
+        padding: 0;
+        z-index: 2;
+        position: relative;
+        top: 0;
+        right: 0;
+    }
+    #msKiev
+    {
+        background-color: white;
+        border: 1px solid #ba7721;
+        display: inline-block;
+        height: 22px;
+        margin: 0;
+        padding-bottom: 0;
+        padding-left: 2px;
+        padding-right: 2px;
+        padding-top: 0;
+        text-align: left;
+        position: absolute;
+        top: 0px;
+        right: 43px;
+        width: 266px;
+    }
+    #msviLSBtbox
+    {
+        border-style: none;
+        border-width: 0;
+        height: 20px;
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 0px;
+        width: 198px;
+        position: absolute;
+        top: 1px;
+        right: 70px;
+    }
+    .msviLSBlogo
+    {
+        background-image: url(/library/toolbar/3.0/images/LSB/logo_inside_transparent.gif);
+        background-repeat: no-repeat;
+        display: inline-block;
+        height: 22px;
+        margin-bottom: 0;
+        margin-left: 0;
+        margin-right: 0;
+        padding-bottom: 0;
+        width: 47px;
+        position: absolute;
+        top: 0px;
+        right: 22px;
+    }
+    #msviLSBssearch
+    {
+        margin: 1px 1px 0px 0px;
+        padding-left: 0;
+        padding-right: 0;
+        position: absolute;
+        top: 0px;
+        right: 0px;
+    }
+    #msviLSBWeb
+    {
+        background-color: transparent;
+        background-image: url(/library/toolbar/3.0/images/LSB/en-us.gif);
+        background-repeat: no-repeat;
+        border-width: 0;
+        cursor: pointer;
+        height: 20px;
+        margin: 2px 0px 1px 5px;
+        padding: 0;
+        width: 38px;
+    }
+</style>
+<div id="utility">
+<table cellspacing="0" cellpadding="0" border="0" style="float:right;">
+<tr>
+<td>
+    <div id="utility-location" class="right">
+        <h3 class="offscreen">
+            Locations</h3>
+        <span class="current">United States</span> <a href="http://www.microsoft.com/worldwide">
+            Change</a> <a class="last" href="http://www.microsoft.com/library/toolbar/3.0/sitemap/en-us.mspx">
+                All Microsoft Sites</a>
+    </div>
+    <h3 class="offscreen">
+        Search</h3>
+  </td>
+  </tr>
+  <tr>
+  <td>  
+    <div id="utility-search" class="right">
+        
+        <div class="msviLSBsform">
+            <form id="msviLSBForm" action="javascript:void(0);" target="_top">
+            <div id="msKiev" style="float: left">
+                
+                <input id="msviLSBtbox" style="font-style: italic; color: #a1a1a1;font-size:12px;" onkeydown="if(event.keyCode == 13)searchBoxBlur('Search Microsoft.com')"
+                    onfocus="searchBoxFocused('Search Microsoft.com')" onblur="searchBoxBlur('Search Microsoft.com')"
+                    type="text" name="qu" value="Search Microsoft.com" autocomplete="off" />
+                <span id="msviLSBlogo" class="msviLSBlogo" title="Results by Bing"></span>
+                <input id="msviLSBssearch" title="Search Microsoft.com" type="image" name="site"
+                    src="/library/toolbar/3.0/images/LSB/Search_icon.gif" align="absmiddle" onclick="trackLSB('Site');searchSiteorWeb('Site');" />
+            </div>
+            <div style="float: left;">
+                <input id="msviLSBWeb" title="Search the Web" name="sweb" type="submit" value=""
+                    onclick="trackLSB('Web');searchSiteorWeb('Web');" /></div>
+            </form>
+        </div>
+    </div>
+    </td>
+    </tr>
+    </table>
+    <div class="clear">
+    </div>
+</div>
+
+                <div id="homepage-hero" class="main-hero">
+             
+                    <h1 id="heroHeader">
+                       Microsoft Online Safety</h1>
+                    <div id="interior-site-nav" style="padding-right: 18px">
+                        <ul>
+                            <li><a class="on" href="/protect/worldwide/default.aspx">Worldwide Sites</a></li>
+                        </ul>
+                    </div>
+					<h2 id="tagline">Online Safety<br/>and Privacy Education</h2>
+                </div>
+                <div id="main-content">
+                    <div id="main-content-bgTop">
+                        <div id="main-nav">
+                            
+<link rel="stylesheet" type="text/css" href="/protect/assets/styles/top_nav.css" />
+<div id="centeredContentDiv">
+    <table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+            <td valign="top">
+                <div style="padding: 0px 0px;">
+                    <div id="navContainer">
+                        <div id="navElements">
+                            <div id="mainNav">
+                               
+                                <a class="off" href="/protect/default.aspx" onmouseover="revealSub(this)"
+                                    onmouseout="triggerSub(this)" >Home</a>
+                                    <img  border="0" src="/protect/assets/images/top_nav/divider.jpg" />
+                                     <a class="off"   href="javascript:void(0);" onmouseover="revealSub(this)"
+                                        onmouseout="triggerSub(this)" >Fraud Prevention</a> 
+                                    <img  border="0" src="/protect/assets/images/top_nav/divider.jpg" />
+                                        <a class="off"  href="javascript:void(0);" onmouseover="revealSub(this)"
+                                            onmouseout="triggerSub(this)">Data Protection</a> 
+                                            <img  border="0" src="/protect/assets/images/top_nav/divider.jpg" />
+           
+                               
+                                <a class="off" style="padding-left:59px; padding-right:59px"    href="javascript:void(0);"
+                                    onmouseover="revealSub(this)" onmouseout="triggerSub(this)" >Resources</a>
+                               <img  border="0" src="/protect/assets/images/top_nav/divider.jpg" />
+                                <a class="off" style="padding-left:59px; padding-right:59px"  href="https://consumersecuritysupport.microsoft.com/default.aspx?mkt=en-us&amp;st=1&amp;wfxredirect=1&amp;entrypt=twcp" 
+                                    onmouseover="revealSub(this)" onmouseout="triggerSub(this)">Get Support</a>
+                            </div>
+                            <div id="subNav" class="normal" style="position: relative;">
+                                <div id="subNav0" onmouseover="sustain()" onmouseout="release()" class="subLinks">
+                                </div>
+                                <div id="subNav1" onmouseover="sustain()" onmouseout="release()" class="subLinks">
+                                    <a href="javascript:void(0);" class="withSubs" onmouseover="showLevel3(this);" onmouseout="hideLevel3(this);">Phishing & E-mail Scams</a>
+                                    <div class="level3" id="Phishing & E-mail ScamsSubs" onmouseover="sustain()" onmouseout="release()">
+                                        <div class="left">
+										  <a href="/protect/fraud/phishing/reduce.aspx">Reduce the risk of online fraud</a>
+                                           
+       
+                                       
+                                            <a href="/protect/fraud/phishing/symptoms.aspx">Dangerous e-mails and
+                                                links</a> <a href="/protect/fraud/phishing/spoof.aspx">Spoofed Web sites</a>
+                                          
+                                            <a href="/protect/fraud/phishing/respond.aspx">If you've responded to
+                                                a scam</a>
+                                           
+                                            <a href="/protect/fraud/phishing/Msname.aspx">Scams that use Microsoft's
+                                                name</a> <a href="/protect/fraud/phishing/feefraud.aspx">Scams that promise
+                                                    money</a> <a href="/protect/fraud/phishing/interests.aspx">Scams that
+                                                        target your interests</a>
+                                          
+                                                                                   
+                                        </div>
+                                    </div>
+                                    <table style="width: 1px; float: left; border: 0px">
+                                        <tr>
+                                            <td valign="top">
+                                                <img src="/protect/assets/images/top_nav/2nd_level_divider.png" width="1px;"
+                                                    height="32px;" />
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <a href="javascript:void(0);" class="withSubs" onmouseover="showLevel3(this);" onmouseout="hideLevel3(this);">
+                                        Spam</a>
+                                    
+                                    <div class="level3" id="SpamSubs" onmouseover="sustain()" onmouseout="release()">
+                                        <div class="left">
+                                            <a href="/protect/fraud/spam/prevent.aspx">Spam filters</a> <a href="/protect/fraud/spam/email.aspx">
+                                                Suspicious e-mail</a> <a href="/protect/fraud/spam/imsafety.aspx">Instant
+                                                    messaging</a>
+                                        </div>
+             
+                                    </div>
+                                    <table style="width: 1px; float: left; border: 0px">
+                                        <tr>
+                                            <td valign="top">
+                                                <img src="/protect/assets/images/top_nav/2nd_level_divider.png" width="1px;"
+                                                    height="32px;" />
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <a href="javascript:void(0);" class="withSubs" onmouseover="showLevel3(this);" onmouseout="hideLevel3(this);">
+                                        Passwords</a>
+                                    
+                                    <div class="level3" id="PasswordsSubs" onmouseover="sustain()" onmouseout="release()">
+                                        <div class="left">
+                                            <a href="/protect/fraud/passwords/create.aspx">Create strong passwords</a>
+                                            <a href="/protect/fraud/passwords/secret.aspx">Protect passwords</a>
+                                            <a href="https://www.microsoft.com/protect/fraud/passwords/checker.aspx?WT.mc_id=Site_Link">Check your password&#8217;s strength</a>
+                                        </div>
+                                    </div>
+                                    <table style="width: 1px; float: left; border: 0px">
+                                        <tr>
+                                            <td style="padding-top: 0px;">
+                                                <img src="/protect/assets/images/top_nav/2nd_level_divider.png" width="1px;" height="32px;" />
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <a href="javascript:void(0);" class="withSubs" onmouseover="showLevel3(this);" onmouseout="hideLevel3(this);">
+                                        Shopping</a>
+                                    <div class="level3" id="ShoppingSubs" onmouseover="sustain()" onmouseout="release()">
+                                        <div class="left">
+                                            <a href="/protect/fraud/finances/shopping_us.aspx">Online shopping</a>
+                                           <a href="/protect/fraud/finances/6rules_us.aspx">6 rules for safer financial transactions online</a>
+										   <a href="/protect/fraud/finances/paying.aspx">Online payment services</a>
+                                            <a href="/protect/fraud/finances/bidding.aspx">Online auctions: Buying</a>
+                                            <a href="/protect/fraud/finances/selling.aspx">Online auctions: Selling</a>
+                                            <a href="/protect/fraud/finances/donating.aspx">Avoid online donation
+                                                scams</a>
+										 <a href="/protect/fraud/finances/local_us.aspx">Buying and selling locally online</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="subNav2" onmouseover="sustain()" onmouseout="release()" class="subLinks">
+                                    <a href="javascript:void(0);" class="withSubs" onmouseover="showLevel3(this);" onmouseout="hideLevel3(this);">
+                                        Downloading & File Sharing</a>
+                                    <div class="level3" id="Downloading & File SharingSubs" onmouseover="sustain()" onmouseout="release()">
+                                        <div class="left">
+                                            <a href="/protect/data/downloadfileshare/about.aspx">Download music, software,
+                                                or images</a> <a href="/protect/data/downloadfileshare/filesharing.aspx">
+                                                    P2P file sharing</a> <a href="/protect/data/downloadfileshare/gadgets.aspx">
+                                                        Gadgets in Windows</a>  
+                                        </div>
+                                    </div>
+                                    <table style="width: 1px; float: left; border: 0px">
+                                        <tr>
+                                            <td valign="top">
+                                                <img src="/protect/assets/images/top_nav/2nd_level_divider.png" width="1px;"
+                                                    height="32px;" />
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <a href="javascript:void(0);" class="withSubs" onmouseover="showLevel3(this);" onmouseout="hideLevel3(this);">
+                                        Data Backup</a>
+                                    <div class="level3" id="Data BackupSubs" onmouseover="sustain()" onmouseout="release()">
+                                        <div class="left">
+                                            <a href="/protect/data/backup/about.aspx">Data backup</a> <a href="/protect/data/backup/oldpc.aspx">
+                                                Old computers</a>
+                                        </div>
+                                    </div>
+                                    <table style="width: 1px; float: left; border: 0px">
+                                        <tr>
+                                            <td valign="top">
+                                                <img src="/protect/assets/images/top_nav/2nd_level_divider.png" width="1px;"
+                                                    height="32px;" />
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <a href="javascript:void(0);" class="withSubs" onmouseover="showLevel3(this);" onmouseout="hideLevel3(this);">
+                                        Home Network</a>
+                                    <div class="level3" id="Home NetworkSubs" onmouseover="sustain()" onmouseout="release()">
+                                        <div class="left">
+                                            <a href="/protect/data/home/wireless.aspx">Home wireless networks</a>
+                                        </div>
+                                    </div>
+                                    <table style="width: 1px; float: left; border: 0px">
+                                        <tr>
+                                            <td valign="top">
+                                                <img src="/protect/assets/images/top_nav/2nd_level_divider.png" width="1px;"
+                                                    height="32px;" />
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <a href="javascript:void(0);" class="withSubs" onmouseover="showLevel3(this);" onmouseout="hideLevel3(this);">
+                                        Public PCs</a>
+                                    
+                                    <div class="level3" id="Public PCsSubs" onmouseover="sustain()" onmouseout="release()">
+                                        <div class="left">
+                                            <a href="/protect/mobile/public/publicpc.aspx">Public computers</a>
+                                            <a href="/protect/mobile/public/publicwireless.aspx">Public Wi-Fi</a>
+                                              <a href="/protect/mobile/laptop/travel.aspx">Laptops</a>
+                                        </div>
+                                    </div>
+                                </div>
+       
+                              
+                                <div id="subNav3" onmouseover="sustain()" onmouseout="release()" class="subLinks">
+                                <a href="/protect/videos/video.aspx#intro" class="withOutSubs" onmouseover="hideOldLevel3(this);">Videos</a>
+                                    <div class="level3" id="VideosSubs" onmouseover="sustain()" onmouseout="release()">
+                                    </div>
+                                    <table style="width: 1px; float: left; border: 0px">
+                                        <tr>
+                                            <td valign="top">
+                                                <img src="/protect/assets/images/top_nav/2nd_level_divider.png" width="1px;"
+                                                    height="32px;" />
+                                            </td>
+                                        </tr>
+                                    </table>
+                                
+                                    <a href="/protect/resources/brochures.aspx" class="withOutSubs" onmouseover="hideOldLevel3(this);">
+                                        Brochures & Fact Sheets</a>
+                                    <div class="level3" id="Brochures & FactsheetsSubs" onmouseover="sustain()" onmouseout="release()">
+                                    </div>
+                                    <table style="width: 1px; float: left; border: 0px">
+                                        <tr>
+                                            <td valign="top">
+                                                <img src="/protect/assets/images/top_nav/2nd_level_divider.png" width="1px;"
+                                                    height="32px;" />
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <a href="/protect/resources/book.aspx" class="withOutSubs" onmouseover="hideOldLevel3(this);">
+                                       Book</a>
+                                    <div class="level3" id="BookSubs" onmouseover="sustain()" onmouseout="release()">
+                                    </div>
+                                    <table style="width: 1px; float: left; border: 0px">
+                                        <tr>
+                                            <td valign="top">
+                                                <img src="/protect/assets/images/top_nav/2nd_level_divider.png" width="1px;"
+                                                    height="32px;" />
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    
+                           
+                                    <a href="/protect/resources/event.aspx" class="withOutSubs" onmouseover="hideOldLevel3(this);">
+                                        Events Guide</a>
+                                    <div class="level3" id="Events GuideSubs" onmouseover="sustain()" onmouseout="release()">
+                                    </div>
+                                    <table style="width: 1px; float: left; border: 0px">
+                                        <tr>
+                                            <td valign="top">
+                                                <img src="/protect/assets/images/top_nav/2nd_level_divider.png" width="1px;"
+                                                    height="32px;" />
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <a href="/protect/resources/powerpoint.aspx" class="withOutSubs" onmouseover="hideOldLevel3(this);">
+                                        PowerPoint Presentation</a>
+                                    <div class="level3" id="PowerPoint PresentationSubs" onmouseover="sustain()" onmouseout="release()">
+                                    </div>
+									<table style="width: 1px; float: left; border: 0px">
+                                        <tr>
+                                            <td valign="top">
+                                                <img src="/protect/assets/images/top_nav/2nd_level_divider.png" width="1px;"
+                                                    height="32px;" />
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <a  href="/protect/resources/newsletter.aspx" class="withOutSubs" onmouseover="hideOldLevel3(this);">
+                                        Newsletter</a>
+                                    <div class="level3" id="NewsletterSubs" onmouseover="sustain()" onmouseout="release()">
+                                    </div>	
+                                    <table style="width: 1px; float: left; border: 0px">
+                                        <tr>
+                                            <td valign="top">
+                                                <img src="/protect/assets/images/top_nav/2nd_level_divider.png" width="1px;"
+                                                    height="32px;" />
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <a  href="/protect/resources/research.aspx" class="withOutSubs" onmouseover="hideOldLevel3(this);">
+                                        Research</a>
+                                    <div class="level3" id="ResearchSubs" onmouseover="sustain()" onmouseout="release()">
+                                    </div>
+                                   
+                                </div>
+                                <div id="subNav4" onmouseover="sustain()" onmouseout="release()" class="subLinks">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<script language="javascript" src="/protect/assets/scripts/top_nav.js"></script>
+
+
+
+<script language="javascript">selectNavigation(5);</script>
+
+
+                        </div>
+                        <div id="inner-content">
+                            <div id="homepage-buckets">
+                            
+                                <div class="MainLeft">
+                                    
+                                    
+  <div class="block">
+    <div class="block-left">
+      <a href="/protect/familysafety/default.aspx" onmouseover="document.protect1.src='assets/images/_protect/homepage/ProtectYourFamily_hover.jpg'" onmouseout="document.protect1.src='assets/images/_protect/homepage/ProtectYourFamily.jpg'">
+        <img src="assets/images/_protect/homepage/ProtectYourFamily.jpg" name="protect1" alt="Protect your family by learning about computer security and identity theft issues" />
+      </a>
+    </div>
+    <div class="block-right">
+      <h1>PROTECT YOUR FAMILY</h1>
+      <p style="margin-bottom:0.5em;">Minimize the risk of cyberbullying, help kids use social networking sites more safely, and use parental controls in Microsoft products to help keep your family safer online.</p>
+      <div class="slidePanel">
+        <div class="slideHeader">
+          <table border="0" width="100%">
+            <tr>
+              <td width="10px;">
+                <img class="slideImage" src="assets/images/_protect/homepage/Aarow-Collapse.gif" border="0" align="absMiddle"></img>
+              </td>
+              <td>
+                <font color="#aa3200">
+                  <b>Tools  &amp; How Tos</b>
+                </font>
+              </td>
+            </tr>
+          </table>
+          <div class="hr_home"></div>
+        </div>
+        <div class="slideBody" style="display:none;">
+          <ul class="arrow_list">
+            <li>
+              <a href="/protect/familysafety/childsafety.aspx">Child safety</a>
+            </li>
+            <li>
+              <a href="/protect/familysafety/products.aspx">Products</a>
+              <li class="last">
+                <a href="/protect/familysafety/socialnetworking.aspx">Social networking</a>
+              </li>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="block">
+    <div class="block-left">
+      <a href="/protect/yourself/default.aspx" onmouseover="document.protect2.src='assets/images/_protect/homepage/ProtectYourself_hover.jpg'" onmouseout="document.protect2.src='assets/images/_protect/homepage/ProtectYourself.jpg'">
+        <img src="assets/images/_protect/homepage/ProtectYourself.jpg" name="protect2" alt="Protect yourself from identity theft issues and other internet security problems with these tools"></img>
+      </a>
+    </div>
+    <div class="block-right">
+      <h1>PROTECT YOURSELF</h1>
+      <p style="margin-bottom:0.5em;">Create strong passwords, handle suspicious e-mail messages, download files more safely, and use anti-phishing technologies to keep yourself safer online.</p>
+      <div class="slidePanel">
+        <div class="slideHeader">
+          <table border="0" width="100%">
+            <tr>
+              <td width="10px;">
+                <img class="slideImage" src="assets/images/_protect/homepage/Aarow-Collapse.gif" border="0" align="absMiddle"></img>
+              </td>
+              <td>
+                <font color="#aa3200">
+                  <b>Tools &amp; How Tos</b>
+                </font>
+              </td>
+            </tr>
+          </table>
+          <div class="hr_home"></div>
+        </div>
+        <div class="slideBody" style="display:none;">
+          <ul class="arrow_list">
+            <li>
+              <a href="/protect/fraud/default.aspx">How to prevent fraud</a>
+            </li>
+            <li>
+              <a href="/protect/data/default.aspx">How to protect your data</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="block">
+    <div class="block-left">
+      <a href="/security/default.aspx" onmouseover="document.protect3.src='assets/images/_protect/homepage/ProtectYourComputer_hover.jpg'" onmouseout="document.protect3.src='assets/images/_protect/homepage/ProtectYourComputer.jpg'">
+        <img src="assets/images/_protect/homepage/ProtectYourComputer.jpg" name="protect3" alt="Get information and tools on computer security here"></img>
+      </a>
+    </div>
+    <div class="block-right">
+      <h1>PROTECT YOUR COMPUTER</h1>
+      <p style="margin-bottom:0.5em;">Get information about security updates, products, and technologies to help protect your computer.  Learn the 4 steps to computer security and more.</p>
+      <div class="slidePanel">
+        <div class="slideHeader">
+          <table border="0" width="100%">
+            <tr>
+              <td width="10px;">
+                <img class="slideImage" src="assets/images/_protect/homepage/Aarow-Collapse.gif" border="0" align="absMiddle" />
+              </td>
+              <td>
+                <font color="#aa3200">
+                  <b>Tools &amp; How Tos</b>
+                </font>
+              </td>
+            </tr>
+          </table>
+          <div class="hr_home"></div>
+        </div>
+        <div class="slideBody" style="display:none;">
+          <ul class="arrow_list">
+            <li>
+              <a href="http://www.microsoft.com/security/pypc.aspx">Protect your PC</a>
+            </li>
+            <li>
+              <a href="http://go.microsoft.com/fwlink/?LinkId=148275">Get the latest security updates</a>
+            </li>
+            <li class="last">
+              <a href="http://www.microsoft.com/security_essentials/">Learn about Microsoft Security Essentials</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="block">
+    <div class="block-left" style="padding-bottom:25px;min-height:100px;">
+      <a href="/protect/community.aspx" onmouseover="document.protect4.src='assets/images/_protect/homepage/CommunityDiscussions_hover.jpg'" onmouseout="document.protect4.src='assets/images/_protect/homepage/CommunityDiscussions.jpg'">
+        <img src="assets/images/_protect/homepage/CommunityDiscussions.jpg" name="protect4" alt="Join the Microsoft community and learn about internet security and computer security issues" />
+      </a>
+    </div>
+    <div class="block-right">
+      <h1>COMMUNITY</h1>
+      <p style="margin-bottom:0.5em;">
+          Read top questions asked, participate in our forum, or learn what key bloggers are saying <a href="/protect/community.aspx">in our community</a>.
+        </p>
+    </div>
+  </div>
+  <div class="callouts">
+    <div class="padding">
+      <h2 style="font-size: 2em;margin:10px 0px 10px 0px;">Search online safety site</h2>
+      <div class="hr1" style="margin:10px 0px 15px 0px;"></div>
+      <form id="Form1" action="/protect/searchRdr.aspx" target="_top">
+        <div style="float:left">
+          <input class="text text02 swaptextbox" style="width:330px;font-style: italic; color: #a1a1a1;" type="text" name="qu" value="Search The Site"></input>
+        </div>
+        <div style="float: left;">
+          <input id="siteSubmit" title="Search the Site" type="submit" value=""></input>
+        </div>
+      </form>
+    </div>
+  </div>
+  <div class="FrequentlyQuestionsbox">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="21%" rowspan="3" align="center" valign="top" style="padding:5px;">
+          <img src="assets/images/_protect/homepage/questionmark.png" width="98" height="108" alt="Security terms" />
+        </td>
+        <td width="79%" style="padding:5px 0px 2px 20px;">
+          <h2>Security terms</h2>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">
+          <img style="margin-left:0px;margin-top:0px;padding:0;" height="2" title="line" alt="line" width="308" src="assets/images/_protect/homepage/Divider.png" />
+        </td>
+      </tr>
+      <tr>
+        <td align="left" valign="top" style="padding-top:5px">
+            Ever have questions like "What is a firewall?" or "What are cookies?" Find answers to these questions and many more on our <a href="/protect/terms/default.aspx">computer security terms</a> page.
+          </td>
+      </tr>
+    </table>
+  </div>
+
+                                </div>
+                                <div class="MainRight">
+                                    
+                                    
+  <div class="MainRightUpper">
+    <div style="padding:11px 15px 9px 23px;">
+      <table width="100%">
+        <tr>
+          <td>
+            <h2>Recent news</h2>
+          </td>
+          <td width="24px;">
+            <a href="http://blogs.msdn.com/securitytipstalk/rss.xml">
+              <img title="RSS Security Tips and Talk Blog" src="assets/images/homepage/RSSIcon.gif" alt="RSS Latest Security News"></img>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </div>
+    <img style="margin-left:5px;margin-top:0px;padding:0;" height="2" title="line" alt="line" src="assets/images/_protect/homepage/Divider.png" />
+    <div style="padding:15px 15px 0px 23px;" id="rssData0">
+      <p>
+          Loading News....<img src="assets/images/loading2.gif" height="30px" width="30px;"></img>Please Wait
+        </p>
+    </div>
+    <script type="text/javascript">setTimeout("LoadRssNews()",500);</script>
+    <div style="margin:17px 15px 0px 23px;">
+      <h2>Stay informed</h2>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="46px;">
+            <img src="assets/images/_protect/homepage/SafetyNews.gif" title="Stay Informed" alt="Exclamation Mark" border="0" />
+          </td>
+          <td style="padding-left:10px;">
+            <ul class="arrow_list_new">
+              <li>
+                <a href="/protect/resources/newsletter.aspx">Read and sign-up for our Online Safety &amp; Security newsletter </a>
+              </li>
+              <li>
+                <a href="http://blogs.msdn.com/securitytipstalk/">Follow our Security Tips &amp; Talk blog</a>
+              </li>
+              <li>
+                <table border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td valign="top">
+                      <a href="http://www.twitter.com/Safer_Online">Follow us on Twitter</a>
+                    </td>
+                    <td style="padding-left:5px;">
+                      <a href="http://www.twitter.com/Safer_Online">
+                        <img src="assets/images/_protect/homepage/TwitterIcon.jpg" alt="Follow us on Twitter" border="0" />
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </li>
+              <li>
+                <table border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td valign="top">
+                      <a href="http://www.youtube.com/MSFTOnlineSafety">Follow us on YouTube</a>
+                    </td>
+                    <td>
+                      <a href="http://www.youtube.com/MSFTOnlineSafety">
+                        <img src="assets/images/_protect/homepage/youtube_new.jpg" alt="Follow us on YouTube" border="0" style="margin-top:-3px;" />
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </li>
+              <li class="last">
+                <table border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td valign="top">
+                      <a href="http://www.facebook.com/pages/Safer-Online-by-Microsoft/153181721368672?v=app_2373072738#!/pages/Safer-Online-by-Microsoft/153181721368672?v=wall">Follow us on Facebook</a>
+                    </td>
+                    <td style="padding-left:5px;">
+                      <a href="http://www.facebook.com/pages/Safer-Online-by-Microsoft/153181721368672?v=app_2373072738#!/pages/Safer-Online-by-Microsoft/153181721368672?v=wall">
+                        <img src="assets/images/_protect/homepage/Facebook.jpg" alt="Follow us on Facebook" border="0" />
+                      </a>
+                    </td>
+                  </tr>
+                </table>
+              </li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="MainRightMiddle">
+    <div class="FrequentlyQuestionsbox">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="21%" rowspan="3" align="center" valign="top" style="padding:5px;">
+            <img src="assets/images/_protect/homepage/addon_sticky_note_small.jpg" width="98" height="106" alt="Sticky note reminder" />
+          </td>
+          <td width="79%" style="padding:5px 0px 2px 20px;">
+            <h2>Free online safety tool</h2>
+          </td>
+        </tr>
+        <tr>
+          <td valign="top">
+            <img style="margin-left:0px;margin-top:0px;padding:0;" height="2" title="line" alt="line" width="300px" src="assets/images/_protect/homepage/Divider.png" />
+          </td>
+        </tr>
+        <tr>
+          <td align="left" valign="top" style="padding-top:5px">
+              Download a <a href="/protect/resources/addon.aspx">free Internet Explorer add-on</a> that offers monthly online safety tips for you and your family.
+            </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+  <div class="MainRightLower">
+    <div style="margin:11px 0px 9px 23px;">
+      <table width="100%" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>
+            <h2>Get Microsoft Security Essentials</h2>
+          </td>
+        </tr>
+      </table>
+    </div>
+    <img style="margin-left:3px;margin-top:0px;padding:0;" height="2" title="line" alt="line" src="assets/images/_protect/homepage/Divider.png"></img>
+    <div style="margin:17px 15px 0px 23px;float:left">
+      <div style="float:left;width:238px;">
+        <a href="http://www.microsoft.com/security_essentials/default.aspx" id="promo_image">
+          <img src="assets/images/_protect/homepage/MSEProtect.gif" title="Download Microsoft Security Essentials" alt="Download Microsoft Security Essentials" width="238" border="0" />
+        </a>
+      </div>
+      <div style="float:left;padding:0px 0px 0px 5px;width:126px;" id="promo_links">
+        <p>
+            Free software helps you avoid viruses, spyware, and other malicious software.
+
+            <br /><br /><a href="http://www.microsoft.com/security_essentials/default.aspx" onmouseover="document.button1.src='assets/images/_protect/homepage/DownloadProtecthover.gif'" onmouseout="document.button1.src='assets/images/_protect/homepage/DownloadButton.gif'"><img style="margin-left:12px;margin-top:5px;" src="assets/images/_protect/homepage/DownloadButton.gif" title="Download Now" alt="Download Now" name="button1" /></a><br /><a href="/security/products/mse.aspx" onmouseover="document.learn1.src='assets/images/_protect/homepage/LearnMoreProtecthover.gif'" onmouseout="document.learn1.src='assets/images/_protect/homepage/LearnMore.gif'"><img style="margin-left:12px;margin-top:5px;" src="assets/images/_protect/homepage/LearnMore.gif" title="Learn More" alt="Learn More" name="learn1" /></a><br /></p>
+      </div>
+    </div>
+  </div>
+  <!--<div style="float:left;width:238px; margin-left: 30px; margin-top: 20px;">
+		<a href="http://www.microsoft.com/windows/windows-7/default.aspx"><img src="assets/images/_protect/homepage/WindowsAd.jpg" alt="Windows 7 now available. Find out what makes it different." width="300" height="250" border="0"/></a>
+		<br/><ul class="arrow_list_new">
+		<li><a href="http://www.microsoft.com/windows/windows-7/default.aspx"><strong>Windows 7 now available. Find out what makes it different.</strong></a></li>
+		</ul>
+		 </div>-->
+  <div class="clear"></div>
+
+                                </div>
+                             
+                                <div class="clear"></div>
+                                
+                                <div class="FullBottom">
+                                <div class="clear"></div>
+                                
+                                    
+                                    
+  <div style="padding-top:20px;display:block;position:relative;float:left;">
+    <iframe src="/protect/videoControl_home.aspx" frameborder="0" allowTransparency="true" width="884px" scrolling="no" height="280px"></iframe>
+  </div>
+
+                                    
+                                </div>
+                                <!-- new-->
+                                
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+                        
+                        <hr id='FeedbackRule'><table id='Feedback_table' class='FeedbackTable'><tr><td><div class='FeedbackHeading'>Was This Information Useful?</div></td></tr><tr><td><input class='FeedbackButtonStyle' type='button' id='Yes1' value='Yes' title='Yes' onclick="fnOptionClicked('/business/feedback/frmsurveyform.aspx','1','b157835d-fb0e-4b9d-8cc1-172d5bbbae8e')"><input class='FeedbackButtonStyle' type='button' id='No2' value='No' title='No' onclick="fnOptionClicked('/business/feedback/frmsurveyform.aspx','2','b157835d-fb0e-4b9d-8cc1-172d5bbbae8e')"></td></tr></table>
+
+<script type="text/javascript" language="javascript">
+    var objNewWin;
+    var str_FEEDBACK_VALUE;
+    var str_UNIQUE_SESSION_ID;
+    
+    function fnOptionClicked(strLinkUrl,strSurveyValue,strSessionGUID)
+    {
+        var strResult;
+        var strTitle;
+        var strXMLText;
+        var strUrl;
+        var strDescription;
+        var strContentTopic;
+        var strContentType;
+        
+        // supply domain name to allow Cross-Frame Scripting and Security 
+        //document.domain="wwwppe"; //for example domain name will be 'microsoft.com'
+           //alert(strLinkUrl); 
+        if(strLinkUrl != '')
+        {   
+	        
+	        strTitle=document.title;
+	        strUrl=window.location.href;
+	        
+	        strDescription=fnGetArticleMetaValue("description");        //reading description
+	        strContentTopic=fnGetArticleMetaValue("contentTopic");      //reading content topic
+	        strContentType=fnGetArticleMetaValue("contentType");        //reading content type 
+	        
+	        strContentType=fnDecode(strContentType);                    //decoding to avoid error from asp.net while data transfer
+	        strContentTopic=fnDecode(strContentTopic);                  //decoding to avoid error from asp.net while data transfer
+	        strDescription=fnDecode(strDescription);                    //decoding to avoid error from asp.net while data transfer
+	        strTitle=fnDecode(strTitle);
+	        //alert(strTitle);
+	        //generating xml data for data transfer to survey form and storing in variable
+            str_FEEDBACK_VALUE="&lt;POSTEDDATA&gt;&lt;URL Value='" + strUrl + "'/&gt;&lt;TITLE Value='" + strTitle + "'/&gt;&lt;USERRESPONSE Value='" + strSurveyValue + "'/&gt;&lt;CONTENTTOPIC Value='" + strContentTopic + "'/&gt;&lt;CONTENTTYPE Value='" + strContentType + "'/&gt;&lt;DESCRIPTION Value='" + strDescription + "'/&gt;&lt;/POSTEDDATA&gt;";
+            //alert(str_FEEDBACK_VALUE);
+    	    //storing session id in variable for data transfer
+    	    str_UNIQUE_SESSION_ID=strSessionGUID; 
+    	    
+	        try
+	        {
+	            objNewWin.close(); //to close survey form if already open
+	        }
+	        catch(e)
+	        {
+	            //do nothing
+	        }
+	                
+	        //openning survey form in new window
+	        objNewWin=window.open(strLinkUrl,"displayWindow","scrollbars=yes,width=650,height=415,left=" + (screen.width - 650) / 2  +  ",top=" +   (screen.height - 366) / 2);
+	                
+	    }
+
+    }
+    
+    //function to decode text
+    function fnDecode(strText)
+    {
+        strText=strText.replace("'","&quot;");
+        strText=strText.replace("<","&lt;");
+        strText = strText.replace(">", "&gt;");
+        //strText = strText.replace("&", "&amp;");
+        strText=strText.replace("&#","_#^#_"); //encoding the &# to handle extended asci characters, will be decoded back in the survey form
+        return strText;
+    }
+    
+    
+    //function to read meta data
+    function fnGetArticleMetaValue(strAttributeName)
+    {   
+        var objXMLDOMNodeList = document.getElementsByTagName("meta"); //get nodelist of meta tags
+        if(objXMLDOMNodeList!=null)
+        {
+            for(var intCount=0;intCount<objXMLDOMNodeList.length;intCount++) //looping in nodelist
+            {
+                if(objXMLDOMNodeList[intCount].getAttribute("name") != null){
+                    if (objXMLDOMNodeList[intCount].getAttribute("name").toUpperCase() == strAttributeName.toUpperCase()) //comparing attribute of node element
+                    {
+                        return objXMLDOMNodeList[intCount].getAttribute("content"); //returning the meta data value
+                    }
+                }
+            }
+        }
+        return ""; //returning blank in case meta data not found
+    }
+
+</script>
+
+
+                        <div id="footer">
+                            
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td>
+<div style="float:right;">
+<table border="0" cellspacing="0" cellpadding="0">
+
+    <tr>
+        
+        <td>
+        
+            <table>
+                <tr>
+                    <td>
+                        <ul class="arrowListH" style="margin-bottom:0.2em;float:right">
+                        <li><a href="http://www.microsoft.com/privacy/" target="_blank">Privacy</a>&nbsp;&nbsp;&nbsp;|</li>
+                            <li><a href="http://www.microsoft.com/security/" target="_blank">Security</a>&nbsp;&nbsp;&nbsp;|</li>
+                            <li><a href="http://www.microsoft.com/protect">Online Safety</a>&nbsp;&nbsp;&nbsp;|</li>
+                            <li><a href="http://technet.microsoft.com/security/default.aspx" target="_blank">TechNet</a>&nbsp;&nbsp;&nbsp;|</li>
+                            <li><a href="http://msdn.microsoft.com/en-us/security/default.aspx" target="_blank">MSDN</a>&nbsp;&nbsp;&nbsp;|</li>
+                            <li><a href="http://www.microsoft.com/midsizebusiness/security/computer-and-network-security.mspx" target="_blank">
+                                Businesses</a>&nbsp;&nbsp;&nbsp;|</li>
+                            <li><a href="http://go.microsoft.com/?linkid=317027"  target="_blank">Manage Profile</a>&nbsp;</li>
+			
+
+                        </ul>
+                    </td>
+                </tr>
+                <tr>                    
+                    <td>
+                        <ul class="arrowListH" style="float:right">
+                            <li><a href="http://support.microsoft.com/contactus/?ws=mscom" target="_blank">Contact Us</a>&nbsp;&nbsp;&nbsp;|</li>
+                            <li><a href="http://go.microsoft.com/?linkid=4412892" target="_blank">Terms of Use</a>&nbsp;&nbsp;&nbsp;|</li>
+                            <li><a href="http://go.microsoft.com/?linkid=4412893" target="_blank">Trademarks</a>&nbsp;&nbsp;&nbsp;|</li>
+                            <li><a href="http://go.microsoft.com/?linkid=4412894" target="_blank">Privacy Statement</a>&nbsp;</li>
+                        </ul>
+                    </td>
+                   
+                </tr>
+            </table>
+            
+        </td>
+        
+        <td style="padding-left: 20px; font-size: 1em; font-style:italic; text-align:center;" align="right">
+        <img src="/security/assets/images/MS-logo.png" /><br />© 2010 Microsoft
+        </td>
+    </tr>
+</table>
+</div>
+</td>
+</tr>
+</table>                                
+
+
+                        </div>
+                        <div id="main-content-bgBottom">
+                        </div>
+                        <!-- main-content-bgBottom -->
+                    </div>
+                    <!-- main-content-bgTop -->
+                </div>
+                <!-- main content -->
+            </div>
+            <!-- main wrapper -->
+        </div>
+        <!-- main background -->
+    </div>
+
+
+    <script type="text/javascript" language="javascript" charset="utf-8">
+
+        $(document).ready(function() {
+
+            //Fixes an animation glitch caused by the
+            //div's dynamic height.  Need to set the
+            //height style so the slide functions work
+            //correctly.
+            //$("div.slideBody").each(function(){
+            // $(this).css("height", $(this).height() + "px");
+            // });
+
+            //hook the mouseup events to each header
+            $("div.slidePanel").children(
+    "div.slideHeader").mouseup(function() {
+
+        //find the body whose header was clicked
+        var body = $(this).parent().children("div.slideBody");
+
+
+        var slideImage = $(this).find('img');
+        //alert($(slideImage).attr('id'));
+        //slide the panel
+        if (body.is(":hidden")) {
+            $(slideImage).attr({ src: "assets/images/_protect/homepage/Aarow-Expanded.gif" });
+            body.slideDown();
+
+        }
+        else {
+            $(slideImage).attr({ src: "assets/images/_protect/homepage/Aarow-Collapse.gif" });
+            body.slideUp();
+
+        }
+    });
+        });
+    </script>
+
+    <script type="text/javascript">
+        var gDomain = "m.webtrends.com";
+        var gDcsId = "dcsjwb9vb00000c932fd0rjc7_5p3t";
+        var gTrackEvents = "1";
+        var gFpc = "WT_FPC";
+        if (document.cookie.indexOf(gFpc + "=") == -1) {
+            document.write("<SCR" + "IPT TYPE='text/javascript' SRC='" + "http" + (window.location.protocol.indexOf('https:') == 0 ? 's' : '') + "://" + gDomain + "/" + gDcsId + "/wtid.js" + "'><\/SCR" + "IPT>");
+        }
+    </script>
+
+    <script src="http://js.microsoft.com/library/mnp/2/wt/js/wt.js" type="text/javascript"></script>
+
+    <noscript>
+        <img border="0" name="DCSIMG" width="1" height="1" src="http://m.webtrends.com/dcsjwb9vb00000c932fd0rjc7_5p3t/njs.gif?dcsuri=/nojavascript&WT.js=No" /></noscript>
+</body>
+</html>

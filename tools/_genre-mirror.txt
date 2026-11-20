@@ -1,0 +1,9 @@
+horror-games: already present
+fps-games: already present
+rpg-games: already present
+fighting-games: 20101210093455 85149 chars, 64 refs localised
+western-games: already present
+building-games: already present
+comedy-games: already present
+military-games: already present
+naval-games: already present

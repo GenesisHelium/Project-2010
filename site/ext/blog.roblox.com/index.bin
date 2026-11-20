@@ -1,0 +1,467 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<title>Roblox Developers&#039; Journal</title>
+	
+	<meta name="generator" content="WordPress 2.9.2" /> <!-- leave this for stats please -->
+
+	<style type="text/css" media="screen">
+		@import url( http://blog.roblox.com/wp-content/themes/earth-10/style.css );
+	</style>
+
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://blog.roblox.com/?feed=rss2" />
+	<link rel="alternate" type="text/xml" title="RSS .92" href="http://blog.roblox.com/?feed=rss" />
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://blog.roblox.com/?feed=atom" />
+	
+	<link rel="pingback" href="http://blog.roblox.com/xmlrpc.php" />
+    	<link rel='archives' title='December 2010' href='http://blog.roblox.com/?m=201012' />
+	<link rel='archives' title='November 2010' href='http://blog.roblox.com/?m=201011' />
+	<link rel='archives' title='October 2010' href='http://blog.roblox.com/?m=201010' />
+	<link rel='archives' title='September 2010' href='http://blog.roblox.com/?m=201009' />
+	<link rel='archives' title='August 2010' href='http://blog.roblox.com/?m=201008' />
+	<link rel='archives' title='July 2010' href='http://blog.roblox.com/?m=201007' />
+	<link rel='archives' title='June 2010' href='http://blog.roblox.com/?m=201006' />
+	<link rel='archives' title='May 2010' href='http://blog.roblox.com/?m=201005' />
+	<link rel='archives' title='April 2010' href='http://blog.roblox.com/?m=201004' />
+	<link rel='archives' title='March 2010' href='http://blog.roblox.com/?m=201003' />
+	<link rel='archives' title='February 2010' href='http://blog.roblox.com/?m=201002' />
+	<link rel='archives' title='January 2010' href='http://blog.roblox.com/?m=201001' />
+	<link rel='archives' title='December 2009' href='http://blog.roblox.com/?m=200912' />
+	<link rel='archives' title='November 2009' href='http://blog.roblox.com/?m=200911' />
+	<link rel='archives' title='October 2009' href='http://blog.roblox.com/?m=200910' />
+	<link rel='archives' title='September 2009' href='http://blog.roblox.com/?m=200909' />
+	<link rel='archives' title='August 2009' href='http://blog.roblox.com/?m=200908' />
+	<link rel='archives' title='July 2009' href='http://blog.roblox.com/?m=200907' />
+	<link rel='archives' title='June 2009' href='http://blog.roblox.com/?m=200906' />
+	<link rel='archives' title='May 2009' href='http://blog.roblox.com/?m=200905' />
+	<link rel='archives' title='April 2009' href='http://blog.roblox.com/?m=200904' />
+	<link rel='archives' title='March 2009' href='http://blog.roblox.com/?m=200903' />
+	<link rel='archives' title='February 2009' href='http://blog.roblox.com/?m=200902' />
+	<link rel='archives' title='January 2009' href='http://blog.roblox.com/?m=200901' />
+	<link rel='archives' title='December 2008' href='http://blog.roblox.com/?m=200812' />
+	<link rel='archives' title='November 2008' href='http://blog.roblox.com/?m=200811' />
+	<link rel='archives' title='October 2008' href='http://blog.roblox.com/?m=200810' />
+	<link rel='archives' title='September 2008' href='http://blog.roblox.com/?m=200809' />
+	<link rel='archives' title='August 2008' href='http://blog.roblox.com/?m=200808' />
+	<link rel='archives' title='July 2008' href='http://blog.roblox.com/?m=200807' />
+	<link rel='archives' title='June 2008' href='http://blog.roblox.com/?m=200806' />
+	<link rel='archives' title='May 2008' href='http://blog.roblox.com/?m=200805' />
+	<link rel='archives' title='April 2008' href='http://blog.roblox.com/?m=200804' />
+	<link rel='archives' title='March 2008' href='http://blog.roblox.com/?m=200803' />
+	<link rel='archives' title='February 2008' href='http://blog.roblox.com/?m=200802' />
+	<link rel='archives' title='January 2008' href='http://blog.roblox.com/?m=200801' />
+	<link rel='archives' title='December 2007' href='http://blog.roblox.com/?m=200712' />
+	<link rel='archives' title='November 2007' href='http://blog.roblox.com/?m=200711' />
+	<link rel='archives' title='October 2007' href='http://blog.roblox.com/?m=200710' />
+	<link rel='archives' title='September 2007' href='http://blog.roblox.com/?m=200709' />
+	<link rel='archives' title='August 2007' href='http://blog.roblox.com/?m=200708' />
+	<link rel='archives' title='July 2007' href='http://blog.roblox.com/?m=200707' />
+	<link rel='archives' title='June 2007' href='http://blog.roblox.com/?m=200706' />
+	<link rel='archives' title='May 2007' href='http://blog.roblox.com/?m=200705' />
+	<link rel='archives' title='April 2007' href='http://blog.roblox.com/?m=200704' />
+	<link rel='archives' title='March 2007' href='http://blog.roblox.com/?m=200703' />
+	<link rel='archives' title='February 2007' href='http://blog.roblox.com/?m=200702' />
+	<link rel='archives' title='January 2007' href='http://blog.roblox.com/?m=200701' />
+	<link rel='archives' title='December 2006' href='http://blog.roblox.com/?m=200612' />
+		<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blog.roblox.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blog.roblox.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='Roblox Developers&#039; Journal' href='http://blog.roblox.com' />
+<meta name="generator" content="WordPress 2.9.2" />
+<link rel="shortlink" href="" /></head>
+
+<body>
+<div id="container">
+<div id="header">
+	<div id = "headerlogo">
+		<a href="http://www.roblox.com" style="display:inline-block;height:70px;width:267px;cursor:pointer;">
+		<img src="http://blog.roblox.com/wp-content/themes/earth-10/images/RobloxLogo.png" border="0"/></a>
+	</div>
+	<h1><a href="http://blog.roblox.com/">Roblox Developers&#039; Journal</a></h1>
+	<!--<h2>The Roblog</h2> -->
+</div>
+<div id="content">
+
+	
+<div class="post" id="post-3632">
+	 <span class="posted-by">December 10th 2010</span>
+	 <h2 class="storytitle"><a href="http://blog.roblox.com/?p=3632" rel="bookmark">What did you sleigh?</a></h2>
+	
+	<div class="storycontent">
+		<p>Santa Claus is famous for his cookie-eating, toy-sack-hauling, and epic sleigh-driving tactics (I mean, he gets around the world in a single night, while still stopping to eat loads of cookies!).  Does Santa use gearz?  Nobody knows&#8230;  But we made him some, just in case.<a href=""><img class="aligncenter size-full wp-image-3012" title="Sleigh Battle?  Battle Sleigh!" alt="Sleigh Battle?  Battle Sleigh!" src="http://blog.roblox.com/wp-content/uploads/2010/12/BattleSleighCapture.jpg" width="484" height="216" /></a></p>
+<p><a href="/p/Catalog.aspx"><img class="alignleft size-full wp-image-2987" title="Xmas Cookie" alt="Xmas Cookie" src="http://blog.roblox.com/wp-content/uploads/2010/12/XMasCookieIcon.png" width="128" height="128" /></a><strong><a href="/p/Catalog.aspx" target="_blank">X-mas Cookie</a> &#8211; </strong>They call it sugar cookie, we call it &#8220;i can haz?&#8221;</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p><a href="/p/Catalog.aspx"><img class="alignleft size-full wp-image-2993" title="Santa's Big Bag O' Toys" alt="Santa's Big Bag O' Toys" src="http://blog.roblox.com/wp-content/uploads/2010/12/SantaSackIcon.png" width="128" height="128" /></a><strong><a href="/p/Catalog.aspx" target="_blank">Santa&#8217;s Big Bag O&#8217; Toys</a> &#8211; </strong>How does Santa fit so many toys in that bag of his?  After careful scientific analysis of fibers from Santa&#8217;s suit, we have determined that we have no idea.  But we&#8217;re fans!</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p><a href="/p/Catalog.aspx"><img class="alignleft size-full wp-image-2993" title="Battle Sleigh" alt="Battle Sleigh" src="http://blog.roblox.com/wp-content/uploads/2010/12/battleSleighIcon.png" width="128" height="128" /></a><strong><a href="/p/Catalog.aspx" target="_blank">BATTLE SLEIGH!</a> &#8211; </strong>With our holiday rendition of the classic BattleWagons game, you&#8217;ll be dashing through the snow, in a one-horse open BATTLE SLEIGH!  There can only be one Santa.</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p><a href="/p/Catalog.aspx"><img class="alignleft size-full wp-image-2993" title="Frosty Friend" alt="Frosty Friend" src="http://blog.roblox.com/wp-content/uploads/2010/12/frostyIcon.png" width="128" height="128" /></a><strong><a href="/p/Catalog.aspx" target="_blank">Frosty Friend (BC Only)</a> &#8211; </strong>This little guy is the best friend&#8211; he has such a warm heart!  Which is a problem when you&#8217;re made of ice and snow&#8230;  Wait a second&#8211;how did he get out of the snowglobe anyways!?</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>Please discuss the new gear in the <a href="http://www.roblox.com/Forum/ShowPost.aspx?PostID=38462965">forums</a>.</p>
+<p align="right">- HotThoth</p>
+<!-- AddThis Bookmark Post Button BEGIN -->
+<div><a href="http://www.addthis.com/bookmark.php?pub=Telamon&url=http://blog.roblox.com/?p=3632&title=What did you sleigh?" title="Bookmark using any bookmark manager!" target="_blank"><img src="http://s9.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt="AddThis Social Bookmark Button" /></a></div><!-- AddThis Bookmark Post Button END -->
+<br>
+	</div>
+	
+	<div class="post-footer">
+		<div class="meta">Posted in: <a href="http://blog.roblox.com/?cat=1" title="View all posts in News" rel="category">News</a> </div>
+		<div class="feedback">
+	            	            <span>Comments Off</span>		</div>
+		<div class="clear"></div>
+	</div>
+
+</div>
+
+
+	
+<div class="post" id="post-3628">
+	 <span class="posted-by">December 9th 2010</span>
+	 <h2 class="storytitle"><a href="http://blog.roblox.com/?p=3628" rel="bookmark">Frosty Winter Collector&rsquo;s Gift</a></h2>
+	
+	<div class="storycontent">
+		<p><img style="display: inline; float: right" alt="?" align="right" src="/ext/t5bg.roblox.com/98f3bf520c7c6d7e1cc6020a4f4de494" width="134" height="134" /></p>
+<p>Own any six of the following collectible items on Monday Dec 13th to win the <a href="http://www.roblox.com/Frosty-Winter-Collectors-Gift-item?id=41781308">Frosty Winter Collector’s Gift</a>! Figure these out before your fellow ROBLOXians bid up the price on these collectibles!</p>
+<ol>
+<li>A particular saint who could star in Saw IV</li>
+<li>A sinister skull-topper whose advice we abhor</li>
+<li>This lucky hat rhymes with Milty Chick Pig</li>
+<li>A cheap solar blocker conservationists dig</li>
+<li>Not for our pilots, but still the most fly</li>
+<li>A Chinese invention here in oversupply</li>
+<li>Ugly survey prize you’d toss given your druthers </li>
+<li>And the one collectible item, unlike all others</li>
+</ol>
+<p align="right">- Telamon</p>
+<!-- AddThis Bookmark Post Button BEGIN -->
+<div><a href="http://www.addthis.com/bookmark.php?pub=Telamon&url=http://blog.roblox.com/?p=3628&title=Frosty Winter Collector&rsquo;s Gift" title="Bookmark using any bookmark manager!" target="_blank"><img src="http://s9.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt="AddThis Social Bookmark Button" /></a></div><!-- AddThis Bookmark Post Button END -->
+<br>
+	</div>
+	
+	<div class="post-footer">
+		<div class="meta">Posted in: <a href="http://blog.roblox.com/?cat=8" title="View all posts in Contests" rel="category">Contests</a>, <a href="http://blog.roblox.com/?cat=1" title="View all posts in News" rel="category">News</a> </div>
+		<div class="feedback">
+	            	            <span>Comments Off</span>		</div>
+		<div class="clear"></div>
+	</div>
+
+</div>
+
+
+	
+<div class="post" id="post-3623">
+	 <span class="posted-by">December 7th 2010</span>
+	 <h2 class="storytitle"><a href="http://blog.roblox.com/?p=3623" rel="bookmark">New Social Scripting Tricks With Telamon</a></h2>
+	
+	<div class="storycontent">
+		<p><a href="http://blog.roblox.com/wp-content/uploads/2010/12/image14.png"><img style="display: inline" title="image" alt="image" src="http://blog.roblox.com/wp-content/uploads/2010/12/image_thumb13.png" width="500" height="202" /></a></p>
+<p>Hello ROBLOX Scripters!</p>
+<p>In the past client release we snuck in a couple of secret functions to use in our <a href="http://blog.roblox.com/?p=3565">Blazing Man</a> place – for the most part they don’t show up in the <a href="http://wiki.roblox.com/index.php/Object_Browser">Object Browser</a>, however a couple of dedicated ROBLOX Lua hackers have already found them!</p>
+<p>These new functions unlock new and exciting capabilities into your ROBLOX places – namely, access to the ROBLOX social graph. The API isn’t complete yet, and you’ll notice some obvious things are missing, but there is enough there to start to do some interesting things.</p>
+<p><strong>New Stuff</strong></p>
+<p>The <a href="http://wiki.roblox.com/index.php/Player">Player</a> object now has the following undocumented functions:</p>
+<p><em>Player:IsFriendsWith(userId) </em>(returns bool)</p>
+<p><em>Player:IsBestFriendsWith(userId)</em> (bool)</p>
+<p><em>Player:IsInGroup(groupId)</em> (bool)</p>
+<p>The <a href="http://wiki.roblox.com/index.php/RBX.lua.DataModel_(Service)">DataModel</a> service now has the following properties:</p>
+<p><em>game.CreatorId</em> (int)</p>
+<p><em>game.CreatorType</em> (Enum.CreatorType)</p>
+<p><em>game.PlaceId</em> (int)</p>
+<p>We have introduced a new enum, CreatorType. Valid values are:</p>
+<p><em>Enum.CreatorType.User</em> and <em>Enum.CreatorType.Group</em></p>
+<p><strong>Example Usage</strong></p>
+<p>Check if a specific player is friends with the place creator</p>
+<blockquote><p>if (game.Players.Telamon:IsFriendsWith(game.CreatorId)) then …</p>
+</blockquote>
+<p>Get a list of all players in a level that are not in the <a href="http://www.roblox.com/My/Groups.aspx?gid=16127">Roblox Currency Traders group</a> (groupid = 16127). You can get the id for any group by going to it’s group page on ROBLOX and looking at the gid=??? part of the URL.<font style="background-color: #ffffff"></font></p>
+<blockquote><p>local enemies_of_capitalism = {}</p>
+<p>local players = game.Players:GetPlayers()</p>
+<p>for i=1,#players do</p>
+<p>&#160; if (players[i]:IsInGroup(16127) == false) then</p>
+<p>&#160;&#160;&#160;&#160; enemies_of_capitalism[#enemies_of_capitalism + 1] = players[i]</p>
+<p>&#160; end</p>
+<p>end</p>
+</blockquote>
+<p>Test if the current place is a group place</p>
+<blockquote><p>if (game.CreatorType == Enum.CreatorType.Group) then …</p>
+</blockquote>
+<p>Test if your script is currently running in <a href="/p/Sword-Fights-on-the-Heights-IV-item">Sword Fight on the Heights IV</a>.</p>
+<blockquote><p>if (game.PlaceId == 47324) then …</p>
+</blockquote>
+<p>Test if two players are mutual best friends. Remember that Best Friend relationships on ROBLOX are one-way. X can be best friends with Y without Y being best friends with X.</p>
+<blockquote><p>function CheckMutualBestFriends(player1, player2)</p>
+<p>return player1:IsBestFriendsWith(player2.userId) and player2:IsBestFriendsWith(player1.userId)</p>
+<p>end</p>
+</blockquote>
+<p><strong>What Can I Do With This?</strong></p>
+<p>ROBLOX users are super creative and I’m sure you will come up with a million ingenious things to do with these new functions. Here are some ideas to get you started. You can:</p>
+<ul>
+<li>Make a script that gives special powers to the owner of a place (you can do this today, but you need to hardcode the creatorId, so using game.CreatorId is better)</li>
+<li>Make a script that puts all your friends on a single team when they join your game, and puts people who aren’t your friends on a separate team</li>
+<li>Make a weapon that damages non-friends and heals best friends</li>
+<li>Make a script that gives members of your favorite group special powers</li>
+<li>Make a script that makes members of an enemy group spawn in jail</li>
+<li>Make a door that only friends can pass through</li>
+<li>Make a secret area in your level that requires 3 members of your group to be present before it opens</li>
+</ul>
+<p>We’ll be adding more functionality over time. This is just the start!</p>
+<p align="right">- Telamon</p>
+<!-- AddThis Bookmark Post Button BEGIN -->
+<div><a href="http://www.addthis.com/bookmark.php?pub=Telamon&url=http://blog.roblox.com/?p=3623&title=New Social Scripting Tricks With Telamon" title="Bookmark using any bookmark manager!" target="_blank"><img src="http://s9.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt="AddThis Social Bookmark Button" /></a></div><!-- AddThis Bookmark Post Button END -->
+<br>
+	</div>
+	
+	<div class="post-footer">
+		<div class="meta">Posted in: <a href="http://blog.roblox.com/?cat=2" title="View all posts in Bits and Bytes" rel="category">Bits and Bytes</a>, <a href="http://blog.roblox.com/?cat=1" title="View all posts in News" rel="category">News</a> </div>
+		<div class="feedback">
+	            	            <span>Comments Off</span>		</div>
+		<div class="clear"></div>
+	</div>
+
+</div>
+
+
+	
+<div class="post" id="post-3608">
+	 <span class="posted-by">December 6th 2010</span>
+	 <h2 class="storytitle"><a href="http://blog.roblox.com/?p=3608" rel="bookmark">Retro ROBLOXian Gift of Yesteryore</a></h2>
+	
+	<div class="storycontent">
+		<p><a href="/p/Retro-ROBLOXian-Gift-of-Yesteryore-item"><img style="margin: 8px 12px 8px 0px; display: inline" title="image" alt="image" src="http://blog.roblox.com/wp-content/uploads/2010/12/image6.png" width="500" height="344" /></a></p>
+<p><strong>UPDATE:</strong></p>
+<p><strong>It is now too late to get this gift for free. It has already gone out. If you’re quick, you may be able to <a href="/p/Retro-ROBLOXian-Gift-of-Yesteryore-item">buy a copy</a>.</strong></p>
+<p><strong>&#8212;</strong></p>
+<p>A mysterious time-traveling alien is visiting famous places from ROBLOXia’s deep past! If you find all the places he’s been and visit them before Monday, you’ll win an even more mysterious <a href="/p/Retro-ROBLOXian-Gift-of-Yesteryore-item">gift</a>!</p>
+<h1>1.</h1>
+<h1><a href="http://blog.roblox.com/wp-content/uploads/2010/12/image7.png"><img style="margin: 8px 12px 8px 0px; display: inline" title="image" alt="image" src="http://blog.roblox.com/wp-content/uploads/2010/12/image_thumb6.png" width="500" height="312" /></a></h1>
+<h1>2.</h1>
+<h1><a href="http://blog.roblox.com/wp-content/uploads/2010/12/image8.png"><img style="display: inline" title="image" alt="image" src="http://blog.roblox.com/wp-content/uploads/2010/12/image_thumb7.png" width="500" height="317" /></a></h1>
+<h1>3.</h1>
+<h1><a href="http://blog.roblox.com/wp-content/uploads/2010/12/image9.png"><img style="display: inline" title="image" alt="image" src="http://blog.roblox.com/wp-content/uploads/2010/12/image_thumb8.png" width="500" height="365" /></a></h1>
+<h1>4.</h1>
+<h1><a href="http://blog.roblox.com/wp-content/uploads/2010/12/image10.png"><img style="display: inline" title="image" alt="image" src="http://blog.roblox.com/wp-content/uploads/2010/12/image_thumb9.png" width="500" height="421" /></a></h1>
+<h1>5.</h1>
+<h1><a href="http://blog.roblox.com/wp-content/uploads/2010/12/image11.png"><img style="display: inline" title="image" alt="image" src="http://blog.roblox.com/wp-content/uploads/2010/12/image_thumb10.png" width="500" height="335" /></a></h1>
+<h1>6.</h1>
+<h1><a href="http://blog.roblox.com/wp-content/uploads/2010/12/image12.png"><img style="display: inline" title="image" alt="image" src="http://blog.roblox.com/wp-content/uploads/2010/12/image_thumb11.png" width="500" height="312" /></a></h1>
+<h1>7.</h1>
+<p><a href="http://blog.roblox.com/wp-content/uploads/2010/12/image13.png"><img style="display: inline" title="image" alt="image" src="http://blog.roblox.com/wp-content/uploads/2010/12/image_thumb12.png" width="500" height="375" /></a></p>
+<p><strong>Details</strong></p>
+<ol>
+<li>You must visit the above places in multiplayer mode (not “play solo”) </li>
+<li>Once you have visited all seven places, you won’t get the gift immediately. You won’t even be told that you correctly hit all the correct locations. Everyone who visited all the right places will be awarded the gift on Monday. </li>
+<li>Some of these are hard. The <a href="/p/Forum/ShowForum.aspx">forums</a> are your friend. </li>
+</ol>
+<p align="right">- Telamon</p>
+<!-- AddThis Bookmark Post Button BEGIN -->
+<div><a href="http://www.addthis.com/bookmark.php?pub=Telamon&url=http://blog.roblox.com/?p=3608&title=Retro ROBLOXian Gift of Yesteryore" title="Bookmark using any bookmark manager!" target="_blank"><img src="http://s9.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt="AddThis Social Bookmark Button" /></a></div><!-- AddThis Bookmark Post Button END -->
+<br>
+	</div>
+	
+	<div class="post-footer">
+		<div class="meta">Posted in: <a href="http://blog.roblox.com/?cat=8" title="View all posts in Contests" rel="category">Contests</a>, <a href="http://blog.roblox.com/?cat=1" title="View all posts in News" rel="category">News</a> </div>
+		<div class="feedback">
+	            	            <span>Comments Off</span>		</div>
+		<div class="clear"></div>
+	</div>
+
+</div>
+
+
+	
+<div class="post" id="post-3582">
+	 <span class="posted-by">December 6th 2010</span>
+	 <h2 class="storytitle"><a href="http://blog.roblox.com/?p=3582" rel="bookmark">Nostalgia</a></h2>
+	
+	<div class="storycontent">
+		<p>It&#8217;s December&#8211;the last month of the year, heralding the coming of winter.  And with the cold times, we retreat to the warmth of our warm memories and warm foods.  Also blankets are nice.<a href=""><img class="aligncenter size-full wp-image-3012" title="Chocolate!!!! XD" alt="Chocolate!!!! XD" src="http://blog.roblox.com/wp-content/uploads/2010/12/ChocoCoinCapture.jpg" width="484" height="216" /></a></p>
+<p><a href="/p/Catalog.aspx"><img class="alignleft size-full wp-image-2987" title="Gold Covered Chocolate Coin" alt="" src="http://blog.roblox.com/wp-content/uploads/2010/12/ChocoCoinIcon.png" width="128" height="128" /></a><strong><a href="/p/Catalog.aspx" target="_blank">Gold-Covered Chocolate Coin</a> &#8211; </strong>It&#8217;s like gold, but it tastes better!  And seriously, unwrapping the foil is pretty much the most fun thing ever.  Except for eating it.  That wins.</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p><a href="/p/Catalog.aspx"><img class="alignleft size-full wp-image-2993" title="Latke" alt="Latke" src="http://blog.roblox.com/wp-content/uploads/2010/12/LatkeIcon.png" width="128" height="128" /></a><strong><a href="/p/Catalog.aspx" target="_blank">A Lotta Latke</a> &#8211; </strong>This is a traditional pancake-style dish (and favorite of Hanukkah-celebrators), made out of potatoes.  Why does it seem so light?  Three words: &#8220;zero&#8221;, &#8220;gravity&#8221;, &#8220;potatoes&#8221;.</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p><a href="/p/Catalog.aspx"><img class="alignleft size-full wp-image-2993" title="Snow Globe" alt="Snow Globe" src="http://blog.roblox.com/wp-content/uploads/2010/12/snowGlobeIcon.png" width="128" height="128" /></a><strong><a href="/p/Catalog.aspx" target="_blank">Snow Globe of Childhood Memories</a> &#8211; </strong>Gazing into this globe of snow, you can see all the happiness of holidays past.  Either that or a little snowman guy.</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>Please discuss the new gear in the <a href="http://www.roblox.com/Forum/ShowPost.aspx?PostID=38055627">forums</a>.</p>
+<p align="right">- HotThoth</p>
+<!-- AddThis Bookmark Post Button BEGIN -->
+<div><a href="http://www.addthis.com/bookmark.php?pub=Telamon&url=http://blog.roblox.com/?p=3582&title=Nostalgia" title="Bookmark using any bookmark manager!" target="_blank"><img src="http://s9.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt="AddThis Social Bookmark Button" /></a></div><!-- AddThis Bookmark Post Button END -->
+<br>
+	</div>
+	
+	<div class="post-footer">
+		<div class="meta">Posted in: <a href="http://blog.roblox.com/?cat=1" title="View all posts in News" rel="category">News</a> </div>
+		<div class="feedback">
+	            	            <span>Comments Off</span>		</div>
+		<div class="clear"></div>
+	</div>
+
+</div>
+
+
+
+<a href="http://blog.roblox.com/?paged=2" >Next Page &raquo;</a>
+</div>
+
+<div id="sidebar">
+<p />
+<p>
+<br clear="all" />
+<p />
+<ul>
+<li id="search-3" class="widget widget_search"><h2 class="widgettitle">Search</h2>
+<form role="search" method="get" id="searchform" action="http://blog.roblox.com/" >
+	<div><label class="screen-reader-text" for="s">Search for:</label>
+	<input type="text" value="" name="s" id="s" />
+	<input type="submit" id="searchsubmit" value="Search" />
+	</div>
+	</form></li>
+<li id="categories-3" class="widget widget_categories"><h2 class="widgettitle">Categories</h2>
+		<ul>
+	<li class="cat-item cat-item-2"><a href="http://blog.roblox.com/?cat=2" title="Discussion of technical issues related to the development of Roblox">Bits and Bytes</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://blog.roblox.com/?cat=8" title="Announcements, updates, and results of Roblox building contests.">Contests</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://blog.roblox.com/?cat=5" title="Discussion of features so new they haven&#039;t even made it to alpha status">Deep Alpha</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://blog.roblox.com/?cat=3" title="Discussion relating to Roblox design decisions">Design Docs</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://blog.roblox.com/?cat=1" title="General Roblox news">News</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://blog.roblox.com/?cat=4" title="Find out what is new in the current release of Roblox">Release Notes</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://blog.roblox.com/?cat=6" title="Articles written by our users">Reports From Robloxia</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://blog.roblox.com/?cat=7" title="Explorations of Robloxia">Travelogue</a>
+</li>
+		</ul>
+</li>
+<li id="linkcat-10" class="widget widget_links"><h2 class="widgettitle">ROBLOX</h2>
+
+	<ul class='xoxo blogroll'>
+<li><a href="http://blog.roblox.com/?p=273" title="It’s super important that your password is a secret and your ROBLOX account safe.">Account Security Pt 1</a></li>
+<li><a href="http://blog.roblox.com/?p=348" title="More info about keeping your ROBLOX account safe and secure.">Account Security Pt 2</a></li>
+<li><a href="/p/info/Privacy.aspx" title="Privacy Policy">Privacy Policy</a></li>
+<li><a href="http://blog.roblox.com/?p=826" title="Fact sheets, images, logos, and legal documents to explain how to use the kit.">ROBLOX Fansite Kit</a></li>
+
+	</ul>
+</li>
+
+<li id="linkcat-9" class="widget widget_links"><h2 class="widgettitle">Blogroll</h2>
+
+	<ul class='xoxo blogroll'>
+<li><a href="http://bit.ly/cNPQIb" title="ROBLOX from the view of a Briguy. (and his friends.)">Briguy&#039;s ROBLOX</a></li>
+<li><a href="http://bit.ly/cTHKzl" title="Place for ROBLOX Community Ideas">Community Ideas</a></li>
+<li><a href="http://on.fb.me/9BCVwF" title="Become a fan of ROBLOX on Facebook!">ROBLOX Facebook Page</a></li>
+<li><a href="http://bit.ly/d7y7Ay">ROBLOX Q &amp; A</a></li>
+<li><a href="http://bit.ly/aCdOZJ" title="Get ROBLOX updates via Twitter!">ROBLOX Twitter</a></li>
+
+	</ul>
+</li>
+
+<li id="archives-4" class="widget widget_archive"><h2 class="widgettitle">Archives</h2>
+		<ul>
+			<li><a href='http://blog.roblox.com/?m=201012' title='December 2010'>December 2010</a></li>
+	<li><a href='http://blog.roblox.com/?m=201011' title='November 2010'>November 2010</a></li>
+	<li><a href='http://blog.roblox.com/?m=201010' title='October 2010'>October 2010</a></li>
+	<li><a href='http://blog.roblox.com/?m=201009' title='September 2010'>September 2010</a></li>
+	<li><a href='http://blog.roblox.com/?m=201008' title='August 2010'>August 2010</a></li>
+	<li><a href='http://blog.roblox.com/?m=201007' title='July 2010'>July 2010</a></li>
+	<li><a href='http://blog.roblox.com/?m=201006' title='June 2010'>June 2010</a></li>
+	<li><a href='http://blog.roblox.com/?m=201005' title='May 2010'>May 2010</a></li>
+	<li><a href='http://blog.roblox.com/?m=201004' title='April 2010'>April 2010</a></li>
+	<li><a href='http://blog.roblox.com/?m=201003' title='March 2010'>March 2010</a></li>
+	<li><a href='http://blog.roblox.com/?m=201002' title='February 2010'>February 2010</a></li>
+	<li><a href='http://blog.roblox.com/?m=201001' title='January 2010'>January 2010</a></li>
+	<li><a href='http://blog.roblox.com/?m=200912' title='December 2009'>December 2009</a></li>
+	<li><a href='http://blog.roblox.com/?m=200911' title='November 2009'>November 2009</a></li>
+	<li><a href='http://blog.roblox.com/?m=200910' title='October 2009'>October 2009</a></li>
+	<li><a href='http://blog.roblox.com/?m=200909' title='September 2009'>September 2009</a></li>
+	<li><a href='http://blog.roblox.com/?m=200908' title='August 2009'>August 2009</a></li>
+	<li><a href='http://blog.roblox.com/?m=200907' title='July 2009'>July 2009</a></li>
+	<li><a href='http://blog.roblox.com/?m=200906' title='June 2009'>June 2009</a></li>
+	<li><a href='http://blog.roblox.com/?m=200905' title='May 2009'>May 2009</a></li>
+	<li><a href='http://blog.roblox.com/?m=200904' title='April 2009'>April 2009</a></li>
+	<li><a href='http://blog.roblox.com/?m=200903' title='March 2009'>March 2009</a></li>
+	<li><a href='http://blog.roblox.com/?m=200902' title='February 2009'>February 2009</a></li>
+	<li><a href='http://blog.roblox.com/?m=200901' title='January 2009'>January 2009</a></li>
+	<li><a href='http://blog.roblox.com/?m=200812' title='December 2008'>December 2008</a></li>
+	<li><a href='http://blog.roblox.com/?m=200811' title='November 2008'>November 2008</a></li>
+	<li><a href='http://blog.roblox.com/?m=200810' title='October 2008'>October 2008</a></li>
+	<li><a href='http://blog.roblox.com/?m=200809' title='September 2008'>September 2008</a></li>
+	<li><a href='http://blog.roblox.com/?m=200808' title='August 2008'>August 2008</a></li>
+	<li><a href='http://blog.roblox.com/?m=200807' title='July 2008'>July 2008</a></li>
+	<li><a href='http://blog.roblox.com/?m=200806' title='June 2008'>June 2008</a></li>
+	<li><a href='http://blog.roblox.com/?m=200805' title='May 2008'>May 2008</a></li>
+	<li><a href='http://blog.roblox.com/?m=200804' title='April 2008'>April 2008</a></li>
+	<li><a href='http://blog.roblox.com/?m=200803' title='March 2008'>March 2008</a></li>
+	<li><a href='http://blog.roblox.com/?m=200802' title='February 2008'>February 2008</a></li>
+	<li><a href='http://blog.roblox.com/?m=200801' title='January 2008'>January 2008</a></li>
+	<li><a href='http://blog.roblox.com/?m=200712' title='December 2007'>December 2007</a></li>
+	<li><a href='http://blog.roblox.com/?m=200711' title='November 2007'>November 2007</a></li>
+	<li><a href='http://blog.roblox.com/?m=200710' title='October 2007'>October 2007</a></li>
+	<li><a href='http://blog.roblox.com/?m=200709' title='September 2007'>September 2007</a></li>
+	<li><a href='http://blog.roblox.com/?m=200708' title='August 2007'>August 2007</a></li>
+	<li><a href='http://blog.roblox.com/?m=200707' title='July 2007'>July 2007</a></li>
+	<li><a href='http://blog.roblox.com/?m=200706' title='June 2007'>June 2007</a></li>
+	<li><a href='http://blog.roblox.com/?m=200705' title='May 2007'>May 2007</a></li>
+	<li><a href='http://blog.roblox.com/?m=200704' title='April 2007'>April 2007</a></li>
+	<li><a href='http://blog.roblox.com/?m=200703' title='March 2007'>March 2007</a></li>
+	<li><a href='http://blog.roblox.com/?m=200702' title='February 2007'>February 2007</a></li>
+	<li><a href='http://blog.roblox.com/?m=200701' title='January 2007'>January 2007</a></li>
+	<li><a href='http://blog.roblox.com/?m=200612' title='December 2006'>December 2006</a></li>
+		</ul>
+</li>
+<li id="meta-3" class="widget widget_meta"><h2 class="widgettitle">Meta</h2>
+			<ul>
+						<li><a href="http://blog.roblox.com/wp-login.php">Log in</a></li>
+			<li><a href="http://blog.roblox.com/?feed=rss2" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://blog.roblox.com/?feed=comments-rss2" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>
+						</ul>
+</li>
+
+ 
+</ul>
+
+</div>
+
+<div id="footer">
+	<p>
+		Roblox Developers&#039; Journal is powered by
+		<a href="http://wordpress.org/">WordPress</a> and a thousand networked Amigas
+	</p>
+	<p class="rights-reserved">
+		All rights reserved 2006
+	</p>
+ <script type="text/javascript"></script>
+</div>
+	
+</div>
+
+<script src="http://stats.wordpress.com/e-201049.js" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({blog:'11460318',v:'ext',post:'0'});
+var load_cmc = function(){linktracker_init(11460318,0,2);};
+if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+else load_cmc();
+</script>
+</body>
+</html>

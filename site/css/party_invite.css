@@ -1,0 +1,44 @@
+
+.main h1 {
+	padding: 15px 20px 15px 20px;
+	font-size: 130%;
+	text-align:center;
+}
+
+
+.main #invite_status {
+	padding: 10px 0 10px 0;
+}
+
+.main p {
+	padding: 0 0 7px 0;
+}
+
+.main .btn_green21h  {
+	float:left;
+	margin: 0 0 0 35px;
+}
+.main .btn_black21h  {
+	float:right;
+	margin: 0 35px 0 0;
+}
+
+.main #invite_clear {
+	padding: 15px 0 0 0;
+}
+
+/*
+     FILE ARCHIVED ON 20:03:40 Dec 02, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:31:01 Nov 19, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.555
+  load_resource: 89.31
+  PetaboxLoader3.resolve: 25.224
+  PetaboxLoader3.datanode: 62.954
+*/

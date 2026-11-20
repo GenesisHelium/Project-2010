@@ -1,0 +1,256 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<script language="JavaScript1.1">
+<!--
+
+
+
+//specify interval between slide (in mili seconds)
+var slidespeed=8000
+
+//specify images
+var slideimages=new Array("images/ca1.jpg", "images/ca5.jpg", "images/ca6.jpg", "images/ca7.jpg")
+
+//specify corresponding links
+var slidelinks=new Array("http://www.guardianangels.org/news.php","http://www.guardianangels.org/safety.php","http://www.guardianangels.org/cyberangels.php","gala2009.php")
+
+var newwindow=1 //open links in new window? 1=yes, 0=no
+
+var imageholder=new Array()
+var ie=document.all
+for (i=0;i<slideimages.length;i++){
+imageholder[i]=new Image()
+imageholder[i].src=slideimages[i]
+}
+
+function gotoshow(){
+if (newwindow)
+window.open(slidelinks[whichlink])
+else
+window.location=slidelinks[whichlink]
+}
+
+//-->
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta name="copyright" content="Copyright 2009. The Alliance of Guardian Angels, Inc. All Rights Reserved." />
+
+
+<title>CyberAngels Internet Safety Program</title>
+<link rel="stylesheet" type="text/css" href="css/styleHome.css" media="screen, projection" />
+<link rel="stylesheet" type="text/css" href="css/printhome.css" media="print" />
+
+
+<style type="text/css">
+h1 {
+	margin: 0;
+	padding: 0;
+	display: none;
+}
+</style>
+
+<script type="text/javascript" src="css/menu.js"></script>
+
+<script type="text/javascript">
+<!--
+function wopen(url, name, w, h)
+{
+
+w += 32;
+h += 96;
+ var win = window.open(url,
+  name,
+  'width=' + w + ', height=' + h + ', ' +
+  'location=no, menubar=no, ' +
+  'status=no, toolbar=no, scrollbars=yes, resizable=yes');
+ win.resizeTo(w, h);
+ win.focus();
+}
+// -->
+</script>
+
+</head>
+
+<body>
+<h1>CyberAngels</h1>
+
+
+<div id="wrapper" style="width: 980px;">
+
+	<div id="header">
+
+
+<!-- the following php block is used in php pages -->
+	<table cellpadding="0" cellspacing="0">
+		<tr>
+			<td style="width: 350px;">
+				<a href="index.php"><img src="/images/catop.jpg" alt="CyberAngels" / ></a><BR><BR>
+			</td>
+			<td style="width: 630px;">
+				      <!-- SiteSearch Google -->
+	   <FORM method=GET action="http://www.google.com/search">
+	   <input type=hidden name=ie value=UTF-8>
+	   <input type=hidden name=oe value=UTF-8>
+	   <TABLE align=right ><tr><td>
+	   <INPUT TYPE=text name=q size=16 maxlength=255 value="">
+	   <INPUT type=submit class="red"  name=btnG VALUE="Search">
+
+	   <font size=-2>
+	   <input type=hidden name=domains value="guardianangels.org">
+<BR>
+	   <input class="pink" type=radio name=sitesearch value="cyberangels.org" checked>Search this site <input class="pink" type=radio name=sitesearch value="">
+Search Google&nbsp;&nbsp;&nbsp;
+	   </td></tr>
+	  </table>
+	   </form>
+
+<!-- SiteSearch Google -->
+			</td>
+		</tr>
+	</table>
+
+
+	<div id="menu">
+		<h2 style="display: none;">Navigation Menu</h2>
+		<ul id="nav">
+			<li><a href="index.php" title="Home">Home</a>
+				<UL>
+				<LI><a href="/about.php" title="About CyberAngels">About Us</a></LI>
+				<li><a href="/contact.php" title="Contact">Contact</a></li>
+				</UL></LI>
+			<li><a href="/parents/index.php" title="For Parents">For Parents</a>
+				</li>
+			<li><a href="/101/index.php" title="Learning Center">Learning Center</a>
+			</li>
+
+			<li><a href="/security/index.php" title="Cyber Security">Cyber Security</a>
+				</li>
+
+			<li><a href="/support.php" title="Support Us">Donate</a>
+				 </li>
+<li><a href="/contact.php" title="Contact Us">Contact</a>
+				 </li>
+		</ul>
+
+	</div>
+	</div>
+
+	<!--BEGIN CONTENT-->
+	<div id="mainArea">
+
+		<div id="rightBar" >
+			<p style="margin-bottom: 0; margin-top: .5em; padding-bottom: 0;" align=center>
+
+
+
+
+<font color="#c30124"><B>Letter from Curtis and Mary Sliwa</b><BR><BR>
+<a href="http://www.guardianangels.org/pdf/GA2010letter.pdf"><img src="http://www.guardianangels.org/images/CurtisMarySliwa.jpg" height="155"   border=0></a><BR><BR>
+<B>CyberAngels' 15th Anniversary</B></font> <BR><BR>
+<a href="http://www.cyberangels.org/docs/23.pdf"><img src="http://www.cyberangels.org/images/lrax3-15th.jpg"  border=0></a><BR><I>
+
+
+		</div>
+		<div id="leftBar">
+
+<a href="javascript:gotoshow()"><img src="image1.gif" name="slide" border=0 style="filter:blendTrans(duration=3)" width=650 height=375></a>
+
+<script language="JavaScript1.1">
+<!--
+
+var whichlink=0
+var whichimage=0
+var blenddelay=(ie)? document.images.slide.filters[0].duration*1000 : 0
+function slideit(){
+if (!document.images) return
+if (ie) document.images.slide.filters[0].apply()
+document.images.slide.src=imageholder[whichimage].src
+if (ie) document.images.slide.filters[0].play()
+whichlink=whichimage
+whichimage=(whichimage<slideimages.length-1)? whichimage+1 : 0
+setTimeout("slideit()",slidespeed+blenddelay)
+}
+slideit()
+
+//-->
+</script>
+
+
+
+
+
+
+		</div>
+
+		<div id="separator">
+		</div>
+
+<table class="highlights" cellspacing="0" cellpadding="0">
+			<tr id="highlightlinks">
+				<td style="width: 195px;"><a href="http://www.cyberangels.org/ca-tw_psa.wmv" style="width: 195px;">PSA</a></td>
+				<td style="width: 195px;"><a href="http://www.cyberangels.org/docs/cybersafetyguide.pdf" style="width: 195px;">Safety Guide</a></td>
+				<td style="width: 195px;"><a href="http://www.cyberangels.org/docs/cybersafetyguide_spanish.pdf" style="width: 195px;">Guía de Seguridad</a></td>
+				<td style="width: 195px;"><a href="cyber.php" style="width: 195px;">Angel Jewelry</a></td>
+				<td style="width: 195px;"><a style="border: none; width: 195px;" href="http://www.guardianangels.org/pdf/GA2010timeline.pdf">Angel Timeline</a></td>
+			</tr>
+			<tr id="highlightImages">
+				<td align=center><a href="http://www.cyberangels.org/ca-tw_psa.wmv"><img border="0" src="http://www.cyberangels.org/images/ca-tw_psa.jpg" style="width: 160px" alt="Public Service Announcement" /></a></td>
+				<td align=center><a href="http://www.cyberangels.org/docs/cybersafetyguide.pdf"><img border="0" src="/images/CSG.JPG" style="width: 160px; " alt="Cyber Safety Guide" /></a></td>
+				<td align=center><a href="http://www.cyberangels.org/docs/cybersafetyguide_spanish.pdf"><img border="0" src="images/seguridad.JPG" style="width: 160px; " alt="Guía de Seguridad" /></a></td>
+				<td align=center><a href="cyber.php"><img border="0" src="images/jewelry.JPG" style="width: 130px; " alt="Guardian Angels Jewelry" /></a></td>
+				<td align=center><a href="http://www.guardianangels.org/pdf/GA2010timeline.pdf"><img border="0" src="http://www.guardianangels.org/images/timeline-color.JPG" style="width: 175px; " alt="Guardian Angels Timeline" /></a></td>
+			</tr>
+		</table>
+
+
+	<!--END CONTENT-->
+
+</div>
+
+	<div id="footer1">
+	<table class="footer">
+		<tr>
+			<td style="text-align: left;">
+			<!--<strong>Need Help? Ask an Angel</strong>-->
+			</td>
+			<td class="footerlinks">
+
+			</td>
+		</tr>
+	</table>
+</div>
+
+<div id="footer2">
+<table style="width:100%;">
+<tr>
+<td><p><strong>Visit our other sites:</strong>
+
+	<a href="http://www.guardianangels.org/">The Alliance of Guardian Angels</a> | <a href="http://www.curtissliwa.com">Curtis Sliwa</a> | <a href="http://www.guardianjewelry.com/">Guardian Angels Jewelry</a>
+	</p>
+	<P>
+<strong>Keep in Touch:</strong>   <a href="http://visitor.constantcontact.com/d.jsp?m=1011343768125&p=oi">Join our Mailing List</a>
+	</p></td></tr></table>
+	<table style="width: 100%;">
+		<tr>
+			<td style="text-align: left; vertical-align: bottom;">
+			<I>			The Alliance of Guardian Angels, Inc. is a 501 (c)(3) non-profit organization</I>
+			</td>
+			<td style="text-align: center; vertical-align: bottom; white-space: nowrap;">
+
+
+			</td>
+			<td style="text-align: right; font-size: 80%; vertical-align: bottom; white-space: nowrap;">
+
+			&copy;2010 The Alliance of<BR> Guardian Angels, Inc.
+			</td>
+		</tr>
+	</table>
+</div>
+
+</div>
+
+</body>
+</html>

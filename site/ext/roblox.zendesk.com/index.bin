@@ -1,0 +1,361 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+
+
+
+
+<!-- End Wayback Rewrite JS Include -->
+
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>
+      ROBLOX Help 
+  </title>
+  <link rel="shortcut icon" href="/ext/roblox.zendesk.com/system/logos/0005/9069/StudioIcon.png" type="image/x-png"/>
+
+  
+  
+
+  <!--[if lte IE 7]><link href="http://asset3.zendesk.com/assets/ie.css?1291690338" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+  <!--[if lte IE 6]><link href="http://asset3.zendesk.com/assets/ie6.css?1291690338" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+
+  <link rel="stylesheet" type="text/css" href="/ext/roblox.zendesk.com/generated/stylesheets/branding/265/26563/1290800858.css" media="screen"/>
+
+  
+  
+
+
+
+
+  <script type="text/javascript">
+//<![CDATA[
+Zendesk.assetHost = 'asset0.zendesk.com';
+Zendesk.SaaSPulseID = 'SP-1111-01';
+
+  currentUser = Zendesk.currentUser = new User({"authenticityToken":"bikdlXDZa8RrXniMyJGzN31n3NaoPsC3pbD1fSF6Jho=","assumed":false,"uses12HourClock":false,"organization":null,"account":new Account({"urlPrefix":"http://roblox.zendesk.com/","subdomain":"roblox","hasRemoteAuthentication":false,"secureUrlPrefix":"http://roblox.zendesk.com/","isZendesk":false,"lastTrialDay":null,"isSandbox":false,"daysLeftInTrial":null,"showUserProfile":false,"isOpen":true,"name":"ROBLOX Help","forumsTitle":"Answers","id":26563,"showChangePassword":false}),"email":"invalid@example.com","restriction":0,"accessibleForums":true,"role":0,"hasEmail":true,"name":"Anonymous user","quietMode":true,"id":null});
+  currentAccount = Zendesk.currentAccount = currentUser.account;
+
+//]]>
+</script>
+  <script type="text/javascript" src="/ext/roblox.zendesk.com/generated/javascripts/locale/0/1/1290117059.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+    
+    $(document).observe('dom:loaded', function () {
+      
+    });
+
+//]]>
+</script>
+    
+
+
+
+  <style type="text/css">
+#pinned_topics_title {
+     display: none;
+}
+</style>
+<style type="text/css">
+#footer {
+
+display: none
+}
+</style>
+<style type="text/css">
+div.side-box-content ul.options li.link a {
+    color: black;
+}
+</style>
+<style type="text/css">
+div.frame table.tickets thead tr th {
+    background: lightgrey;
+}
+</style>
+<style type="text/css">
+body {
+width: 850px;
+min-width: 850px;
+overflow-y: scroll auto;
+margin: 0px auto;
+padding: 0px;
+}
+
+
+.frame {
+min-width:520px;
+}
+
+#page {
+min-width: 800px;
+width: 850px;
+padding: 0px;
+margin: 0px;
+}
+
+#footer {
+text-align: center;
+}
+</style>
+
+
+</head>
+
+
+<body class="home home-index">
+  <ul id="banners">
+  <script type="text/html" id="banner-item-template" data-template-name="banner-item">
+    <li>
+      <span class='icon'>&nbsp; &nbsp; &nbsp; </span>
+      <span class='content'>{{ text }}</span>
+      <span class='ignore'>(<a href='#'>ignore this</a>)</span>
+      <span class='reload'>(<a href=''>reload</a>)</span>
+    </li>
+  </script>
+</ul>
+
+  <div id="page">
+    <div id="top">
+      <div id="header">
+        <div id="top-right"></div>
+        <div id="header_container">
+    <table id="table_header"><tr>
+      <td><a href="/p/" target="_blank" title=""></a>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><a href="/ext/roblox.zendesk.com/home.png">ROBLOX Help</a></td>
+    </tr></table>
+</div>
+
+      </div>
+
+      <div id="top-menu-background">
+        <div id="top-menu">
+          <ul id="green" style="width: 100%;">
+            <li class="main clazz tab_home"><a href="/ext/roblox.zendesk.com/home.png" class="tab">Home</a></li>
+              <li class="main clazz tab_new"><a href="/ext/roblox.zendesk.com/anonymous_requests/new.png" class="tab">Submit a request</a></li>
+            <li class="main clazz tab_requests"><a href="/web/20101207092713/http://roblox.zendesk.com/requests" class="tab">Check your existing requests</a></li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    
+
+<div id="container" class="clearfix">
+
+  
+  
+
+  <div id="flash_messages">
+    
+
+
+
+  </div>
+
+  
+
+  <div id="contentwrapper">
+    <div id="contentcolumn">
+      
+
+
+
+  <div id="solution_suggestion">
+<div class="content content_green"><div class="green_box_top"><div class="box box_top"></div></div>    <h2 id="search_box">Answers</h2>
+    <form id="suggest_form" action="#">
+      <input id="suggestions_query" name="suggestions_query" type="text"/><input class="button search" id="suggestion_submit" name="commit" type="submit" value="Search"/>
+      <input type="hidden" name="page" id="page" value="1"/>
+      <input type="hidden" name="per_page" id="per_page" value="3"/>
+    </form>
+
+      <div id="topic_suggestions" class="topic_suggestions_old"></div>
+      <script type="text/javascript" charset="utf-8">
+        var options = {
+          header: "These topics might be of interest to you" + ':',
+          noResults: "Sorry, we found nothing...",
+          more: "more topics..."
+        };
+
+        suggestionsSearch = new SuggestionsSearch(options);
+        Event.observe(document, 'dom:loaded', suggestionsSearch.setup.bind(suggestionsSearch));
+      </script>
+<div class="green_box_bottom"><div class="box box_bottom"></div></div></div><div class="box_bottom_clear">&nbsp;</div></div>
+
+
+<div class="content content_grey"><div class="grey_box_top"><div class="box box_top"></div></div>
+    <div class="content-top-right" id="pinned_topics_options">
+      <p>
+        <a href="http://roblox.zendesk.com/home.png.rss" class="rss">RSS</a>
+      </p>
+    </div>
+    <h2 id="pinned_topics_title">Home</h2>
+
+    <div id="pinned-entries-frame" class="frame titles_only">
+      <div id="pinned-entry-347986" class="entry ">
+  <div class="fade_truncation_outer">
+    <div class="fade_truncation_inner"></div>
+    <h3 class="entry-title"><a href="/ext/roblox.zendesk.com/entries/347986-how-do-i-get-the-holiday-gifts.png" title="How do I get the holiday gifts?">How do I get the holiday gifts?</a></h3>
+  </div>
+  <p class="sub">
+    Reese Dec 02    <span class="delim2">•</span>
+    <strong>Everyday Answers</strong>
+    
+  </p>
+</div>
+<div id="pinned-entry-347980" class="entry ">
+  <div class="fade_truncation_outer">
+    <div class="fade_truncation_inner"></div>
+    <h3 class="entry-title"><a href="/ext/roblox.zendesk.com/entries/347980-new-gui-problems.png" title="New GUI Problems">New GUI Problems</a></h3>
+  </div>
+  <p class="sub">
+    Reese Dec 02    <span class="delim2">•</span>
+    <strong>Technical Issues</strong>
+    
+  </p>
+</div>
+<div id="pinned-entry-221999" class="entry ">
+  <div class="fade_truncation_outer">
+    <div class="fade_truncation_inner"></div>
+    <h3 class="entry-title"><a href="/ext/roblox.zendesk.com/entries/221999-how-do-i-reinstall-the-roblox-software.png" title="How do I reinstall the Roblox software?">How do I reinstall the Roblox software?</a></h3>
+  </div>
+  <p class="sub">
+    YumYumCheerios Jul 23    <span class="delim2">•</span>
+    <strong>Technical Issues</strong>
+    
+  </p>
+</div>
+<div id="pinned-entry-221939" class="entry ">
+  <div class="fade_truncation_outer">
+    <div class="fade_truncation_inner"></div>
+    <h3 class="entry-title"><a href="/ext/roblox.zendesk.com/entries/221939-i-forgot-my-password.png" title="I forgot my password!">I forgot my password!</a></h3>
+  </div>
+  <p class="sub">
+    YumYumCheerios Jul 23    <span class="delim2">•</span>
+    <strong>Your Account</strong>
+    
+  </p>
+</div>
+<div id="pinned-entry-120331" class="entry nobottom">
+  <div class="fade_truncation_outer">
+    <div class="fade_truncation_inner"></div>
+    <h3 class="entry-title"><a href="/ext/roblox.zendesk.com/entries/120331-how-do-i-create-a-parent-account.png" title="How do I create a parent account?">How do I create a parent account?</a></h3>
+  </div>
+  <p class="sub">
+    Reese Feb 28    <span class="delim2">•</span>
+    <strong>For Parents</strong>
+    
+  </p>
+</div>
+
+    </div>
+    
+
+<div class="grey_box_bottom"><div class="box box_bottom"></div></div></div><div class="box_bottom_clear">&nbsp;</div>
+
+<script type="text/javascript">
+//<![CDATA[
+zd.jsInitializers.push(["home/index",[]]);
+//]]>
+</script>
+
+
+    </div>
+  </div>
+
+  <div id="sidebar">
+  </div>
+
+</div>
+
+  </div>
+
+  <div id="footer">
+    <p><a href="http://zendesk.com/">Help Desk Software</a> by Zendesk</p>
+</div>
+
+<!-- Render any mouseover tips on the page -->
+
+<script type="text/javascript">
+//<![CDATA[
+  if(!Zendesk) var Zendesk = {};
+  Zendesk.tab = "home";
+
+//]]>
+</script>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+  $z.initializeModules(zd.jsInitializers);
+
+//]]>
+</script>
+  <script type="text/javascript" charset="utf-8">
+Event.observe(window, 'load', function() {
+    $$('a[href="/registration"]').each(function (e) { Element.hide(e.parentNode); });
+    $$('a[href="/access/help"]').each(function (e) { Element.hide(e.parentNode); });
+})
+</script>
+<script type="text/javascript" charset="utf-8">
+Event.observe(window, 'load', function() { 
+if ($$('#top-menu #green .tab_new')[0]){ 
+$$('#top-menu #green .tab_new')[0].hide('<a href="/requests/portal/new" class="tab">Ask A Question</a>'); 
+}
+if ($$('#top-menu #green .tab_requests')[0]){ 
+$$('#top-menu #green .tab_requests')[0].hide('<a href="/requests" class="tab">what ever you want</a>'); 
+}});
+</script>
+<script type="text/javascript" charset="utf-8">
+Event.observe(window, 'load', function() { $('#footer')[0].insert('<div style="#color:EEEEEE" align="center"><br>Powered by Pixels</div><br>'); });
+</script>
+
+    <script type="text/javascript" charset="utf-8">
+      $j(document).ready(function () {
+        $j.ajax({
+          url: '/widgets/async.json',
+          data: {"action_method":"get","action_name":"index","controller_name":"home"},
+          success: Widget.asyncInsertion
+        });
+      });
+    </script>
+
+  
+
+<script type="text/javascript">
+//<![CDATA[
+    
+    jQuery(document).ready(function () {
+      
+    });
+
+//]]>
+</script></body>
+</html>
+<!--
+     FILE ARCHIVED ON 09:27:13 Dec 07, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:25:00 Nov 19, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.507
+  exclusion.robots: 0.049
+  exclusion.robots.policy: 0.035
+  esindex: 0.009
+  cdx.remote: 16.25
+  LoadShardBlock: 102.136 (3)
+  PetaboxLoader3.datanode: 113.146 (4)
+  PetaboxLoader3.resolve: 101.319 (2)
+  load_resource: 141.216
+-->

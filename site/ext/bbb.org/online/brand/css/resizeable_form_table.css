@@ -1,0 +1,24 @@
+
+
+table.resizable-form-table {
+   /* width: 100%; */
+}
+table.rc-yellow {
+   background-color: #fbf9dc;
+}
+table.rc-popup {
+   background-color: #fff;
+}
+
+
+
+table.resizable-form-table td.corner {
+   width: 21px;
+   height: 21px;   
+}
+table.resizable-form-table td.corner img {
+   display: block;
+}
+table.resizable-form-table td.resizeable-for-table-content {
+   padding: 10px 15px;
+}

@@ -1,0 +1,62 @@
+#header, #user_chat h1 {
+  background: #CDCDCD;
+}
+
+html, body {
+  background: #E3E3E3;
+}
+
+body#chat_window {
+  background: inherit;
+}
+
+input:focus, textarea:focus, select:focus,
+input.combobox:focus + input.combobox-button {
+  border-color: #CDCDCD;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1) inset, 0 0 4px #CDCDCD;
+}
+
+ul#green li.main:hover, ul#green li.main.over {
+  background: #D1D1D1;
+}
+
+.header, .header a, #table_header a, #top-right, #top-right a, #top-menu a.tab, #user_chat h1 span, #user_chat #end_session {
+  color: #FFFFFF;
+}
+
+#top-menu-background, #top form#topquery {
+  background-color: #AAAAAA;
+}
+
+ul.menu-drop, ul.drop-list ul {
+  border-color: #AAAAAA;
+}
+
+.side-box-content, .blue_box_top, .blue_box_bottom, .side-box-with-image, .r_blue {
+  background-color: #CDCDCD;
+}
+
+ul#green.agent-tabs li.main, ul#green.agent-tabs li.active:hover, ul#green.agent-tabs li.active.over {
+  border-left: 2px solid #AAAAAA;
+}
+
+/*
+     FILE ARCHIVED ON 02:47:05 Jul 16, 2015 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:37:02 Nov 19, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.687
+  exclusion.robots: 0.125
+  exclusion.robots.policy: 0.111
+  esindex: 0.009
+  cdx.remote: 10.35
+  LoadShardBlock: 243.85 (3)
+  PetaboxLoader3.datanode: 207.647 (4)
+  PetaboxLoader3.resolve: 95.576 (2)
+  load_resource: 94.11
+*/

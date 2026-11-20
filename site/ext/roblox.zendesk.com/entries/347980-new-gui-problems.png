@@ -1,0 +1,300 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=3grhEDQT" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=o9P2E1FK" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://roblox.zendesk.com:80/entries/347980-new-gui-problems","20110102191514","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1293995714");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>
+      ROBLOX Help : New GUI Problems
+  </title>
+  <link rel="shortcut icon" href="/web/20110102191514im_/http://roblox.zendesk.com/system/logos/0005/9069/StudioIcon.png" type="image/x-png"/>
+
+  <link href="https://web.archive.org/web/20110102191514cs_/http://asset1.zendesk.com/assets/screen.css?1293650915" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://web.archive.org/web/20110102191514cs_/http://asset2.zendesk.com/assets/print.css?1293650915" media="print" rel="stylesheet" type="text/css"/>
+
+  <!--[if lte IE 7]><link href="http://asset2.zendesk.com/assets/ie.css?1293650915" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+  <!--[if lte IE 6]><link href="http://asset2.zendesk.com/assets/ie6.css?1293650915" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+
+  <link rel="stylesheet" type="text/css" href="/web/20110102191514cs_/http://roblox.zendesk.com/generated/stylesheets/branding/265/26563/1293733060.css" media="screen"/>
+
+  <script src="//web.archive.org/web/20110102191514js_/http://s3.amazonaws.com/saaspulse-cdn/sdr.js" async="async"></script>
+  <script src="https://web.archive.org/web/20110102191514js_/http://asset0.zendesk.com/assets/legacy_vendor.js?1293650915" type="text/javascript"></script>
+<script src="https://web.archive.org/web/20110102191514js_/http://asset2.zendesk.com/assets/bootstrap.js?1293650915" type="text/javascript"></script>
+<script src="https://web.archive.org/web/20110102191514js_/http://asset1.zendesk.com/assets/legacy_libraries.js?1293650915" type="text/javascript"></script>
+<script src="https://web.archive.org/web/20110102191514js_/http://asset1.zendesk.com/assets/legacy_zendesk.js?1293650915" type="text/javascript"></script>
+<script src="https://web.archive.org/web/20110102191514js_/http://asset3.zendesk.com/assets/zd_tickets_table.js?1293650915" type="text/javascript"></script>
+  <script type="text/javascript">
+//<![CDATA[
+Zendesk.assetHost = 'asset0.zendesk.com';
+Zendesk.SaaSPulseID = 'SP-1111-01';
+
+  currentUser = Zendesk.currentUser = new User({"accessibleForums":true,"restriction":0,"hasEmail":true,"account":new Account({"daysLeftInTrial":null,"showUserProfile":false,"isOpen":true,"forumsTitle":"Answers","showExtendedTicketMetrics":false,"showChangePassword":false,"urlPrefix":"https://web.archive.org/web/20110102191514/http://roblox.zendesk.com","hasRemoteAuthentication":false,"secureUrlPrefix":"https://web.archive.org/web/20110102191514/https://roblox.zendesk.com","isZendesk":false,"name":"ROBLOX Help","lastTrialDay":null,"id":26563,"isSandbox":false,"subdomain":"roblox"}),"email":"invalid@example.com","quietMode":true,"authenticityToken":"7O2XLj71eB5oCFwsdrIiGQ7wlbwXidBA4SkFzlO4E3M=","role":0,"assumed":false,"name":"Anonymous user","uses12HourClock":false,"id":null,"organization":null});
+  currentAccount = Zendesk.currentAccount = currentUser.account;
+
+//]]>
+</script>
+  <script type="text/javascript" src="/web/20110102191514js_/http://roblox.zendesk.com/generated/javascripts/locale/0/1/1292523590.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+    
+    $j(document).ready(function () {
+      
+    });
+
+//]]>
+</script>
+    <meta name="keywords" content="gui"/>
+  <meta name="description" content="Problem: The new GUI is preventing play in your place.&amp;nbsp; (December 2, 2010)
+Answer: We have tracked down the source of the user GUI bug that slipped our  unintentionally in this morning's rele..."/>
+  <meta name="author" content="Reese"/>
+
+
+
+  <style type="text/css">
+#pinned_topics_title {
+     display: none;
+}
+</style>
+<style type="text/css">
+#footer {
+
+display: none
+}
+</style>
+<style type="text/css">
+div.side-box-content ul.options li.link a {
+    color: black;
+}
+</style>
+<style type="text/css">
+div.frame table.tickets thead tr th {
+    background: lightgrey;
+}
+</style>
+<style type="text/css">
+body {
+width: 850px;
+min-width: 850px;
+overflow-y: scroll auto;
+margin: 0px auto;
+padding: 0px;
+}
+
+
+.frame {
+min-width:520px;
+}
+
+#page {
+min-width: 800px;
+width: 850px;
+padding: 0px;
+margin: 0px;
+}
+
+#footer {
+text-align: center;
+}
+</style>
+
+
+</head>
+
+
+<body class="entries entries-show">
+  <ul id="banners">
+  <script type="text/html" id="banner-item-template" data-template-name="banner-item">
+    <li>
+      <span class='icon'>&nbsp; &nbsp; &nbsp; </span>
+      <span class='content'>{{ text }}</span>
+      <span class='ignore'>(<a href='#'>ignore this</a>)</span>
+      <span class='reload'>(<a href=''>reload</a>)</span>
+    </li>
+  </script>
+</ul>
+
+  <div id="page">
+    <div id="top">
+      <div id="header">
+        <div id="top-right"></div>
+        <div id="header_container">
+    <table id="table_header"><tr>
+      <td><a href="https://web.archive.org/web/20110102191514/http://www.roblox.com/" target="_blank" title=""><img alt="" id="logo" src="https://web.archive.org/web/20110102191514im_/http://asset2.zendesk.com/system/logos/0011/7679/builderman-soccer.png?1293650915"/></a>&nbsp;</td>
+      <td><img alt="" id="logo-delimiter" src="https://web.archive.org/web/20110102191514im_/http://asset1.zendesk.com/images/logo-delimiter.png?1293650915"/>&nbsp;</td>
+      <td><a href="/web/20110102191514/http://roblox.zendesk.com/home">ROBLOX Help</a></td>
+    </tr></table>
+</div>
+
+      </div>
+
+      <div id="top-menu-background">
+        <div id="top-menu">
+          <ul id="green" style="width: 100%;">
+            <li class="main clazz tab_home"><a href="/web/20110102191514/http://roblox.zendesk.com/home" class="tab">Home</a></li>
+              <li class="main clazz tab_new"><a href="/web/20110102191514/http://roblox.zendesk.com/anonymous_requests/new" class="tab">Submit a request</a></li>
+            <li class="main clazz tab_requests"><a href="/web/20110102191514/http://roblox.zendesk.com/requests" class="tab">Check your existing requests</a></li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    
+
+<div id="container" class="clearfix">
+
+  
+  
+
+  <div id="flash_messages">
+    
+
+
+
+  </div>
+
+  
+
+  <div id="contentwrapper">
+    <div id="contentcolumn">
+      
+
+
+
+<div class="content content_grey"><div class="grey_box_top"><div class="box box_top"></div></div>  <div class="content-top-right">
+    <p>
+      <a href="/web/20110102191514/http://roblox.zendesk.com/entries/347980-new-gui-problems.rss" class="rss">RSS</a>
+    </p>
+  </div>
+
+  <h2><a href="/web/20110102191514/http://roblox.zendesk.com/forums">Answers</a><span class="delim">/</span><a href="/web/20110102191514/http://roblox.zendesk.com/forums/202642-technical-issues">Technical Issues</a></h2>
+
+  <div class="frame">
+    <div class="entry nobottom" style="padding-bottom:0;">
+      <h3 class="entry-title">New GUI Problems</h3>
+      <p class="sub">Reese Dec-02 2010</p>
+      <div class="user_formatted" style="margin-top:35px;">
+        <p>Problem: The new GUI is preventing play in your place.&nbsp; (December 2, 2010)</p>
+<p>Answer: We have tracked down the source of the user GUI bug that slipped our  unintentionally in this morning's release. We are working on a fix, which will  be up on gametest.roblox.com in a couple of hours (you can help us test if if  you want) and probably released by tomorrow morning. <br/><br/>SCRIPTERS:  <br/><br/>Don't change your places. They will work after we push the fix.  <br/><br/>For those who really want to know, this is what happened. Previously  when you put ScreenGui elements in the Workspace, they would NOT render. The  client team did some code consolidation and refactoring, and as a side effect,  they accidentally made ScreenGui elements in the Workspace render. Whoops!</p>
+<p>-Telamon</p>
+      </div>
+      
+    </div>
+  </div>
+<div class="grey_box_bottom"><div class="box box_bottom"></div></div></div><div class="box_bottom_clear">&nbsp;</div>
+<div class="content content_green"><div class="green_box_top"><div class="box box_top"></div></div>
+  <div class="action"><strong>Topic is closed for comments</strong></div>
+<div class="green_box_bottom"><div class="box box_bottom"></div></div></div><div class="box_bottom_clear">&nbsp;</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+zd.jsInitializers.push(["entries/show",[]]);
+//]]>
+</script>
+    </div>
+  </div>
+
+  <div id="sidebar">
+  </div>
+
+</div>
+
+  </div>
+
+  <div id="footer">
+    <p><a href="https://web.archive.org/web/20110102191514/http://www.zendesk.com/">Help Desk Software</a> by Zendesk</p>
+</div>
+
+<!-- Render any mouseover tips on the page -->
+
+<script type="text/javascript">
+//<![CDATA[
+  if(!Zendesk) var Zendesk = {};
+  Zendesk.tab = "";
+
+//]]>
+</script>
+<script src="https://web.archive.org/web/20110102191514js_/http://asset2.zendesk.com/assets/auto_included.js?1293650915" type="text/javascript"></script>
+<script src="https://web.archive.org/web/20110102191514js_/http://asset3.zendesk.com/assets/widgets.js?1293650915" type="text/javascript"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+  $z.initializeModules(zd.jsInitializers);
+
+//]]>
+</script>
+  <script type="text/javascript" charset="utf-8">
+Event.observe(window, 'load', function() {
+    $$('a[href="/registration"]').each(function (e) { Element.hide(e.parentNode); });
+    $$('a[href="/access/help"]').each(function (e) { Element.hide(e.parentNode); });
+})
+</script>
+<script type="text/javascript" charset="utf-8">
+Event.observe(window, 'load', function() { 
+if ($$('#top-menu #green .tab_new')[0]){ 
+$$('#top-menu #green .tab_new')[0].hide('<a href="/requests/portal/new" class="tab">Ask A Question</a>'); 
+}
+if ($$('#top-menu #green .tab_requests')[0]){ 
+$$('#top-menu #green .tab_requests')[0].hide('<a href="/requests" class="tab">what ever you want</a>'); 
+}});
+</script>
+<script type="text/javascript" charset="utf-8">
+Event.observe(window, 'load', function() { $('#footer')[0].insert('<div style="#color:EEEEEE" align="center"><br>Powered by Pixels</div><br>'); });
+</script>
+
+    <script type="text/javascript" charset="utf-8">
+      $j(document).ready(function () {
+        $j.ajax({
+          url: '/widgets/async.json',
+          data: {"entry_id":347980,"action_method":"get","action_name":"show","controller_name":"entries"},
+          success: Widget.asyncInsertion
+        });
+      });
+    </script>
+
+  
+
+<script type="text/javascript">
+//<![CDATA[
+    
+    jQuery(document).ready(function () {
+      
+    });
+
+//]]>
+</script></body>
+</html>
+<!--
+     FILE ARCHIVED ON 19:15:14 Jan 02, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:37:21 Nov 19, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.393
+  exclusion.robots: 0.051
+  exclusion.robots.policy: 0.043
+  esindex: 0.007
+  cdx.remote: 14.32
+  LoadShardBlock: 132.247 (3)
+  PetaboxLoader3.datanode: 109.976 (4)
+  PetaboxLoader3.resolve: 84.837 (2)
+  load_resource: 122.837
+-->

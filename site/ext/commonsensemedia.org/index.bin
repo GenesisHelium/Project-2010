@@ -1,0 +1,929 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Reviews &amp; Ratings for Family Movies, TV Shows, Websites, Video Games, Books and Music </title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+      <!-- Additional IE/Win specific style sheet (Conditional Comments) -->
+      <!--[if IE]>
+      <style type="text/css" media="all">@import "/sites/all/modules/contrib/jstools/tabs/tabs-ie.css";</style>
+      <![endif]-->
+    
+<meta name="description" content="Family Entertainment reviews and ratings for movies, television, video games, music CDs, books, and websites. Common Sense Media helps parents choose what's best for their kids." />
+<meta name="keywords" content="Movie Reviews TV Show Ratings Video Game Review - Common Sense Media" />
+<link rel="shortcut icon" href="http://cdn1.www.commonsensemedia.org/sites/all/themes/csm_drupal/favicon.ico" type="image/x-icon" />
+
+  <style type="text/css" media="all">@import "http://cdn1.www.commonsensemedia.org/sites/default/files/css/49c39ffd3c28401e93bb69d4a1742e74.css?v=5.2";</style>
+<style type="text/css" media="print">@import "http://cdn1.www.commonsensemedia.org/sites/default/files/css/e670aa5116de98701754c6cd7f36fe62.css?v=5.2";</style>
+  <!--[if IE]>
+    <style type="text/css" media="all">@import "/sites/www.commonsensemedia.org/themes/csm_drupal/fix-ie.css";</style>
+  <![endif]-->
+  <!--[if lt IE 7]>
+    <style type="text/css" media="all">@import "/sites/www.commonsensemedia.org/themes/csm_drupal/fix-ie6.css";</style>
+  <![endif]-->
+  <script type="text/javascript" src="/sites/default/files/js/a62e2b0f01501454e0d8c20b057c0f45.js?v=5.2"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "fivestar": { "titleUser": "Your rating: ", "titleAverage": "Average: ", "feedbackSavingVote": "Saving your vote...", "feedbackVoteSaved": "Your vote has been saved.", "feedbackDeletingVote": "Deleting your vote...", "feedbackVoteDeleted": "Your vote has been deleted." }, "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip", "LegacyVersion": 0 }, "jstools": { "cleanurls": true, "basePath": "/" }, "tabs": { "slide": false, "fade": false, "speed": "slow", "auto_height": false, "next_text": "next", "previous_text": "previous" }, "thickbox": { "close": "Close", "next": "Next \x3e", "prev": "\x3c Prev", "esc_key": "", "next_close": "Next / Close on last", "image_count": "Image !current of !total" }, "csm_register": { "csm_registration_cookie": "csme992a8cbb74d6e6c5098924b59790f5b", "user_logged_in": "false", "user_age_range": null }, "csm_homepage": { "rollover_added_user_actions": { "nid-1167661": "\x3cdiv class=\"favorite\"\x3eLove this title?\x3ca href=\"/user/register?regsource=rollover-fav\x26amp;regstate=unregistered\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3eMark as a family favorite\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action save-for-later\"\x3eIn a hurry? No problem!\x3ca href=\"/user/register?regsource=rollover-save\x26amp;regstate=unregistered\" class=\"button\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/save-for-later.png\" alt=\"Save for Later\" title=\"\" width=\"113\" height=\"23\" width=\"113\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action help-other-parents\"\x3eHelp other parents decide\x26hellip;\x3ca href=\"/movie-reviews/tron-legacy#reviews\" class=\"button\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/btn_review_it.png\" alt=\"Review It\" title=\"\" width=\"78\" height=\"23\" width=\"78\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e", "nid-1167662": "\x3cdiv class=\"favorite\"\x3eLove this title?\x3ca href=\"/user/register?regsource=rollover-fav\x26amp;regstate=unregistered\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3eMark as a family favorite\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action save-for-later\"\x3eIn a hurry? No problem!\x3ca href=\"/user/register?regsource=rollover-save\x26amp;regstate=unregistered\" class=\"button\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/save-for-later.png\" alt=\"Save for Later\" title=\"\" width=\"113\" height=\"23\" width=\"113\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action help-other-parents\"\x3eHelp other parents decide\x26hellip;\x3ca href=\"/movie-reviews/yogi-bear#reviews\" class=\"button\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/btn_review_it.png\" alt=\"Review It\" title=\"\" width=\"78\" height=\"23\" width=\"78\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e", "nid-1167666": "\x3cdiv class=\"favorite\"\x3eLove this title?\x3ca href=\"/user/register?regsource=rollover-fav\x26amp;regstate=unregistered\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3eMark as a family favorite\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action save-for-later\"\x3eIn a hurry? No problem!\x3ca href=\"/user/register?regsource=rollover-save\x26amp;regstate=unregistered\" class=\"button\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/save-for-later.png\" alt=\"Save for Later\" title=\"\" width=\"113\" height=\"23\" width=\"113\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action help-other-parents\"\x3eHelp other parents decide\x26hellip;\x3ca href=\"/movie-reviews/chronicles-narnia-voyage-dawn-treader#reviews\" class=\"button\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/btn_review_it.png\" alt=\"Review It\" title=\"\" width=\"78\" height=\"23\" width=\"78\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e", "nid-1188985": "\x3cdiv class=\"favorite\"\x3eLove this title?\x3ca href=\"/user/register?regsource=rollover-fav\x26amp;regstate=unregistered\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3eMark as a family favorite\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action save-for-later\"\x3eIn a hurry? No problem!\x3ca href=\"/user/register?regsource=rollover-save\x26amp;regstate=unregistered\" class=\"button\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/save-for-later.png\" alt=\"Save for Later\" title=\"\" width=\"113\" height=\"23\" width=\"113\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action help-other-parents\"\x3eHelp other parents decide\x26hellip;\x3ca href=\"/game-reviews/tron-evolution#reviews\" class=\"button\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/btn_review_it.png\" alt=\"Review It\" title=\"\" width=\"78\" height=\"23\" width=\"78\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e", "nid-1187235": "\x3cdiv class=\"favorite\"\x3eLove this title?\x3ca href=\"/user/register?regsource=rollover-fav\x26amp;regstate=unregistered\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3eMark as a family favorite\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action save-for-later\"\x3eIn a hurry? No problem!\x3ca href=\"/user/register?regsource=rollover-save\x26amp;regstate=unregistered\" class=\"button\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/save-for-later.png\" alt=\"Save for Later\" title=\"\" width=\"113\" height=\"23\" width=\"113\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action help-other-parents\"\x3eHelp other parents decide\x26hellip;\x3ca href=\"/game-reviews/michael-jackson-experience#reviews\" class=\"button\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/btn_review_it.png\" alt=\"Review It\" title=\"\" width=\"78\" height=\"23\" width=\"78\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e", "nid-1185537": "\x3cdiv class=\"favorite\"\x3eLove this title?\x3ca href=\"/user/register?regsource=rollover-fav\x26amp;regstate=unregistered\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3eMark as a family favorite\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action save-for-later\"\x3eIn a hurry? No problem!\x3ca href=\"/user/register?regsource=rollover-save\x26amp;regstate=unregistered\" class=\"button\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/save-for-later.png\" alt=\"Save for Later\" title=\"\" width=\"113\" height=\"23\" width=\"113\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action help-other-parents\"\x3eHelp other parents decide\x26hellip;\x3ca href=\"/game-reviews/disney-tangled#reviews\" class=\"button\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/btn_review_it.png\" alt=\"Review It\" title=\"\" width=\"78\" height=\"23\" width=\"78\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e", "nid-1189189": "\x3cdiv class=\"favorite\"\x3eLove this title?\x3ca href=\"/user/register?regsource=rollover-fav\x26amp;regstate=unregistered\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3eMark as a family favorite\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action save-for-later\"\x3eIn a hurry? No problem!\x3ca href=\"/user/register?regsource=rollover-save\x26amp;regstate=unregistered\" class=\"button\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/save-for-later.png\" alt=\"Save for Later\" title=\"\" width=\"113\" height=\"23\" width=\"113\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action help-other-parents\"\x3eHelp other parents decide\x26hellip;\x3ca href=\"/website-reviews/chronicles-narnia-voyage-dawn-treader#reviews\" class=\"button\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/btn_review_it.png\" alt=\"Review It\" title=\"\" width=\"78\" height=\"23\" width=\"78\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e", "nid-1166654": "\x3cdiv class=\"favorite\"\x3eLove this title?\x3ca href=\"/user/register?regsource=rollover-fav\x26amp;regstate=unregistered\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3eMark as a family favorite\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action save-for-later\"\x3eIn a hurry? No problem!\x3ca href=\"/user/register?regsource=rollover-save\x26amp;regstate=unregistered\" class=\"button\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/save-for-later.png\" alt=\"Save for Later\" title=\"\" width=\"113\" height=\"23\" width=\"113\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action help-other-parents\"\x3eHelp other parents decide\x26hellip;\x3ca href=\"/website-reviews/northpole#reviews\" class=\"button\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/btn_review_it.png\" alt=\"Review It\" title=\"\" width=\"78\" height=\"23\" width=\"78\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e", "nid-1187434": "\x3cdiv class=\"favorite\"\x3eLove this title?\x3ca href=\"/user/register?regsource=rollover-fav\x26amp;regstate=unregistered\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3eMark as a family favorite\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action save-for-later\"\x3eIn a hurry? No problem!\x3ca href=\"/user/register?regsource=rollover-save\x26amp;regstate=unregistered\" class=\"button\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/save-for-later.png\" alt=\"Save for Later\" title=\"\" width=\"113\" height=\"23\" width=\"113\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action help-other-parents\"\x3eHelp other parents decide\x26hellip;\x3ca href=\"/website-reviews/elfyourself#reviews\" class=\"button\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/btn_review_it.png\" alt=\"Review It\" title=\"\" width=\"78\" height=\"23\" width=\"78\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e", "nid-1188778": "\x3cdiv class=\"favorite\"\x3eLove this title?\x3ca href=\"/user/register?regsource=rollover-fav\x26amp;regstate=unregistered\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3eMark as a family favorite\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action save-for-later\"\x3eIn a hurry? No problem!\x3ca href=\"/user/register?regsource=rollover-save\x26amp;regstate=unregistered\" class=\"button\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/save-for-later.png\" alt=\"Save for Later\" title=\"\" width=\"113\" height=\"23\" width=\"113\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action help-other-parents\"\x3eHelp other parents decide\x26hellip;\x3ca href=\"/tv-reviews/christmas-cupid#reviews\" class=\"button\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/btn_review_it.png\" alt=\"Review It\" title=\"\" width=\"78\" height=\"23\" width=\"78\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e", "nid-1188719": "\x3cdiv class=\"favorite\"\x3eLove this title?\x3ca href=\"/user/register?regsource=rollover-fav\x26amp;regstate=unregistered\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3eMark as a family favorite\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action save-for-later\"\x3eIn a hurry? No problem!\x3ca href=\"/user/register?regsource=rollover-save\x26amp;regstate=unregistered\" class=\"button\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/save-for-later.png\" alt=\"Save for Later\" title=\"\" width=\"113\" height=\"23\" width=\"113\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action help-other-parents\"\x3eHelp other parents decide\x26hellip;\x3ca href=\"/tv-reviews/gruffalo#reviews\" class=\"button\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/btn_review_it.png\" alt=\"Review It\" title=\"\" width=\"78\" height=\"23\" width=\"78\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e", "nid-1188944": "\x3cdiv class=\"favorite\"\x3eLove this title?\x3ca href=\"/user/register?regsource=rollover-fav\x26amp;regstate=unregistered\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3eMark as a family favorite\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action save-for-later\"\x3eIn a hurry? No problem!\x3ca href=\"/user/register?regsource=rollover-save\x26amp;regstate=unregistered\" class=\"button\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/save-for-later.png\" alt=\"Save for Later\" title=\"\" width=\"113\" height=\"23\" width=\"113\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action help-other-parents\"\x3eHelp other parents decide\x26hellip;\x3ca href=\"/tv-reviews/vice-guide-everything#reviews\" class=\"button\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/btn_review_it.png\" alt=\"Review It\" title=\"\" width=\"78\" height=\"23\" width=\"78\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e", "nid-1184717": "\x3cdiv class=\"favorite\"\x3eLove this title?\x3ca href=\"/user/register?regsource=rollover-fav\x26amp;regstate=unregistered\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3eMark as a family favorite\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action save-for-later\"\x3eIn a hurry? No problem!\x3ca href=\"/user/register?regsource=rollover-save\x26amp;regstate=unregistered\" class=\"button\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/save-for-later.png\" alt=\"Save for Later\" title=\"\" width=\"113\" height=\"23\" width=\"113\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action help-other-parents\"\x3eHelp other parents decide\x26hellip;\x3ca href=\"/book-reviews/mockingbird#reviews\" class=\"button\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/btn_review_it.png\" alt=\"Review It\" title=\"\" width=\"78\" height=\"23\" width=\"78\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e", "nid-1182950": "\x3cdiv class=\"favorite\"\x3eLove this title?\x3ca href=\"/user/register?regsource=rollover-fav\x26amp;regstate=unregistered\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3eMark as a family favorite\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action save-for-later\"\x3eIn a hurry? No problem!\x3ca href=\"/user/register?regsource=rollover-save\x26amp;regstate=unregistered\" class=\"button\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/save-for-later.png\" alt=\"Save for Later\" title=\"\" width=\"113\" height=\"23\" width=\"113\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action help-other-parents\"\x3eHelp other parents decide\x26hellip;\x3ca href=\"/book-reviews/diary-wimpy-kid-ugly-truth#reviews\" class=\"button\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/btn_review_it.png\" alt=\"Review It\" title=\"\" width=\"78\" height=\"23\" width=\"78\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e", "nid-1189077": "\x3cdiv class=\"favorite\"\x3eLove this title?\x3ca href=\"/user/register?regsource=rollover-fav\x26amp;regstate=unregistered\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3eMark as a family favorite\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action save-for-later\"\x3eIn a hurry? No problem!\x3ca href=\"/user/register?regsource=rollover-save\x26amp;regstate=unregistered\" class=\"button\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/save-for-later.png\" alt=\"Save for Later\" title=\"\" width=\"113\" height=\"23\" width=\"113\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action help-other-parents\"\x3eHelp other parents decide\x26hellip;\x3ca href=\"/book-reviews/thee-i-sing#reviews\" class=\"button\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/btn_review_it.png\" alt=\"Review It\" title=\"\" width=\"78\" height=\"23\" width=\"78\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e", "nid-1186947": "\x3cdiv class=\"favorite\"\x3eLove this title?\x3ca href=\"/user/register?regsource=rollover-fav\x26amp;regstate=unregistered\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3eMark as a family favorite\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action save-for-later\"\x3eIn a hurry? No problem!\x3ca href=\"/user/register?regsource=rollover-save\x26amp;regstate=unregistered\" class=\"button\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/save-for-later.png\" alt=\"Save for Later\" title=\"\" width=\"113\" height=\"23\" width=\"113\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action help-other-parents\"\x3eHelp other parents decide\x26hellip;\x3ca href=\"/music-reviews/beginning#reviews\" class=\"button\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/btn_review_it.png\" alt=\"Review It\" title=\"\" width=\"78\" height=\"23\" width=\"78\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e", "nid-1183969": "\x3cdiv class=\"favorite\"\x3eLove this title?\x3ca href=\"/user/register?regsource=rollover-fav\x26amp;regstate=unregistered\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3eMark as a family favorite\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action save-for-later\"\x3eIn a hurry? No problem!\x3ca href=\"/user/register?regsource=rollover-save\x26amp;regstate=unregistered\" class=\"button\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/save-for-later.png\" alt=\"Save for Later\" title=\"\" width=\"113\" height=\"23\" width=\"113\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action help-other-parents\"\x3eHelp other parents decide\x26hellip;\x3ca href=\"/music-reviews/glee-music-christmas-album#reviews\" class=\"button\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/btn_review_it.png\" alt=\"Review It\" title=\"\" width=\"78\" height=\"23\" width=\"78\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e", "nid-1184275": "\x3cdiv class=\"favorite\"\x3eLove this title?\x3ca href=\"/user/register?regsource=rollover-fav\x26amp;regstate=unregistered\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3eMark as a family favorite\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action save-for-later\"\x3eIn a hurry? No problem!\x3ca href=\"/user/register?regsource=rollover-save\x26amp;regstate=unregistered\" class=\"button\" onclick=\"showRegistrationMinimalDialog(); return false;\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/save-for-later.png\" alt=\"Save for Later\" title=\"\" width=\"113\" height=\"23\" width=\"113\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e\x3cdiv class=\"action help-other-parents\"\x3eHelp other parents decide\x26hellip;\x3ca href=\"/music-reviews/theres-place-us#reviews\" class=\"button\"\x3e\x3cimg src=\"http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/btn_review_it.png\" alt=\"Review It\" title=\"\" width=\"78\" height=\"23\" width=\"78\" height=\"23\" /\x3e\x3c/a\x3e\x3c/div\x3e" } } } });</script>
+<script type="text/javascript">$(document).ready(function() { showRegistrationMinimalDialogAutoLoad(); });</script>
+<script type="text/javascript">GS_googleAddAdSenseService("ca-pub-0263648105325329"); GS_googleEnableAllServices();</script>
+<script type="text/javascript">GA_googleFetchAds();</script></head>
+
+<body class="front not-logged-in no-sidebars landingpage" id="homePage">
+<div id="page">
+  <div id="leaderboard"></div>
+  <div id="header" class="wSecondary">
+      <h1><a href="/" title="Link to Home" rel="home"><img src="/sites/www.commonsensemedia.org/themes/csm_drupal/images/reskin/logo.gif" alt="Common Sense Media" /></a></h1>
+  
+    <p class="hide"><a href="#content">Skip to content</a></p>
+
+    <div class="actions"><div id="block-csm_user-user_menu" class="block block-csm_user region-header">
+  <div class="block-inner">
+
+  
+  <div class="content">
+    <div id="top-right-nav"><div id="top-line"><a href="/user/register" class="register-link">register</a><span class="divider">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="/user" rel="nofollow">sign in</a></div><div id="bottom-line"><div id="school-association"><a href="/find-schools" class="find-your-school">find your school</a></div><div id="recommendations"><img src="http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/icons/stars-smaller.png" alt="" title="" width="15" height="14" class="get-recommendations" /><a href="/reviews" class="get-recommendations active" onclick="showRegistrationPersonalizedCTADialog(); return false;">get great recommendations</a>&nbsp;&nbsp;&nbsp;</div></div></div>  </div>
+
+  
+  </div> <!-- /block-inner -->
+</div> <!-- /block -->
+</div>
+
+      <form action="/search/apachesolr_search"  accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div class="form-item ">
+ <input type="text" maxlength="128" name="search_theme_form_keys" id="edit-search-theme-form-keys"  size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="image" src="/sites/www.commonsensemedia.org/themes/csm_drupal/images/reskin/btn_search.gif" name="op" id="edit-submit" alt="Search" /><input type="submit" name="op" id="edit-submit" value="Search"  style="display:none;" class="form-submit" />
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
+
+</div></form>
+        <div id="primary">
+      <ul class="links"><li  class="first menu-1-1-2-active"><a href="/" class="menu-1-1-2-active active">Find Reviews</a></li>
+<li  class="menu-1-2-2"><a href="/by-age" class="menu-1-2-2">By Age</a></li>
+<li  class="menu-1-3-2"><a href="/advice-for-parents" class="menu-1-3-2">Parent Advice</a></li>
+<li  class="menu-1-4-2"><a href="/educators" class="menu-1-4-2">Educator Programs</a></li>
+<li  class="menu-1-5-2"><a href="/about-us/our-mission" class="menu-1-5-2">About Us</a></li>
+<li  class="last menu-1-6-2"><a href="https://secure.groundspring.org/dn/index.php?aid=978" class="menu-1-6-2">Donate</a></li>
+</ul>    </div>
+          <div id="secondary" >
+        <ul class="links"><li  class="first menu-2-1-125"><a href="/movie-reviews" class="menu-2-1-125">Movies</a></li>
+<li  class="menu-2-2-125"><a href="/game-reviews" class="menu-2-2-125">Games</a></li>
+<li  class="menu-2-3-125"><a href="/mobile-app-reviews" class="menu-2-3-125">Apps</a></li>
+<li  class="menu-2-4-125"><a href="/website-reviews" class="menu-2-4-125">Websites</a></li>
+<li  class="menu-2-5-125"><a href="/tv-reviews" class="menu-2-5-125">TV</a></li>
+<li  class="menu-2-6-125"><a href="/book-reviews" class="menu-2-6-125">Books</a></li>
+<li  class="last menu-2-7-125"><a href="/music-reviews" class="menu-2-7-125">Music</a></li>
+</ul>        <span class="marketing-cta-container"><form id="marketing-form" action="/user/register?regsource=cta&regstate=unregistered" method="post" style="z-index:0;"><input id="submit-cta" class="submit" onclick="showRegistrationPersonalizedCTADialog(); return false;" type="image" src="/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/go.png" alt="Go" /><select name="age-select" id="age-select"><option value="0" selected="selected">select an age</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+</select><span class="recommendations-nokids">NEW! Personalize our site for your kids</span></form></span>      </div>
+        </div> <!-- /header -->
+
+
+  <div id="container">
+
+    
+
+    <div id="main" class="column">
+    
+      
+      <div id="content">
+  
+        <div class='features_wrapper'>
+             <div class="features_main_content"><div id="7000feature_0_4" class="feature_image"><div class="features_content_image"><a href="/real-or-virtual-money-fuels-kids-holiday-gimmes"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_rotator/images/HP-buyingbug.jpg" alt="" title=""  class="imagecache imagecache-homepage_rotator" /></a></div><div class="features_content_text"><div class='top'><h2>Does Playing With Money Make Kids Greedy?</h2><p><a href="/real-or-virtual-money-fuels-kids-holiday-gimmes">With so much cash changing hands online, how can parents teach kids the value of a virtual dollar?</a></p></div><div class='bottom'><p><strong><a href="/game-lists/gift-ideas-our-kids-games-picks">Ultimate Video Game Wish List</a></strong> </p><p><strong><a href="/privacy">Protecting Kids' Privacy Online</a></strong> </p></div></div></div><div id="7000feature_1_4" class="feature_image"><div class="features_content_image"><a href="/game-lists/gift-ideas-our-kids-games-picks"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_rotator/images/EpicMickeyPaint-HP.jpg" alt="" title=""  class="imagecache imagecache-homepage_rotator" /></a></div><div class="features_content_text"><div class='top'><h2>Ultimate Video Game Wish List</h2><p><a href="/game-lists/gift-ideas-our-kids-games-picks">From <i>Super Mario</i> to <i>Epic Mickey</i> -- we tell you all about the games your kids are asking for. </a></p></div><div class='bottom'><p><strong><a href="/privacy">Protecting Kids' Privacy Online</a></strong> </p><p><strong><a href="/real-or-virtual-money-fuels-kids-holiday-gimmes">Does Playing With Money Make Kids Greedy?</a></strong> </p></div></div></div><div id="7000feature_2_4" class="feature_image"><div class="features_content_image"><a href="/privacy"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_rotator/images/privacyrotatorbanner.jpg" alt="" title=""  class="imagecache imagecache-homepage_rotator" /></a></div><div class="features_content_text"><div class='top'><h2>Protecting Kids' Privacy Online</h2><p><a href="/privacy">Do you believe that kids and families should have the right to control their personal information? </a></p></div><div class='bottom'><p><strong><a href="/real-or-virtual-money-fuels-kids-holiday-gimmes">Does Playing With Money Make Kids Greedy?</a></strong> </p><p><strong><a href="/game-lists/gift-ideas-our-kids-games-picks">Ultimate Video Game Wish List</a></strong> </p></div></div></div></div><div id="popular"><h3>Most Popular with Members</h3><div class="content"><p><a href="/website-reviews/youtube"><div class="teaser"><div class="hpImage"><a href="/website-reviews/youtube"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_teaser_image/youtube.gif" alt="youtube.gif" title=""  class="imagecache imagecache-homepage_teaser_image" /></a></div><div id="rollover-nid-355865" class="rollover"><div class="rollover-inner"><span class="heading"><span>YouTube</span> </span><div class="summary"><h5>Parents Need to Know...</h5><p> that YouTube offers parents the ability to filter out objectionable content using its Safety Mode. Safety Mode is an opt-in feature -- meaning you need to enable it on your browser -- that filters both videos and comments. YouTube also ... <a href="/website-reviews/youtube#what-parents-need-to-know">read more</a></p></div><div class="rollover-user-actions" style="margin-top:-20px">&nbsp;</div></div></div><div class="recommended_age age_yellow">Age <span>13+</span></div></div></a></p><h4>YouTube</h4><div class='rate'><strong>Parents Rate It</strong><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">4</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div><div class='rate'><strong>Kids Rate It</strong><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">4</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div></div></div>        </div>
+
+        <div id='lowerArea'>
+          <div id='browse'>
+            <h3><span class="hide">Browse for Reviews</span></h3>
+            
+<div class="mediaTypeBlock">
+  <h4><a href="/movie-reviews">Movie Reviews</a> (3,897)</h4>
+  <ul>
+    <li>
+      <form name="newReleaseForm" action="/movie-reviews/all-ages/all-genres?action=new-releases" method="post">
+        <a onclick="javascript:newReleaseForm.submit()">In Theaters Now</a> <span class="grey_out">(95)</span>
+        <input type="hidden" name="movieAvailability" id="movieAvailability" value="0" />
+      </form>
+    </li>
+    <li>
+      <form name="oldDvdForm" action="/movie-reviews/all-ages/all-genres?action=new-releases" method="post">
+        <a onclick="javascript:oldDvdForm.submit()">On DVD</a> <span class="grey_out">(3,802)</span>
+        <input type="hidden" name="movieAvailability" id="movieAvailability" value="1" />
+      </form>
+    </li>
+    <li>
+      <form name="moviesByGenreForm" action="/movie-reviews/all-ages/all-genres?action=new-releases" method="post">
+        <a onclick="javascript:moviesByGenreForm.submit()">Movies by Genre</a> <span class="grey_out">(3,897)</span>
+        <input type="hidden" name="hiddenTab" id="hiddenTab" value="csm_recommend" />
+      </form>
+    </li>
+    <li>
+      <form name="weRecommendMovieForm" action="/movie-reviews/all-ages/all-genres?action=we-recommend" method="post">
+        <a onclick="javascript:weRecommendMovieForm.submit()">We Recommend</a> <span class="grey_out">(2,826)</span>
+        <input type="hidden" name="hiddenTab" id="hiddenTab" value="csm_recommend" />
+      </form>
+    </li>
+    <li><a href="/movie-lists">Best Movies</a> <span class="grey_out">(106)</span></li>
+  </ul>
+</div>
+<div class="mediaTypeBlock">
+  <h4><a href="/game-reviews">Game Reviews</a> (1,835)</h4>
+  <ul>
+    <li>
+      <form name="gamesNewReviews" action="/game-reviews/all-ages/all-genres?action=new-releases" method="post">
+        <a onclick="javascript:gamesNewReviews.submit()">New Reviews</a> <span class="grey_out">(53)</span> 
+        <input type="hidden" name="hiddenTab" id="hiddenTab" value="csm_recommend" />
+      </form>
+    </li>
+    <li>
+      <form name="gamesByPlatformForm" action="/game-reviews/all-ages/all-genres?action=new-releases" method="post">
+        <a onclick="javascript:gamesByPlatformForm.submit()">Games by Platform</a> <span class="grey_out">(1,649)</span> 
+        <input type="hidden" name="hiddenTab" id="hiddenTab" value="csm_recommend" />
+      </form> 
+    </li>
+    <li>
+      <form name="weRecommendGameForm" action="/game-reviews/all-ages/all-genres?action=we-recommend" method="post">
+        <a onclick="javascript:weRecommendGameForm.submit()">We Recommend</a> <span class="grey_out">(1,649)</span> 
+        <input type="hidden" name="hiddenTab" id="hiddenTab" value="csm_recommend" />
+      </form>
+    </li>
+    <li><a href="/game-lists">Best Games</a> <span class="grey_out">(68)</span></li>
+  </ul>
+</div>
+<div class="mediaTypeBlock">
+  <h4><a href="/website-reviews">Website Reviews</a> (824)</h4>
+  <ul>
+    <li>
+      <form name="websiteNewReviews" action="/website-reviews/all-ages/all-genres?action=new-releases" method="post">
+        <a onclick="javascript:websiteNewReviews.submit()">New Reviews</a> <span class="grey_out">(26)</span> 
+        <input type="hidden" name="hiddenTab" id="hiddenTab" value="csm_recommend" />
+      </form> 
+    </li>
+    <li>
+      <form name="websiteByGenreForm" action="/website-reviews/all-ages/all-genres?action=new-releases" method="post">
+        <a onclick="javascript:websiteByGenreForm.submit()">Websites by Genre</a> <span class="grey_out">(824)</span> 
+        <input type="hidden" name="hiddenTab" id="hiddenTab" value="csm_recommend" />
+      </form>
+    </li>
+    <li>
+      <form name="weRecommendWebsiteForm" action="/website-reviews/all-ages/all-genres?action=we-recommend" method="post"> 
+        <a onclick="javascript:weRecommendWebsiteForm.submit()">We Recommend</a> <span class="grey_out">(702)</span> 
+        <input type="hidden" name="hiddenTab" id="hiddenTab" value="csm_recommend" />
+      </form>
+    </li>
+    <li><a href="/website-advice">Tips and Advice</a> <span class="grey_out">(87)</span></li>
+    <li><a href="/website-lists">Best Websites</a> <span class="grey_out">(36)</span></li>
+  </ul>
+</div>
+<div class="mediaTypeBlock">
+  <h4><a href="/tv-reviews">TV Reviews</a> (2,785)</h4>
+  <ul>
+    <li>
+      <form name="tvNewReviews" action="/tv-reviews/all-ages/all-genres?action=new-releases" method="post">
+        <a onclick="javascript:tvNewReviews.submit()">New Reviews</a> <span class="grey_out">(43)</span> 
+        <input type="hidden" name="hiddenTab" id="hiddenTab" value="csm_recommend" />
+      </form>
+    </li>
+    <li>
+      <form name="tvByGenreForm" action="/tv-reviews/all-ages/all-genres?action=new-releases" method="post">
+        <a onclick="javascript:tvByGenreForm.submit()">TV by Genre</a> <span class="grey_out">(2,130)</span> 
+        <input type="hidden" name="hiddenTab" id="hiddenTab" value="csm_recommend" />
+      </form>
+    </li>
+    <li>
+      <form name="weRecommendTVForm" action="/tv-reviews/all-ages/all-genres?action=we-recommend" method="post">
+        <a onclick="javascript:weRecommendTVForm.submit()">We Recommend</a> <span class="grey_out">(2,130)</span> 
+        <input type="hidden" name="hiddenTab" id="hiddenTab" value="csm_recommend" />
+      </form>
+    </li>
+    <li><a href="/tv-lists">Best TV</a> <span class="grey_out">(60)</span></li>
+  </ul>
+</div>
+<div class="mediaTypeBlock">
+  <h4><a href="/book-reviews">Book Reviews</a> (1,935)</h4>
+  <ul>
+    <li>
+      <form name="booksNewReviews" action="/book-reviews/all-ages/all-genres?action=new-releases" method="post">
+        <a onclick="javascript:booksNewReviews.submit()">New Reviews</a> <span class="grey_out">(35)</span>
+        <input type="hidden" name="hiddenTab" id="hiddenTab" value="csm_recommend" />
+      </form> 
+    </li>
+    <li>
+      <form name="booksAwardWinners" action="/book-reviews/all-ages/all-genres?action=we-recommend" method="post"> 
+        <a onclick="javascript:booksAwardWinners.submit()">Award Winners</a> <span class="grey_out">(413)</span>
+        <input type="hidden" name="hiddenTab" id="hiddenTab" value="csm_recommend" />
+      </form> 
+    </li>
+    <li>
+      <form name="weRecommendBookForm" action="/book-reviews/all-ages/all-genres?action=we-recommend" method="post"> 
+        <a onclick="javascript:weRecommendBookForm.submit()">We Recommend</a> <span class="grey_out">(1,848)</span>
+        <input type="hidden" name="hiddenTab" id="hiddenTab" value="csm_recommend" />
+      </form> 
+    </li>
+    <li><a href="/book-lists">Best Books</a> <span class="grey_out">(72)</span></li>
+  </ul>
+</div>
+<div class="mediaTypeBlock">
+  <h4><a href="/music-reviews">Music Reviews</a> (1,497)</h4>
+  <ul>
+    <li>
+      <form name="musicNewReviews" action="/music-reviews/all-ages/all-genres?action=new-releases" method="post">
+        <a onclick="javascript:musicNewReviews.submit()">New Reviews</a> <span class="grey_out">(15)</span>
+        <input type="hidden" name="hiddenTab" id="hiddenTab" value="csm_recommend" />
+      </form> 
+    </li>
+    <li>
+      <form name="musicByGenreForm" action="/music-reviews/all-ages/all-genres?action=new-releases" method="post">
+        <a onclick="javascript:musicByGenreForm.submit()">Music by Genre</a> <span class="grey_out">(1,497)</span>
+        <input type="hidden" name="hiddenTab" id="hiddenTab" value="csm_recommend" />
+      </form> 
+    </li>
+    <li><a href="/music-lists">Best Music</a> <span class="grey_out">(50)</span></li>
+  </ul>
+</div>          </div> <!-- end browseForReviews -->
+
+          <div id='reviews'>
+            <h3><span class="hide">New Reviews &amp; Advice for You</span></h3>
+            <div id='newReviews'>
+              <div class="section"><h4>New Movies in Theaters & Coming Soon</h4><div class="container"><div class="teaser"><div class="hpImage"><a href="/movie-reviews/tron-legacy"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_teaser_image/tron_legacy_ver2.jpg" alt="tron_legacy_ver2.jpg" title=""  class="imagecache imagecache-homepage_teaser_image" /></a></div><div id="rollover-nid-1167661" class="rollover"><div class="rollover-inner"><span class="heading"><span>TRON: Legacy</span> (2010, Rated PG)</span><div class="summary"><h5>Parents Need to Know...</h5><p> that this is one of the most buzzed-about movies of 2010 and will especially appeal to kids and teens who are into sci-fi. With many fans on alert since Disney unveiled the eye-popping trailer, this sequel to the 1982 cult classic Tron ... <a href="/movie-reviews/tron-legacy#what-parents-need-to-know">read more</a></p></div><div class="rollover-user-actions" style="margin-top:-20px">&nbsp;</div></div></div><div style="visibility:hidden;"  class="recommended_age age_green">Age <span>2+</span></div><h5><a href="/movie-reviews/tron-legacy">TRON: Legacy</a></h5><div style="visibility:hidden;"  class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div style="visibility:hidden;"  class="star star-1 star-odd star-first"><span class="on">1</span></div><div style="visibility:hidden;"  class="star star-2 star-even"><span class="off"></span></div><div style="visibility:hidden;"  class="star star-3 star-odd"><span class="off"></span></div><div style="visibility:hidden;"  class="star star-4 star-even"><span class="off"></span></div><div style="visibility:hidden;"  class="star star-5 star-odd star-last"><span class="off"></span></div></div></div><div class="teaser"><div class="hpImage"><a href="/movie-reviews/yogi-bear"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_teaser_image/yogi_bear.jpg" alt="yogi_bear.jpg" title=""  class="imagecache imagecache-homepage_teaser_image" /></a></div><div id="rollover-nid-1167662" class="rollover"><div class="rollover-inner"><span class="heading"><span>Yogi Bear</span> (2010, Rated PG)</span><div class="summary"><h5>Parents Need to Know...</h5><p> that Yogi Bear returns -- this time on the big screen -- in this half-animated, half-live-action 3-D family comedy. Yogi &quot;Smarter Than Your Average Bear&quot; (voiced by Dan Aykroyd) and sidekick Boo-Boo (Justin Timberlake) wander ... <a href="/movie-reviews/yogi-bear#what-parents-need-to-know">read more</a></p></div><div class="rollover-user-actions" style="margin-top:-20px">&nbsp;</div></div></div><div style="visibility:hidden;"  class="recommended_age age_green">Age <span>2+</span></div><h5><a href="/movie-reviews/yogi-bear">Yogi Bear</a></h5><div style="visibility:hidden;"  class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div style="visibility:hidden;"  class="star star-1 star-odd star-first"><span class="on">1</span></div><div style="visibility:hidden;"  class="star star-2 star-even"><span class="off"></span></div><div style="visibility:hidden;"  class="star star-3 star-odd"><span class="off"></span></div><div style="visibility:hidden;"  class="star star-4 star-even"><span class="off"></span></div><div style="visibility:hidden;"  class="star star-5 star-odd star-last"><span class="off"></span></div></div></div><div class="teaser last"><div class="hpImage"><a href="/movie-reviews/chronicles-narnia-voyage-dawn-treader"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_teaser_image/chronicles_of_narnia_the_voyage_of_the_dawn_treader.jpg" alt="chronicles_of_narnia_the_voyage_of_the_dawn_treader.jpg" title=""  class="imagecache imagecache-homepage_teaser_image" /></a></div><div id="rollover-nid-1167666" class="rollover"><div class="rollover-inner"><span class="heading"><span>The Chronicles of Narnia: The Voyage of the Dawn Treader</span> (2010, Rated PG)</span><div class="summary"><h5>Parents Need to Know...</h5><p> that the third Chronicles of Narnia installment is, like its predecessors, a tween-friendly fantasy adventure. In general, you can expect the same level of special effects-heightened battles/violence and minor language as Prince Caspian. ... <a href="/movie-reviews/chronicles-narnia-voyage-dawn-treader#what-parents-need-to-know">read more</a></p></div><div class="rollover-user-actions" style="margin-top:-20px">&nbsp;</div></div></div><div class="recommended_age age_green">Age <span>10+</span></div><h5><a href="/movie-reviews/chronicles-narnia-voyage-dawn-treader">The Chronicles of Narnia: The Voyage of the Dawn Treader</a></h5><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">3</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div></div><div class="moreLink">More <a href="/movie-reviews">movie reviews</a></div></div><div class="section"><h4>New Video Game Reviews</h4><div class="container"><div class="teaser"><div class="hpImage"><a href="/game-reviews/tron-evolution"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_teaser_image/Tron_Evolution_Box.jpg" alt="Tron_Evolution_Box.jpg" title=""  class="imagecache imagecache-homepage_teaser_image" /></a></div><div id="rollover-nid-1188985" class="rollover"><div class="rollover-inner"><span class="heading"><span>TRON: Evolution</span> (PlayStation 3, Windows, Xbox 360)</span><div class="summary"><h5>Parents Need to Know...</h5><p> TRON: Evolution is a game based on the movie TRON: Legacy. It earned its &quot;Teen&quot; rating primarily for its fantasy violence.This includes hand-to-hand combat, acrobatic attacks, throwing discs, shooting tanks, and racing in light ... <a href="/game-reviews/tron-evolution#what-parents-need-to-know">read more</a></p></div><div class="rollover-user-actions" style="margin-top:-20px">&nbsp;</div></div></div><div class="recommended_age age_green">Age <span>13+</span></div><h5><a href="/game-reviews/tron-evolution">TRON: Evolution</a></h5><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">3</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div><div class="teaser"><div class="hpImage"><a href="/game-reviews/michael-jackson-experience"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_teaser_image/MJ_Box.jpg" alt="MJ_Box.jpg" title=""  class="imagecache imagecache-homepage_teaser_image" /></a></div><div id="rollover-nid-1187235" class="rollover"><div class="rollover-inner"><span class="heading"><span>Michael Jackson: The Experience</span> (Nintendo DS, Nintendo Wii, PSP)</span><div class="summary"><h5>Parents Need to Know...</h5><p> Michael Jackson The Experience is rated &quot;E10+&quot; for some suggestive lyrics (mainly sexual, a little violent) and there are some suggestive moves, too, including thrusting hips and crotch-grabbing. But at its core, this is a ... <a href="/game-reviews/michael-jackson-experience#what-parents-need-to-know">read more</a></p></div><div class="rollover-user-actions" style="margin-top:-20px">&nbsp;</div></div></div><div class="recommended_age age_green">Age <span>10+</span></div><h5><a href="/game-reviews/michael-jackson-experience">Michael Jackson: The Experience</a></h5><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">4</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div><div class="teaser last"><div class="hpImage"><a href="/game-reviews/disney-tangled"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_teaser_image/Disney_Tangled.jpg" alt="Disney_Tangled.jpg" title=""  class="imagecache imagecache-homepage_teaser_image" /></a></div><div id="rollover-nid-1185537" class="rollover"><div class="rollover-inner"><span class="heading"><span>Disney Tangled</span> (Nintendo DS, Nintendo DSi, Nintendo Wii)</span><div class="summary"><h5>Parents Need to Know...</h5><p> that Disney Tangled is based on the film of the same name and that many children will likely want to play it simply because of its recognizable title and characters. It features some mild cartoon violence of the whack-a-bad-guy variety; ... <a href="/game-reviews/disney-tangled#what-parents-need-to-know">read more</a></p></div><div class="rollover-user-actions" style="margin-top:-20px">&nbsp;</div></div></div><div class="recommended_age age_green">Age <span>8+</span></div><h5><a href="/game-reviews/disney-tangled">Disney Tangled</a></h5><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">2</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="off"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div></div><div class="moreLink">More <a href="/game-reviews">game reviews</a></div></div><div class="section"><h4>Popular Websites for Kids</h4><div class="container"><div class="teaser"><div class="hpImage"><a href="/website-reviews/chronicles-narnia-voyage-dawn-treader"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_teaser_image/Narnia.jpg" alt="Narnia.jpg" title=""  class="imagecache imagecache-homepage_teaser_image" /></a></div><div id="rollover-nid-1189189" class="rollover"><div class="rollover-inner"><span class="heading">The Chronicles of Narnia: The Voyage of the Dawn Treader</span> <div class="summary"><h5>Parents Need to Know...</h5><p> that you must be 13 to register; registration is required to earn points to customize your ship. The site also features frequent pushes to Facebook. <a href="/website-reviews/chronicles-narnia-voyage-dawn-treader#what-parents-need-to-know">read more</a></p></div><div class="rollover-user-actions" style="margin-top:-20px">&nbsp;</div></div></div><div class="recommended_age age_green">Age <span>13+</span></div><h5><a href="/website-reviews/chronicles-narnia-voyage-dawn-treader">The Chronicles of Narnia: The Voyage of the Dawn Treader</a></h5><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">4</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div><div class="teaser"><div class="hpImage"><a href="/website-reviews/northpole"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_teaser_image/northpole_PI2.jpg" alt="northpole_PI2.jpg" title=""  class="imagecache imagecache-homepage_teaser_image" /></a></div><div id="rollover-nid-1166654" class="rollover"><div class="rollover-inner"><span class="heading">Northpole</span> <div class="summary"><h5>Parents Need to Know...</h5><p> that this Christmas-themed site has made an effort to make sure kids have a safe experience. Kids can chat with digital elves, but they only receive pre-determined responses (kids can enter bad words, but they don't appear on screen and ... <a href="/website-reviews/northpole#what-parents-need-to-know">read more</a></p></div><div class="rollover-user-actions" style="margin-top:-20px">&nbsp;</div></div></div><div class="recommended_age age_green">Age <span>7+</span></div><h5><a href="/website-reviews/northpole">Northpole</a></h5><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">4</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div><div class="teaser last"><div class="hpImage"><a href="/website-reviews/elfyourself"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_teaser_image/Elf.jpg" alt="Elf.jpg" title=""  class="imagecache imagecache-homepage_teaser_image" /></a></div><div id="rollover-nid-1187434" class="rollover"><div class="rollover-inner"><span class="heading">ElfYourself</span> <div class="summary"><h5>Parents Need to Know...</h5><p> that on ElfYourself users can upload an image and create a dancing elf video without registering or entering any personal information. You can also email the video to acquaintances by just entering your email address and the recipient's ... <a href="/website-reviews/elfyourself#what-parents-need-to-know">read more</a></p></div><div class="rollover-user-actions" style="margin-top:-20px">&nbsp;</div></div></div><div class="recommended_age age_green">Age <span>14+</span></div><h5><a href="/website-reviews/elfyourself">ElfYourself</a></h5><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">4</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div></div><div class="moreLink">More <a href="/website-reviews">website reviews</a></div></div><div class="section"><h4>TV for Kids</h4><div class="container"><div class="teaser"><div class="hpImage"><a href="/tv-reviews/christmas-cupid"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_teaser_image/121484_D_0039_pre.jpg" alt="121484_D_0039_pre.jpg" title=""  class="imagecache imagecache-homepage_teaser_image" /></a></div><div id="rollover-nid-1188778" class="rollover"><div class="rollover-inner"><span class="heading"><span>Christmas Cupid</span> (ABC Family)</span><div class="summary"><h5>Parents Need to Know...</h5><p> that this movie is not for tweens thanks to a fair amount of cursing (“damn,” “hell,” “ass,” and the like), sexual implications (mostly in dialogue, plus a few passionate kisses), and some heavy drinking from a main character, ... <a href="/tv-reviews/christmas-cupid#what-parents-need-to-know">read more</a></p></div><div class="rollover-user-actions" style="margin-top:-20px">&nbsp;</div></div></div><div class="recommended_age age_green">Age <span>14+</span></div><h5><a href="/tv-reviews/christmas-cupid">Christmas Cupid</a></h5><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">3</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div><div class="teaser"><div class="hpImage"><a href="/tv-reviews/gruffalo"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_teaser_image/Gruffalo_TV.jpg" alt="Gruffalo_TV.jpg" title=""  class="imagecache imagecache-homepage_teaser_image" /></a></div><div id="rollover-nid-1188719" class="rollover"><div class="rollover-inner"><span class="heading"><span>The Gruffalo</span> (ABC Family)</span><div class="summary"><h5>Parents Need to Know...</h5><p> that this beautiful adaptation is based on the acclaimed children’s book of the same name, so youngsters might be encouraged to follow up watching it with a reading session. A few scenes show Mouse envisioning being eaten by the ... <a href="/tv-reviews/gruffalo#what-parents-need-to-know">read more</a></p></div><div class="rollover-user-actions" style="margin-top:-20px">&nbsp;</div></div></div><div class="recommended_age age_green">Age <span>3+</span></div><h5><a href="/tv-reviews/gruffalo">The Gruffalo</a></h5><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">4</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div><div class="teaser last"><div class="hpImage"><a href="/tv-reviews/vice-guide-everything"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_teaser_image/viceguide.jpg" alt="viceguide.jpg" title=""  class="imagecache imagecache-homepage_teaser_image" /></a></div><div id="rollover-nid-1188944" class="rollover"><div class="rollover-inner"><span class="heading"><span>The Vice Guide To Everything</span> (MTV, MTV2)</span><div class="summary"><h5>Parents Need to Know...</h5><p> that this edgy series features Vice Magazine team members as they report on political, cultural, and other stories from around the world that may not be covered in mainstream media. Stories may contain sexual content (like stripping), ... <a href="/tv-reviews/vice-guide-everything#what-parents-need-to-know">read more</a></p></div><div class="rollover-user-actions" style="margin-top:-20px">&nbsp;</div></div></div><div class="recommended_age age_yellow">Age <span>15+</span></div><h5><a href="/tv-reviews/vice-guide-everything">The Vice Guide To Everything</a></h5><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">3</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div></div><div class="moreLink">More <a href="/tv-reviews">TV reviews</a></div></div><div class="section"><h4>New Books for Kids</h4><div class="container"><div class="teaser"><div class="hpImage"><a href="/book-reviews/mockingbird"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_teaser_image/mockingbird.jpg" alt="mockingbird.jpg" title=""  class="imagecache imagecache-homepage_teaser_image" /></a></div><div id="rollover-nid-1184717" class="rollover"><div class="rollover-inner"><span class="heading"><span>Mockingbird</span> by Kathryn Erskine</span><div class="summary"><h5>Parents Need to Know...</h5><p> that this winner of the 2010 National Book Award for Young People's Literature is insightful, and imparts a hopeful message. Part of the story is about how the community copes with a shooting at Virginia Dare Middle School that took the ... <a href="/book-reviews/mockingbird#what-parents-need-to-know">read more</a></p></div><div class="rollover-user-actions" style="margin-top:-20px">&nbsp;</div></div></div><div class="recommended_age age_green">Age <span>10+</span></div><h5><a href="/book-reviews/mockingbird">Mockingbird</a></h5><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">5</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="on"></span></div></div></div><div class="teaser"><div class="hpImage"><a href="/book-reviews/diary-wimpy-kid-ugly-truth"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_teaser_image/the_ugly_truth_book.jpg" alt="the_ugly_truth_book.jpg" title=""  class="imagecache imagecache-homepage_teaser_image" /></a></div><div id="rollover-nid-1182950" class="rollover"><div class="rollover-inner"><span class="heading"><span>Diary of a Wimpy Kid: The Ugly Truth</span> by Jeff Kinney</span><div class="summary"><h5>Parents Need to Know...</h5><p> that this fifth book in the incredibly popular Wimpy Kid series features the same clueless, often irresponsible Wimpy Kid, but now he's about to go through puberty. Expect a few more references to the Big Change, but no real details ... <a href="/book-reviews/diary-wimpy-kid-ugly-truth#what-parents-need-to-know">read more</a></p></div><div class="rollover-user-actions" style="margin-top:-20px">&nbsp;</div></div></div><div class="recommended_age age_green">Age <span>9+</span></div><h5><a href="/book-reviews/diary-wimpy-kid-ugly-truth">Diary of a Wimpy Kid: The Ugly Truth</a></h5><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">3</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div><div class="teaser last"><div class="hpImage"><a href="/book-reviews/thee-i-sing"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_teaser_image/of_thee_I_sing_book.jpg" alt="of_thee_I_sing_book.jpg" title=""  class="imagecache imagecache-homepage_teaser_image" /></a></div><div id="rollover-nid-1189077" class="rollover"><div class="rollover-inner"><span class="heading"><span>Of Thee I Sing</span> by Barack Obama</span><div class="summary"><h5>Parents Need to Know...</h5><p> that this inspirational picture book written by President Barack Obama for his daughters focuses on the lives of 13 American heroes. The list is quite diverse -- both in terms of what these heroes look like and the work that they did. ... <a href="/book-reviews/thee-i-sing#what-parents-need-to-know">read more</a></p></div><div class="rollover-user-actions" style="margin-top:-20px">&nbsp;</div></div></div><div class="recommended_age age_green">Age <span>4+</span></div><h5><a href="/book-reviews/thee-i-sing">Of Thee I Sing</a></h5><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">4</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div></div><div class="moreLink">More <a href="/book-reviews">book reviews</a></div></div><div class="section"><h4>Music to Download</h4><div class="container"><div class="teaser"><div class="hpImage"><a href="/music-reviews/beginning"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_teaser_image/bep_beg.JPG" alt="bep_beg.JPG" title=""  class="imagecache imagecache-homepage_teaser_image" /></a></div><div id="rollover-nid-1186947" class="rollover"><div class="rollover-inner"><span class="heading"><span>The Beginning</span> by The Black Eyed Peas</span><div class="summary"><h5>Parents Need to Know...</h5><p> that this album is relatively mild in terms of adult content compared to other pop/hip-hop tunes and past Black Eyed Peas records. Many of the songs talk about &quot;partying&quot; but focus more on simply dancing than drinking or sex. ... <a href="/music-reviews/beginning#what-parents-need-to-know">read more</a></p></div><div class="rollover-user-actions" style="margin-top:-20px">&nbsp;</div></div></div><div class="recommended_age age_green">Age <span>13+</span></div><h5><a href="/music-reviews/beginning">The Beginning</a></h5><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">3</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div><div class="teaser"><div class="hpImage"><a href="/music-reviews/glee-music-christmas-album"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_teaser_image/glee_xmas.JPG" alt="glee_xmas.JPG" title=""  class="imagecache imagecache-homepage_teaser_image" /></a></div><div id="rollover-nid-1183969" class="rollover"><div class="rollover-inner"><span class="heading"><span>Glee: The Music, The Christmas Album</span> by Glee Cast</span><div class="summary"><h5>Parents Need to Know...</h5><p> that this CD is one of Glee's most appropriate musical releases for younger audiences. While the cast still slips in an eyebrow-raising line here and there, the majority of these songs are Christmas classics with very clean lyrics. The ... <a href="/music-reviews/glee-music-christmas-album#what-parents-need-to-know">read more</a></p></div><div class="rollover-user-actions" style="margin-top:-20px">&nbsp;</div></div></div><div class="recommended_age age_green">Age <span>10+</span></div><h5><a href="/music-reviews/glee-music-christmas-album">Glee: The Music, The Christmas Album</a></h5><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">3</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="off"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div><div class="teaser last"><div class="hpImage"><a href="/music-reviews/theres-place-us"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/homepage_teaser_image/Carrie-Underwood.png" alt="Carrie-Underwood.png" title=""  class="imagecache imagecache-homepage_teaser_image" /></a></div><div id="rollover-nid-1184275" class="rollover"><div class="rollover-inner"><span class="heading"><span>"There's a Place for Us"</span> by Carrie Underwood</span><div class="summary"><h5>Parents Need to Know...</h5><p> that this single is the theme song to Chronicles of Narnia: The Voyage of the Dawn Treader. Sung by Carrie Underwood, it's a power ballad with a great message about never giving up and staying true to who you are; unlike the Narnia ... <a href="/music-reviews/theres-place-us#what-parents-need-to-know">read more</a></p></div><div class="rollover-user-actions" style="margin-top:-20px">&nbsp;</div></div></div><div class="recommended_age age_green">Age <span>6+</span></div><h5><a href="/music-reviews/theres-place-us">&quot;There&#039;s a Place for Us&quot;</a></h5><div class="fivestar-widget-static fivestar-widget-static-vote fivestar-widget-static-5 clear-block"><div class="star star-1 star-odd star-first"><span class="on">4</span></div><div class="star star-2 star-even"><span class="on"></span></div><div class="star star-3 star-odd"><span class="on"></span></div><div class="star star-4 star-even"><span class="on"></span></div><div class="star star-5 star-odd star-last"><span class="off"></span></div></div></div></div><div class="moreLink">More <a href="/music-reviews">music reviews</a></div></div>            </div> <!-- end newReviews -->
+            <div id='advice'>
+              <h4>Advice for Parents &amp; Educators</h4><p class="promo"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/web_review_profile/images/harry.jpg" alt="" title=""  class="imagecache imagecache-web_review_profile" /> Check out what's new in theaters for your family.<a href="http://www.commonsensemedia.org/movie-reviews"> New kids' movies now playing</a></p><p class="promo"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/web_review_profile/images/scary_movie.jpg" alt="" title=""  class="imagecache imagecache-web_review_profile" /> Can 3-D Movies Be Harmful?<a href="http://www.commonsensemedia.org/3-d-okay-your-kids"> Don't go lightly into that 3-D movie. What you need to know about 3-D.</a></p><p class="promo"><img src="http://cdn1.www.commonsensemedia.org/sites/default/files/imagecache/web_review_profile/images/Icon-GirlOnLaptop.jpg" alt="" title=""  class="imagecache imagecache-web_review_profile" />Online Games Guide Advice, tips, and great <a href="/online-games" style="display:inline">online games</a> for every age</p><h4>Want More Great Advice?</h4><p>What can you do to help your kids? <a href="/advice-for-parents">Find great tips on everything from avoiding violent tv to online safety.</a></p><h4>Are You an Educator?</h4><p>Join our educators&lsquo; program <a href="/educators"><img src="http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/Joinbutton.gif" alt="Join" title="Join" width="45" height="23" /></a></p><h4>Top Family &amp; Kids Lists</h4><div class="item-list"><ul id="recLists"><li class="odd first"><a href="/game-lists/gift-ideas-our-kids-games-picks">Gift Ideas: Our Kids&#039; Games Picks</a></li><li class="even"><a href="/book-lists/gift-ideas-our-kids-book-picks">Gift Ideas: Our Kids&#039; Book Picks</a></li><li class="odd"><a href="/music-lists/gift-ideas-music">Gift Ideas: Our Kids&#039; Music Picks</a></li><li class="even"><a href="/movie-lists/gift-ideas-movies">Gift Ideas: Our Kids&#039; Movie Picks</a></li><li class="odd last"><a href="/mobile-app-lists/gift-ideas-apps">Gift Ideas: Our Kids&#039; App Picks</a></li></ul></div><p><a href="/movie-lists">See more lists</a></p>            </div> <!-- end adviceAndRecLists -->
+          </div> <!-- end newReviewsAndAdvice -->
+          <div class="clear"></div>
+        </div> <!-- end bottom -->
+
+      </div> <!-- /content -->
+
+          
+    </div> <!-- /main -->
+      
+  </div> <!-- /container -->
+    
+
+  <div id="footer">
+    <div class="donate"><div id="block-block-3" class="block block-block region-footer_wrapper">
+  <div class="block-inner">
+
+  
+  <div class="content">
+    <a href="/donate" id="contribute"></a>  </div>
+
+  
+  </div> <!-- /block-inner -->
+</div> <!-- /block -->
+</div>
+    <div class="links">
+      <div id="block-menu-118" class="block block-menu region-footer_top">
+  <div class="block-inner">
+
+  
+  <div class="content">
+    
+<ul class="menu">
+<li class="leaf"><span><a href="/movie-lists" title="" id="menu-best-movies">Best Movies</a></span></li>
+<li class="leaf"><span><a href="/game-lists" title="" id="menu-best-games">Best Games</a></span></li>
+<li class="leaf"><span><a href="/mobile-app-lists" title="" id="menu-best-apps">Best Apps</a></span></li>
+<li class="leaf"><span><a href="/website-lists" title="" id="menu-best-websites">Best Websites</a></span></li>
+<li class="leaf"><span><a href="/tv-lists" title="" id="menu-best-tv">Best TV</a></span></li>
+<li class="leaf"><span><a href="/book-lists" title="" id="menu-best-books">Best Books</a></span></li>
+<li class="leaf"><span><a href="/music-lists" title="" id="menu-best-music">Best Music</a></span></li>
+
+</ul>
+  </div>
+
+  
+  </div> <!-- /block-inner -->
+</div> <!-- /block -->
+<div id="block-menu-109" class="block block-menu region-footer_top">
+  <div class="block-inner">
+
+  
+  <div class="content">
+    
+<ul class="menu">
+<li class="leaf"><span><a href="/about-us/our-mission" title="" id="menu-our-mission" rel="nofollow">Our Mission</a></span></li>
+<li class="leaf"><span><a href="/press-room" title="" id="menu-press-room">Press Room</a></span></li>
+<li class="leaf"><span><a href="/about-us/our-mission/privacy-policy" title="Privacy Policy" id="menu-privacy-policy" rel="nofollow">Privacy Policy</a></span></li>
+<li class="leaf"><span><a href="/about-us/our-mission/terms-use" title="Terms of Use" id="menu-terms-of-use" rel="nofollow">Terms of Use</a></span></li>
+<li class="leaf"><span><a href="/about-us/job-opportunities" title="" id="menu-jobs" rel="nofollow">Jobs</a></span></li>
+<li class="leaf"><span><a href="/donate" title="" id="menu-donate" rel="nofollow">Donate</a></span></li>
+<li class="leaf"><span><a href="/about-us/en-espanol" title="" id="menu-en-español">En Español</a></span></li>
+<li class="leaf"><span><a href="/contact" title="" id="menu-contact-us" rel="nofollow">Contact Us</a></span></li>
+
+</ul>
+  </div>
+
+  
+  </div> <!-- /block-inner -->
+</div> <!-- /block -->
+<div id="block-csm_reviewlist-reviewlist" class="block block-csm_reviewlist region-footer_top">
+  <div class="block-inner">
+
+  
+  <div class="content">
+    <span id="block-reviewlist-header">Browse for Reviews:</span><table id="block-csm-reviewlist-table">
+<tbody>
+ <tr class="odd"><td>Movies:</td><td><a href="/reviews-list/movie/a-d">A-D</a></td><td><a href="/reviews-list/movie/e-h">E-H</a></td><td><a href="/reviews-list/movie/i-n">I-N</a></td><td><a href="/reviews-list/movie/o-u">O-U</a></td><td><a href="/reviews-list/movie/v-z">V-Z</a></td> </tr>
+ <tr class="even"><td>Games:</td><td><a href="/reviews-list/game/a-d">A-D</a></td><td><a href="/reviews-list/game/e-h">E-H</a></td><td><a href="/reviews-list/game/i-n">I-N</a></td><td><a href="/reviews-list/game/o-u">O-U</a></td><td><a href="/reviews-list/game/v-z">V-Z</a></td> </tr>
+ <tr class="odd"><td>Apps:</td><td><a href="/reviews-list/mobile-app/a-d">A-D</a></td><td><a href="/reviews-list/mobile-app/e-h">E-H</a></td><td><a href="/reviews-list/mobile-app/i-n">I-N</a></td><td><a href="/reviews-list/mobile-app/o-u">O-U</a></td><td><a href="/reviews-list/mobile-app/v-z">V-Z</a></td> </tr>
+ <tr class="even"><td>Websites:</td><td><a href="/reviews-list/website/a-d">A-D</a></td><td><a href="/reviews-list/website/e-h">E-H</a></td><td><a href="/reviews-list/website/i-n">I-N</a></td><td><a href="/reviews-list/website/o-u">O-U</a></td><td><a href="/reviews-list/website/v-z">V-Z</a></td> </tr>
+ <tr class="odd"><td>TV:</td><td><a href="/reviews-list/tv/a-d">A-D</a></td><td><a href="/reviews-list/tv/e-h">E-H</a></td><td><a href="/reviews-list/tv/i-n">I-N</a></td><td><a href="/reviews-list/tv/o-u">O-U</a></td><td><a href="/reviews-list/tv/v-z">V-Z</a></td> </tr>
+ <tr class="even"><td>Books:</td><td><a href="/reviews-list/book/a-d">A-D</a></td><td><a href="/reviews-list/book/e-h">E-H</a></td><td><a href="/reviews-list/book/i-n">I-N</a></td><td><a href="/reviews-list/book/o-u">O-U</a></td><td><a href="/reviews-list/book/v-z">V-Z</a></td> </tr>
+ <tr class="odd"><td>Music:</td><td><a href="/reviews-list/music/a-d">A-D</a></td><td><a href="/reviews-list/music/e-h">E-H</a></td><td><a href="/reviews-list/music/i-n">I-N</a></td><td><a href="/reviews-list/music/o-u">O-U</a></td><td><a href="/reviews-list/music/v-z">V-Z</a></td> </tr>
+</tbody>
+</table>
+  </div>
+
+  
+  </div> <!-- /block-inner -->
+</div> <!-- /block -->
+    </div>
+    <div class="copyright">© Common Sense Media Inc. 2010. All rights reserved.</div>
+  </div>
+
+</div> <!-- /page -->
+<div id="pageftr"></div>
+
+<div id="registration-minimal-dialog" class="registration-dialog-box"><div class="content"><div class="registration-form"><form action="/"  accept-charset="UTF-8" method="post" id="csm-register-minimal-dialog-form">
+<div>
+    <div class="section-title form-1">Give Us a Minute, Get a Lot of Common Sense!</div>
+    <ul>
+      <li>Age-appropriate best bets for your kids</li>
+      <li>Weekly email alert with the latest picks, reviews & advice</li>
+      <li>Post your own reviews and share them with friends</li>
+    </ul>
+    <hr>
+    <div class="dialog-message"></div>
+    <div class="loader">
+      <div class="status"></div>
+      <img src="http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/loaders/snake_large.gif" alt="" title="" width="32" height="32" />
+    </div>
+    <div class="active-fields"><div class="form-item ">
+ <label for="edit-age-range-radio">I'm <span class="form-required" title="This field is required.">*</span></label>
+ <div class="form-radios age-range-radio"><div class="form-item first odd">
+ <label class="option"><input type="radio" name="age_range" value="1"   class="form-radio age-range-radio" /> <span>over 17</span></label>
+</div>
+<div class="form-item  even">
+ <label class="option"><input type="radio" name="age_range" value="2"   class="form-radio age-range-radio" /> <span>13-17</span></label>
+</div>
+<div class="form-item  odd">
+ <label class="option"><input type="radio" name="age_range" value="3"   class="form-radio age-range-radio" /> <span>under 13</span></label>
+</div>
+</div>
+</div>
+
+      <div class="field-parent-email hide"><div class="form-item ">
+ <label for="edit-parent-email">Parent email <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="parent_email" id="edit-parent-email"  size="60" value="" class="form-text required" />
+ <div class="description">This will never be displayed to others.</div>
+</div>
+</div>
+      <div class="field-email"><div class="form-item ">
+ <label for="edit-email">Email address <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="email" id="edit-email"  size="60" value="" class="form-text required" />
+ <div class="description">Your email will never be displayed to others.</div>
+</div>
+</div>
+      <div class="form-item ">
+ <label for="edit-password">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="password" id="edit-password"  size="60"  class="form-text required" />
+ <div class="description">Your password should be 6-10 characters long.</div>
+</div>
+
+      <div class="field-screenname hide"><div class="form-item ">
+ <label for="edit-username">Screen name <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="username" id="edit-username"  size="60" value="" class="form-text required" />
+ <div class="description">A screen name protects <a href="/about-us/our-mission/privacy-policy" target="_blank">your privacy</a></div>
+</div>
+</div>
+      <div class="field-birthday hide"><div class="form-item ">
+ <label for="edit-birthday">Birth date <span class="form-required" title="This field is required.">*</span></label>
+ <div class="container-inline"><div class="form-item ">
+ <select name="birthday[month]" class="form-select" id="edit-birthday-month" ><option value="" selected="selected">Month</option><option value="1">Jan</option><option value="2">Feb</option><option value="3">Mar</option><option value="4">Apr</option><option value="5">May</option><option value="6">Jun</option><option value="7">Jul</option><option value="8">Aug</option><option value="9">Sep</option><option value="10">Oct</option><option value="11">Nov</option><option value="12">Dec</option></select>
+</div>
+<div class="form-item ">
+ <select name="birthday[day]" class="form-select" id="edit-birthday-day" ><option value="" selected="selected">Day</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+</div>
+<div class="form-item ">
+ <select name="birthday[year]" class="form-select" id="edit-birthday-year" ><option value="" selected="selected">Year</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option></select>
+</div>
+</div>
+</div>
+</div>
+      <div class="field-column">
+        <input id="edit-submit" name="submit" type="image" title="Sign Me Up!" class="signup-button registration-action-button" src="/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/sign-me-up.gif"><input type="hidden" name="form_id" id="edit-csm-register-minimal-dialog-form" value="csm_register_minimal_dialog_form"  />
+
+        <div class="button-note">(It's free!)</div>
+        <div class="clear"></div>
+        <br/><a href="/user">Already a member? Log in</a>
+      </div>
+    </div>
+</div></form>
+</div></div>
+    <div class="footer">
+      <hr/>
+      <div class="message">
+        Your family's privacy is our highest priority.<br/>
+        See our <a href="/about-us/our-mission/privacy-policy" target="_blank">privacy policy</a>, <a href="/Community-Guidelines" target="_blank">community guidelines</a>, and <a href="/about-us/our-mission/terms-use" target="_blank">terms of use</a>.
+      </div>
+    </div></div><div id="registration-complete-share-dialog" class="registration-dialog-box"><div class="content"><div class="registration-form"><form action="/"  accept-charset="UTF-8" method="post" id="csm-register-complete-share-dialog-form">
+<div>
+      <!-- Form #5 -->
+      <div class="blurb form-5">To post a review or comment you must become a Common Sense Member.  It's easy!</div>
+      <div class="dialog-message"></div>
+      <hr>
+      <div class="optional step-1"></div>
+      <div class="info">
+        <div class="section-title">Set-up your account</div>
+      </div>
+      <div class="loader"><img src="http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/loaders/snake_large.gif" alt="" title="" width="32" height="32" /></div>
+      <div class="active-fields"><div class="form-item ">
+ <label for="edit-age-range-radio">I'm <span class="form-required" title="This field is required.">*</span></label>
+ <div class="form-radios age-range-radio"><div class="form-item  odd">
+ <label class="option"><input type="radio" name="age_range" value="1"   class="form-radio age-range-radio" /> <span>over 17</span></label>
+</div>
+<div class="form-item  even">
+ <label class="option"><input type="radio" name="age_range" value="2"   class="form-radio age-range-radio" /> <span>13-17</span></label>
+</div>
+<div class="form-item  odd">
+ <label class="option"><input type="radio" name="age_range" value="3"   class="form-radio age-range-radio" /> <span>under 13</span></label>
+</div>
+</div>
+</div>
+
+        <div class="field-parent-email hide"><div class="form-item ">
+ <label for="edit-parent-email">Parent email <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="parent_email" id="edit-parent-email"  size="60" value="" class="form-text required" />
+ <div class="description">This will never be displayed to others.</div>
+</div>
+</div>
+        <div class="field-email"><div class="form-item ">
+ <label for="edit-email">Email address <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="email" id="edit-email"  size="60" value="" class="form-text required" />
+ <div class="description">Your email will never be displayed to others.</div>
+</div>
+</div><div class="form-item ">
+ <label for="edit-password">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="password" id="edit-password"  size="60"  class="form-text required" />
+ <div class="description">Your password should be 6-10 characters long.</div>
+</div>
+
+        <div class="field-birthday hide"><div class="form-item ">
+ <label for="edit-birthday">Birth date <span class="form-required" title="This field is required.">*</span></label>
+ <div class="container-inline"><div class="form-item ">
+ <select name="birthday[month]" class="form-select" id="edit-birthday-month" ><option value="" selected="selected">Month</option><option value="1">Jan</option><option value="2">Feb</option><option value="3">Mar</option><option value="4">Apr</option><option value="5">May</option><option value="6">Jun</option><option value="7">Jul</option><option value="8">Aug</option><option value="9">Sep</option><option value="10">Oct</option><option value="11">Nov</option><option value="12">Dec</option></select>
+</div>
+<div class="form-item ">
+ <select name="birthday[day]" class="form-select" id="edit-birthday-day" ><option value="" selected="selected">Day</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+</div>
+<div class="form-item ">
+ <select name="birthday[year]" class="form-select" id="edit-birthday-year" ><option value="" selected="selected">Year</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option></select>
+</div>
+</div>
+</div>
+</div>
+      </div>
+      <hr>
+      <div class="optional step-2"></div>
+      <div class="info">
+        <div class="section-title">Choose a screen name</div>
+        It will appear when you post your own reviews and recommendations.<br/>
+        <div class="loader"><img src="http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/loaders/snake_large.gif" alt="" title="" width="32" height="32" /></div>
+        <div class="active-fields"><div class="label"></div><div class="form-item ">
+ <input type="text" maxlength="128" name="username" id="edit-username"  size="60" value="Screen name" class="form-text field-description" />
+ <div class="description">A screen name protects <a href="/about-us/our-mission/privacy-policy" target="_blank">your privacy</a><label class="username-label" for="edit-username">*</label></div>
+</div>
+</div>
+      </div>
+      <div class="adult-optional">
+        <hr>
+        <div class="optional step-3"></div>
+        <div class="info">
+          <div class="section-title">Tell us your children's ages</div>
+          You'll see the movies, games, books, shows, music, and sites our editors select just for them. As your children get older, our picks will grow with them!<a href="/" class="learn-more-link">Why we ask for this</a>
+    <div class="learn-more">
+      We never display your children's names, (or nicknames) to anyone, but you. Providing your children's ages allows us to 
+      personalize information on our site, so you get better information, faster. 
+    </div><input type="hidden" name="learn_more" id="edit-learn-more" value=""  />
+
+          <div class="clear"></div>
+          <div class="loader"><img src="http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/loaders/snake_large.gif" alt="" title="" width="32" height="32" /></div>
+          <div class="active-fields"><div class="children-box">
+      <div class="children children-1 ">
+        <table>
+          <tr>
+            <td class="name"><div class="form-item ">
+ <input type="text" maxlength="128" name="child_name_1" id="edit-child-name-1"  size="60" value="Nickname (optional)" class="form-text field-description" />
+</div>
+</td>
+            <td class="words">is</td>
+            <td class="age"><div class="form-item ">
+ <select name="child_age_1" class="form-select" id="edit-child-age-1" ><option value="0">age</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option></select>
+</div>
+</td>
+            <td class="words">until</td>
+            <td class="month"><div class="form-item ">
+ <select name="child_birth_month_1" class="form-select" id="edit-child-birth-month-1" ><option value="0">month</option><option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>
+</div>
+</td>
+            <td class="label">(optional)</td>
+          </tr>
+        </table>
+      </div>
+      <div class="children children-2 hide">
+        <table>
+          <tr>
+            <td class="name"><div class="form-item ">
+ <input type="text" maxlength="128" name="child_name_2" id="edit-child-name-2"  size="60" value="Nickname (optional)" class="form-text field-description" />
+</div>
+</td>
+            <td class="words">is</td>
+            <td class="age"><div class="form-item ">
+ <select name="child_age_2" class="form-select" id="edit-child-age-2" ><option value="0">age</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option></select>
+</div>
+</td>
+            <td class="words">until</td>
+            <td class="month"><div class="form-item ">
+ <select name="child_birth_month_2" class="form-select" id="edit-child-birth-month-2" ><option value="0">month</option><option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>
+</div>
+</td>
+            <td class="label"> </td>
+          </tr>
+        </table>
+      </div>
+      <div class="children children-3 hide">
+        <table>
+          <tr>
+            <td class="name"><div class="form-item ">
+ <input type="text" maxlength="128" name="child_name_3" id="edit-child-name-3"  size="60" value="Nickname (optional)" class="form-text field-description" />
+</div>
+</td>
+            <td class="words">is</td>
+            <td class="age"><div class="form-item ">
+ <select name="child_age_3" class="form-select" id="edit-child-age-3" ><option value="0">age</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option></select>
+</div>
+</td>
+            <td class="words">until</td>
+            <td class="month"><div class="form-item ">
+ <select name="child_birth_month_3" class="form-select" id="edit-child-birth-month-3" ><option value="0">month</option><option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>
+</div>
+</td>
+            <td class="label"> </td>
+          </tr>
+        </table>
+      </div>
+      <div class="children children-4 hide">
+        <table>
+          <tr>
+            <td class="name"><div class="form-item ">
+ <input type="text" maxlength="128" name="child_name_4" id="edit-child-name-4"  size="60" value="Nickname (optional)" class="form-text field-description" />
+</div>
+</td>
+            <td class="words">is</td>
+            <td class="age"><div class="form-item ">
+ <select name="child_age_4" class="form-select" id="edit-child-age-4" ><option value="0">age</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option></select>
+</div>
+</td>
+            <td class="words">until</td>
+            <td class="month"><div class="form-item ">
+ <select name="child_birth_month_4" class="form-select" id="edit-child-birth-month-4" ><option value="0">month</option><option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>
+</div>
+</td>
+            <td class="label"> </td>
+          </tr>
+        </table>
+      </div>
+      <div class="children children-5 hide">
+        <table>
+          <tr>
+            <td class="name"><div class="form-item ">
+ <input type="text" maxlength="128" name="child_name_5" id="edit-child-name-5"  size="60" value="Nickname (optional)" class="form-text field-description" />
+</div>
+</td>
+            <td class="words">is</td>
+            <td class="age"><div class="form-item ">
+ <select name="child_age_5" class="form-select" id="edit-child-age-5" ><option value="0">age</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option></select>
+</div>
+</td>
+            <td class="words">until</td>
+            <td class="month"><div class="form-item ">
+ <select name="child_birth_month_5" class="form-select" id="edit-child-birth-month-5" ><option value="0">month</option><option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>
+</div>
+</td>
+            <td class="label"> </td>
+          </tr>
+        </table>
+      </div>
+      <div class="children children-6 hide">
+        <table>
+          <tr>
+            <td class="name"><div class="form-item ">
+ <input type="text" maxlength="128" name="child_name_6" id="edit-child-name-6"  size="60" value="Nickname (optional)" class="form-text field-description" />
+</div>
+</td>
+            <td class="words">is</td>
+            <td class="age"><div class="form-item ">
+ <select name="child_age_6" class="form-select" id="edit-child-age-6" ><option value="0">age</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option></select>
+</div>
+</td>
+            <td class="words">until</td>
+            <td class="month"><div class="form-item ">
+ <select name="child_birth_month_6" class="form-select" id="edit-child-birth-month-6" ><option value="0">month</option><option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>
+</div>
+</td>
+            <td class="label"> </td>
+          </tr>
+        </table>
+      </div><a href="/" class="add-child">Add another child</a></div></div>
+        </div>
+      </div>
+      <br/>
+      <div class="active-fields">
+        <div class="info"><input id="edit-submit" name="submit" type="image" title="Sign Me Up!" class="signup-button registration-action-button" src="/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/sign-me-up.gif">
+          <div class="button-note"><a href="/user">Already a member? Log in</a></div>
+        </div>
+      </div>
+      <div class="clear"></div>
+</div></form>
+</div></div>
+    <div class="footer">
+      <hr/>
+      <div class="message">
+        Your family's privacy is our highest priority.<br/>
+        See our <a href="/about-us/our-mission/privacy-policy" target="_blank">privacy policy</a>, <a href="/Community-Guidelines" target="_blank">community guidelines</a>, and <a href="/about-us/our-mission/terms-use" target="_blank">terms of use</a>.
+      </div>
+    </div></div><div id="registration-personalized-cta-dialog" class="registration-dialog-box"><div class="content"><div class="registration-form"><form action="/"  accept-charset="UTF-8" method="post" id="csm-register-personalized-cta-dialog-form">
+<div>
+    <!-- Form #7 -->
+    <div class="blurb form-7">We can make Common Sense just right for you. With a little info about you and your family, you'll get the most out of our site.</div>
+    <div class="dialog-message"></div>
+    <hr>
+    <div class="optional step-1"></div>
+    <div class="info"><div class="section-title">Set-up your account</div></div>
+    <div class="loader"><img src="http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/loaders/snake_large.gif" alt="" title="" width="32" height="32" /></div>
+    <div class="active-fields"><div class="form-item ">
+ <label for="edit-age-range-radio">I'm <span class="form-required" title="This field is required.">*</span></label>
+ <div class="form-radios age-range-radio"><div class="form-item  odd">
+ <label class="option"><input type="radio" name="age_range" value="1"   class="form-radio age-range-radio" /> <span>over 17</span></label>
+</div>
+<div class="form-item  even">
+ <label class="option"><input type="radio" name="age_range" value="2"   class="form-radio age-range-radio" /> <span>13-17</span></label>
+</div>
+<div class="form-item  odd">
+ <label class="option"><input type="radio" name="age_range" value="3"   class="form-radio age-range-radio" /> <span>under 13</span></label>
+</div>
+</div>
+</div>
+
+      <div class="field-parent-email hide"><div class="form-item ">
+ <label for="edit-parent-email">Parent email <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="parent_email" id="edit-parent-email"  size="60" value="" class="form-text required" />
+ <div class="description">This will never be displayed to others.</div>
+</div>
+</div>
+      <div class="field-email"><div class="form-item ">
+ <label for="edit-email">Email address <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="email" id="edit-email"  size="60" value="" class="form-text required" />
+ <div class="description">Your email will never be displayed to others.</div>
+</div>
+</div><div class="form-item ">
+ <label for="edit-password">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="password" id="edit-password"  size="60"  class="form-text required" />
+ <div class="description">Your password should be 6-10 characters long.</div>
+</div>
+
+      <div class="field-birthday hide"><div class="form-item ">
+ <label for="edit-birthday">Birth date <span class="form-required" title="This field is required.">*</span></label>
+ <div class="container-inline"><div class="form-item ">
+ <select name="birthday[month]" class="form-select" id="edit-birthday-month" ><option value="" selected="selected">Month</option><option value="1">Jan</option><option value="2">Feb</option><option value="3">Mar</option><option value="4">Apr</option><option value="5">May</option><option value="6">Jun</option><option value="7">Jul</option><option value="8">Aug</option><option value="9">Sep</option><option value="10">Oct</option><option value="11">Nov</option><option value="12">Dec</option></select>
+</div>
+<div class="form-item ">
+ <select name="birthday[day]" class="form-select" id="edit-birthday-day" ><option value="" selected="selected">Day</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>
+</div>
+<div class="form-item ">
+ <select name="birthday[year]" class="form-select" id="edit-birthday-year" ><option value="" selected="selected">Year</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option></select>
+</div>
+</div>
+</div>
+</div>
+    </div>
+    
+    <div class="adult-optional">
+      <hr>
+      <div class="optional step-2"></div>
+      <div class="info">
+        <div class="section-title">Tell us your children's ages</div>
+        You'll see the movies, games, books, shows, music, and sites our editors select just for them. As your children get older, our picks will grow with them!
+        <div class="loader"><img src="http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/loaders/snake_large.gif" alt="" title="" width="32" height="32" /></div><a href="/" class="learn-more-link">Why we ask for this</a>
+    <div class="learn-more">
+      We never display your children's names, (or nicknames) to anyone, but you. Providing your children's ages allows us to 
+      personalize information on our site, so you get better information, faster. 
+    </div><input type="hidden" name="learn_more" id="edit-learn-more" value=""  />
+
+        <div class="clear"></div>
+        <div class="active-fields"><div class="children-box">
+      <div class="children children-1 ">
+        <table>
+          <tr>
+            <td class="name"><div class="form-item ">
+ <input type="text" maxlength="128" name="child_name_1" id="edit-child-name-1"  size="60" value="Nickname (optional)" class="form-text field-description" />
+</div>
+</td>
+            <td class="words">is</td>
+            <td class="age"><div class="form-item ">
+ <select name="child_age_1" class="form-select" id="edit-child-age-1" ><option value="0">age</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option></select>
+</div>
+</td>
+            <td class="words">until</td>
+            <td class="month"><div class="form-item ">
+ <select name="child_birth_month_1" class="form-select" id="edit-child-birth-month-1" ><option value="0">month</option><option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>
+</div>
+</td>
+            <td class="label"></td>
+          </tr>
+        </table>
+      </div>
+      <div class="children children-2 hide">
+        <table>
+          <tr>
+            <td class="name"><div class="form-item ">
+ <input type="text" maxlength="128" name="child_name_2" id="edit-child-name-2"  size="60" value="Nickname (optional)" class="form-text field-description" />
+</div>
+</td>
+            <td class="words">is</td>
+            <td class="age"><div class="form-item ">
+ <select name="child_age_2" class="form-select" id="edit-child-age-2" ><option value="0">age</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option></select>
+</div>
+</td>
+            <td class="words">until</td>
+            <td class="month"><div class="form-item ">
+ <select name="child_birth_month_2" class="form-select" id="edit-child-birth-month-2" ><option value="0">month</option><option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>
+</div>
+</td>
+            <td class="label"> </td>
+          </tr>
+        </table>
+      </div>
+      <div class="children children-3 hide">
+        <table>
+          <tr>
+            <td class="name"><div class="form-item ">
+ <input type="text" maxlength="128" name="child_name_3" id="edit-child-name-3"  size="60" value="Nickname (optional)" class="form-text field-description" />
+</div>
+</td>
+            <td class="words">is</td>
+            <td class="age"><div class="form-item ">
+ <select name="child_age_3" class="form-select" id="edit-child-age-3" ><option value="0">age</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option></select>
+</div>
+</td>
+            <td class="words">until</td>
+            <td class="month"><div class="form-item ">
+ <select name="child_birth_month_3" class="form-select" id="edit-child-birth-month-3" ><option value="0">month</option><option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>
+</div>
+</td>
+            <td class="label"> </td>
+          </tr>
+        </table>
+      </div>
+      <div class="children children-4 hide">
+        <table>
+          <tr>
+            <td class="name"><div class="form-item ">
+ <input type="text" maxlength="128" name="child_name_4" id="edit-child-name-4"  size="60" value="Nickname (optional)" class="form-text field-description" />
+</div>
+</td>
+            <td class="words">is</td>
+            <td class="age"><div class="form-item ">
+ <select name="child_age_4" class="form-select" id="edit-child-age-4" ><option value="0">age</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option></select>
+</div>
+</td>
+            <td class="words">until</td>
+            <td class="month"><div class="form-item ">
+ <select name="child_birth_month_4" class="form-select" id="edit-child-birth-month-4" ><option value="0">month</option><option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>
+</div>
+</td>
+            <td class="label"> </td>
+          </tr>
+        </table>
+      </div>
+      <div class="children children-5 hide">
+        <table>
+          <tr>
+            <td class="name"><div class="form-item ">
+ <input type="text" maxlength="128" name="child_name_5" id="edit-child-name-5"  size="60" value="Nickname (optional)" class="form-text field-description" />
+</div>
+</td>
+            <td class="words">is</td>
+            <td class="age"><div class="form-item ">
+ <select name="child_age_5" class="form-select" id="edit-child-age-5" ><option value="0">age</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option></select>
+</div>
+</td>
+            <td class="words">until</td>
+            <td class="month"><div class="form-item ">
+ <select name="child_birth_month_5" class="form-select" id="edit-child-birth-month-5" ><option value="0">month</option><option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>
+</div>
+</td>
+            <td class="label"> </td>
+          </tr>
+        </table>
+      </div>
+      <div class="children children-6 hide">
+        <table>
+          <tr>
+            <td class="name"><div class="form-item ">
+ <input type="text" maxlength="128" name="child_name_6" id="edit-child-name-6"  size="60" value="Nickname (optional)" class="form-text field-description" />
+</div>
+</td>
+            <td class="words">is</td>
+            <td class="age"><div class="form-item ">
+ <select name="child_age_6" class="form-select" id="edit-child-age-6" ><option value="0">age</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option></select>
+</div>
+</td>
+            <td class="words">until</td>
+            <td class="month"><div class="form-item ">
+ <select name="child_birth_month_6" class="form-select" id="edit-child-birth-month-6" ><option value="0">month</option><option value="1">January</option><option value="2">February</option><option value="3">March</option><option value="4">April</option><option value="5">May</option><option value="6">June</option><option value="7">July</option><option value="8">August</option><option value="9">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select>
+</div>
+</td>
+            <td class="label"> </td>
+          </tr>
+        </table>
+      </div><a href="/" class="add-child">Add another child</a></div></div>
+      </div>
+    </div>
+    <hr>
+    <div class="optional step-3"></div>
+    <div class="info">
+      <div class="section-title">Choose a screen name</div>
+      It will appear when you post your own reviews and recommendations<br/>
+      <div class="loader"><img src="http://cdn1.www.commonsensemedia.org/sites/www.commonsensemedia.org/themes/csm_drupal/images/loaders/snake_large.gif" alt="" title="" width="32" height="32" /></div>
+      <div class="active-fields"><div class="label"></div><div class="form-item ">
+ <input type="text" maxlength="128" name="username" id="edit-username"  size="60" value="Screen name" class="form-text field-description" />
+ <div class="description">A screen name protects <a href="/about-us/our-mission/privacy-policy" target="_blank">your privacy</a></div>
+</div>
+<input id="edit-submit" name="submit" type="image" title="Sign Me Up!" class="signup-button registration-action-button" src="/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/sign-me-up.gif">
+        <div class="button-note"><a href="/user">Already a member? Log in</a></div>
+      </div>
+      <div class="clear"></div>
+    </div>
+</div></form>
+</div></div>
+    <div class="footer">
+      <hr/>
+      <div class="message">
+        Your family's privacy is our highest priority.<br/>
+        See our <a href="/about-us/our-mission/privacy-policy" target="_blank">privacy policy</a>, <a href="/Community-Guidelines" target="_blank">community guidelines</a>, and <a href="/about-us/our-mission/terms-use" target="_blank">terms of use</a>.
+      </div>
+    </div></div><div id="registration-school-profile-user-dialog" class="registration-dialog-box"><div class="content"><div class="registration-form"><form action="/"  accept-charset="UTF-8" method="post" id="csm-register-user-school-profile-dialog-form">
+<div>
+    <div>
+      <div id="register">
+        Register to add this school to your profile. You'll be able to see and share reviews from parents, teachers, and kids at your child's school.<div class="form-item ">
+ <label for="edit-user-type">I'm a </label>
+ <select name="user_type" class="form-select" id="edit-user-type" ><option value="parent">parent</option><option value="educator">educator</option><option value="teen">teen</option><option value="kid">kid</option></select>
+</div>
+<input id="edit-register" name="submit" type="image" title="Register" class="register-button" src="/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/btn_register.gif">
+      </div>
+      <div id="log-in">
+        I'm already a Common Sense member.
+        <div class="dialog-message"></div><div class="form-item ">
+ <label for="edit-username">Email address or screen name <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="username" id="edit-username"  size="60" value="" class="form-text required" />
+ <div class="description">Kids under 13 must use a screen name</div>
+</div>
+<div class="form-item ">
+ <label for="edit-password">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="password" id="edit-password"  size="60"  class="form-text required" />
+</div>
+<input id="edit-submit" name="submit" type="image" title="Log In" class="login-button" src="/sites/www.commonsensemedia.org/themes/csm_drupal/images/buttons/btn_login.gif">
+      </div>
+    </div>
+</div></form>
+</div></div>
+    <div class="footer">
+      <hr/>
+      <div class="message">
+        Your family's privacy is our highest priority.<br/>
+        See our <a href="/about-us/our-mission/privacy-policy" target="_blank">privacy policy</a>, <a href="/Community-Guidelines" target="_blank">community guidelines</a>, and <a href="/about-us/our-mission/terms-use" target="_blank">terms of use</a>.
+      </div>
+    </div></div>
+
+<script type="text/javascript" src="/sites/all/modules/contrib/google_analytics/googleanalytics.js"></script>
+<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script>
+<script type="text/javascript">try{var pageTracker = _gat._getTracker("UA-224718-1");pageTracker._trackPageview();} catch(err) {}</script>
+<!-- Start Quantcast tag --> <script type="text/javascript"> _qoptions={ qacct:"p-cd_oCEcAZXcso" }; </script>  <noscript> <p></p> </noscript> <!-- End Quantcast tag -->
+</body>
+</html>

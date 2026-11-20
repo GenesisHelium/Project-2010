@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Pinned messages | ROBLOX Help</title>
+    <link>http://roblox.zendesk.com/home</link>
+    <language>en-us</language>
+    <ttl>60</ttl>
+    <item>
+      <title>How do I create a parent account?</title>
+      <description>&lt;p&gt;Parent Accounts can be created here: &lt;a href=&quot;http://www.roblox.com/Parents/Register.aspx&quot; target=&quot;_new&quot;&gt;http://www.roblox.com/Parents/Register.aspx&lt;/a&gt; Once the Parent Account is created, log in and follow the links to add your Child Account under the Parent Account. You can then adjust the settings of the Child Account once it has been added.&lt;/p&gt;</description>
+      <pubDate>Sun, 28 Feb 2010 19:03:05 -0800</pubDate>
+      <guid isPermaLink="false">roblox.zendesk.com/home.rss:121601:120331</guid>
+      <author>Reese</author>
+      <link>http://roblox.zendesk.com/entries/120331-how-do-i-create-a-parent-account</link>
+    </item>
+    <item>
+      <title>Someone is being really mean to me. What do I do?</title>
+      <description>&lt;p&gt;If another user is breaking ROBLOX's rules (see the Community Guidelines), then please use the Report Abuse buttons located throughout the site. You can still report a user even if they log off. Just put their user name in the &quot;Comments&quot; box that will appear when you click the Report Abuse buttons. The Report Abuse buttons are the best way to let us know about rule-breakers and bad content. They send Reports directly to our moderators and provide a way for us to keep track of repeat offenders so that further steps can be taken against their account.&lt;/p&gt;</description>
+      <pubDate>Mon, 22 Feb 2010 14:19:24 -0800</pubDate>
+      <guid isPermaLink="false">roblox.zendesk.com/home.rss:121601:116905</guid>
+      <author>Reese</author>
+      <link>http://roblox.zendesk.com/entries/116905-someone-is-being-really-mean-to-me-what-do-i-do</link>
+    </item>
+  </channel>
+</rss>

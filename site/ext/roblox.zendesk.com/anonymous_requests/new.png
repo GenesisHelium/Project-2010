@@ -1,0 +1,385 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head><script type="text/javascript" src="https://web-static.archive.org/_static/js/bundle-playback.js?v=3grhEDQT" charset="utf-8"></script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/wombat.js?v=o9P2E1FK" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+<script type="text/javascript" src="https://web-static.archive.org/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://roblox.zendesk.com:80/anonymous_requests/new","20110102164323","https://web.archive.org/","web","https://web-static.archive.org/_static/",
+	      "1293986603");
+</script>
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/banner-styles.css?v=1utQkbB3" />
+<link rel="stylesheet" type="text/css" href="https://web-static.archive.org/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>
+      ROBLOX Help : Submit a request for assistance
+  </title>
+  <link rel="shortcut icon" href="/web/20110102164323im_/http://roblox.zendesk.com/system/logos/0005/9069/StudioIcon.png" type="image/x-png"/>
+
+  <link href="https://web.archive.org/web/20110102164323cs_/http://asset1.zendesk.com/assets/screen.css?1293650915" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://web.archive.org/web/20110102164323cs_/http://asset2.zendesk.com/assets/print.css?1293650915" media="print" rel="stylesheet" type="text/css"/>
+
+  <!--[if lte IE 7]><link href="http://asset2.zendesk.com/assets/ie.css?1293650915" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+  <!--[if lte IE 6]><link href="http://asset2.zendesk.com/assets/ie6.css?1293650915" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+
+  <link rel="stylesheet" type="text/css" href="/web/20110102164323cs_/http://roblox.zendesk.com/generated/stylesheets/branding/265/26563/1293733060.css" media="screen"/>
+
+  <script src="//web.archive.org/web/20110102164323js_/http://s3.amazonaws.com/saaspulse-cdn/sdr.js" async="async"></script>
+  <script src="https://web.archive.org/web/20110102164323js_/http://asset0.zendesk.com/assets/legacy_vendor.js?1293650915" type="text/javascript"></script>
+<script src="https://web.archive.org/web/20110102164323js_/http://asset2.zendesk.com/assets/bootstrap.js?1293650915" type="text/javascript"></script>
+<script src="https://web.archive.org/web/20110102164323js_/http://asset1.zendesk.com/assets/legacy_libraries.js?1293650915" type="text/javascript"></script>
+<script src="https://web.archive.org/web/20110102164323js_/http://asset1.zendesk.com/assets/legacy_zendesk.js?1293650915" type="text/javascript"></script>
+<script src="https://web.archive.org/web/20110102164323js_/http://asset3.zendesk.com/assets/zd_tickets_table.js?1293650915" type="text/javascript"></script>
+  <script type="text/javascript">
+//<![CDATA[
+Zendesk.assetHost = 'asset0.zendesk.com';
+Zendesk.SaaSPulseID = 'SP-1111-01';
+
+  currentUser = Zendesk.currentUser = new User({"uses12HourClock":false,"restriction":0,"account":new Account({"isZendesk":false,"lastTrialDay":null,"isSandbox":false,"daysLeftInTrial":null,"showUserProfile":false,"isOpen":true,"forumsTitle":"Answers","showExtendedTicketMetrics":false,"showChangePassword":false,"urlPrefix":"https://web.archive.org/web/20110102164323/http://roblox.zendesk.com","name":"ROBLOX Help","hasRemoteAuthentication":false,"id":26563,"secureUrlPrefix":"https://web.archive.org/web/20110102164323/https://roblox.zendesk.com","subdomain":"roblox"}),"email":"invalid@example.com","accessibleForums":true,"hasEmail":true,"role":0,"quietMode":true,"name":"Anonymous user","assumed":false,"id":null,"authenticityToken":"SrgXhpq1dkj5yz7UzFrlC+kmpohSNE//DcqKAdluOcQ=","organization":null});
+  currentAccount = Zendesk.currentAccount = currentUser.account;
+
+//]]>
+</script>
+  <script type="text/javascript" src="/web/20110102164323js_/http://roblox.zendesk.com/generated/javascripts/locale/0/1/1292523590.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+    
+    $j(document).ready(function () {
+      
+    });
+
+//]]>
+</script>
+  
+
+
+  <style type="text/css">
+#pinned_topics_title {
+     display: none;
+}
+</style>
+<style type="text/css">
+#footer {
+
+display: none
+}
+</style>
+<style type="text/css">
+div.side-box-content ul.options li.link a {
+    color: black;
+}
+</style>
+<style type="text/css">
+div.frame table.tickets thead tr th {
+    background: lightgrey;
+}
+</style>
+<style type="text/css">
+body {
+width: 850px;
+min-width: 850px;
+overflow-y: scroll auto;
+margin: 0px auto;
+padding: 0px;
+}
+
+
+.frame {
+min-width:520px;
+}
+
+#page {
+min-width: 800px;
+width: 850px;
+padding: 0px;
+margin: 0px;
+}
+
+#footer {
+text-align: center;
+}
+</style>
+
+
+</head>
+
+
+<body class="anonymous anonymous-new">
+  <ul id="banners">
+  <script type="text/html" id="banner-item-template" data-template-name="banner-item">
+    <li>
+      <span class='icon'>&nbsp; &nbsp; &nbsp; </span>
+      <span class='content'>{{ text }}</span>
+      <span class='ignore'>(<a href='#'>ignore this</a>)</span>
+      <span class='reload'>(<a href=''>reload</a>)</span>
+    </li>
+  </script>
+</ul>
+
+  <div id="page">
+    <div id="top">
+      <div id="header">
+        <div id="top-right"></div>
+        <div id="header_container">
+    <table id="table_header"><tr>
+      <td><a href="https://web.archive.org/web/20110102164323/http://www.roblox.com/" target="_blank" title=""><img alt="" id="logo" src="https://web.archive.org/web/20110102164323im_/http://asset2.zendesk.com/system/logos/0011/7679/builderman-soccer.png?1293650915"/></a>&nbsp;</td>
+      <td><img alt="" id="logo-delimiter" src="https://web.archive.org/web/20110102164323im_/http://asset1.zendesk.com/images/logo-delimiter.png?1293650915"/>&nbsp;</td>
+      <td><a href="/web/20110102164323/http://roblox.zendesk.com/home">ROBLOX Help</a></td>
+    </tr></table>
+</div>
+
+      </div>
+
+      <div id="top-menu-background">
+        <div id="top-menu">
+          <ul id="green" style="width: 100%;">
+            <li class="main clazz tab_home"><a href="/web/20110102164323/http://roblox.zendesk.com/home" class="tab">Home</a></li>
+              <li class="main clazz tab_new"><a href="/web/20110102164323/http://roblox.zendesk.com/anonymous_requests/new" class="tab">Submit a request</a></li>
+            <li class="main clazz tab_requests"><a href="/web/20110102164323/http://roblox.zendesk.com/requests" class="tab">Check your existing requests</a></li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    
+
+<div id="container" class="clearfix">
+
+  
+  
+
+  <div id="flash_messages">
+    
+
+
+
+  </div>
+
+  
+
+  <div id="contentwrapper">
+    <div id="contentcolumn">
+      
+
+
+
+
+<div class="content content_grey"><div class="grey_box_top"><div class="box box_top"></div></div>  <!-- REQUEST FORM -->
+<form action="/web/20110102164323/http://roblox.zendesk.com/anonymous_requests" enctype="multipart/form-data" id="ticketform" method="post" name="ticketform"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="SrgXhpq1dkj5yz7UzFrlC+kmpohSNE//DcqKAdluOcQ="/></div>    <h2>
+      Submit a request
+      <span class="sub"></span>
+    </h2>
+
+    <input id="uploads_attribute" name="ticket[uploads]" type="hidden"/>
+    <input id="ticket_via_followup_source_id" name="ticket[via_followup_source_id]" type="hidden"/>
+    
+    <input id="ticket_client" name="ticket[client]" type="hidden" value=""/><script type="text/javascript">
+//<![CDATA[
+$('ticket_client').value = 'Client: ' + navigator.userAgent;
+//]]>
+</script>
+
+    <div id="end-user-form" style="width:98%;">
+        <h3>Your email address <super>*</super></h3>
+          <p>If you are a registered user, please <a href="/web/20110102164323/http://roblox.zendesk.com/login?return_to=http%3A%2F%2Froblox.zendesk.com%2Frequests%2Fnew">login</a> first to submit a request.</p>
+        <p><input class="title" id="email_address" name="email" size="30" type="text" value=""/></p>
+
+      <h3>Subject <super>*</super></h3>
+<p><input class="title" id="ticket_subject" name="ticket[subject]" size="30" type="text"/></p><h3>Description <super>*</super></h3>
+<p>Please enter the details of your request. A member of our support staff will respond as soon as possible.</p><p><textarea cols="68" id="comment_value" name="comment[value]" rows="6" style="width:100%"></textarea></p>
+    </div>
+
+      <h3>Please verify that you are human <super>*</super></h3>
+<div id="recaptcha_widget">
+  <div id="recaptcha_data">
+    <div id="recaptcha_image" style="width:300px;height:57px;float:left;background-color:white;padding:10px;border:1px solid #a8a8a8"></div>
+  </div>
+  <div style="float: left;">
+    <ul style="padding-left: 20px;">
+      <li><a href="javascript:Recaptcha.reload()">Two other words please</a></li>
+      <li><a id="recaptcha_switch_audio_btn" class="recaptcha_only_if_image" href="javascript:Recaptcha.switch_type('audio');" title="Get an audio challenge">I want audio instead</a>
+      <a id="recaptcha_switch_img_btn" class="recaptcha_only_if_audio" href="javascript:Recaptcha.switch_type('image');" title="Get a visual challenge">I want an image instead</a></li>
+    </ul>
+  </div>
+  <br style="clear: left;"/>
+  <p style="margin-bottom: 0;">Type the above two words in below</p>
+  <input type="text" id="recaptcha_response_field" name="recaptcha_response_field" style="width: 310px">
+</div>
+
+<script type="text/javascript">
+  var RecaptchaOptions = {"theme":"custom"};
+</script>
+<script type="text/javascript" src="https://web.archive.org/web/20110102164323js_/https://api-secure.recaptcha.net/challenge?k=6LdqCAYAAAAAACOM-OJC2ruG0sNZYvulQLA0UBSe&amp;error=expression"></script>
+<noscript>
+  <iframe src="https://web.archive.org/web/20110102164323if_/https://api-secure.recaptcha.net/noscript?k=6LdqCAYAAAAAACOM-OJC2ruG0sNZYvulQLA0UBSe" height="300" width="500" frameborder="0"></iframe><br/>
+  <textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  <input type="hidden" name="recaptcha_response_field" value="manual_challenge"></noscript>
+
+
+</form>
+    <h3>Attachment(s)</h3>
+    <!-- ATTACHMENTS FORM -->
+    
+
+<script type="text/javascript">
+  function checkMaxUploads() {
+    if ( $$('div.attach_item').size() >= 10 ) {
+      alert('You can attach only 10 files');
+      document.attach_form.reset();
+    } else {
+      submitAttachForm("Uploading...");
+    }
+  }
+  function checkUploadError() {
+    var iFrame = $('upload_frame');
+    var iFrameBody;
+    if ( iFrame.contentDocument ) { // FF
+      iFrameBody = iFrame.contentDocument.getElementsByTagName('body')[0];
+    }
+    else if ( iFrame.contentWindow ) { // IE
+      iFrameBody = iFrame.contentWindow.document.getElementsByTagName('body')[0];
+    }
+    if (iFrameBody.innerHTML.include('Something went wrong')) {
+      $('submit-button').value = 'Submit';
+$('submit-button').disabled = false;
+$('uploading_message').addClassName('display_none');
+$('uploads_form').show();
+      alert("There was an error with the attachment. Please try again or contact our support team if the problem continues.");
+    }
+  }
+</script>
+
+<div id="uploads_form">
+  <!-- Attach Files Link -->
+  <a class="attach_files" href="#" id="uploads_link" onclick="toggleAttachForm(); return false;">Attach file(s) &raquo;</a>
+
+  <!-- Attach Form -->
+  <div id="uploads_field" class="attach_form unfolded">
+<form action="/web/20110102164323/http://roblox.zendesk.com/fileuploads?format=js" enctype="multipart/form-data" id="attach_form" method="post" name="attach_form" target="upload_frame"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="SrgXhpq1dkj5yz7UzFrlC+kmpohSNE//DcqKAdluOcQ="/></div>      <div class="close_attachments">(<a href="#" onclick="toggleAttachForm(); return false;">Close</a>)</div>
+      <input id="uploaded_data" name="uploaded_data" onchange="checkMaxUploads();toggleAttachForm();" type="file"/>      <input id="token" name="token" type="hidden"/>
+      <div class="note">
+        Max file size: 7MB
+      </div>
+</form>
+    <!-- Target iFrame -->
+    <iframe id="upload_frame" name="upload_frame" src="about:blank" onload="checkUploadError();"></iframe>
+  </div>
+</div>
+
+<!-- Uploading Message -->
+<div id="uploading_message" class="uploading_message display_none">
+  <img id="uploading_indicator" src="/web/20110102164323im_/http://roblox.zendesk.com/images/indicator2.gif"/>
+  Uploading...
+</div>
+
+    <!-- ATTACHMENTS LIST -->
+    <div id="attachments" class="attach_list clearfix">
+</div>
+
+  <!-- ACTIONS FORM -->
+<form action="/web/20110102164323/http://roblox.zendesk.com/anonymous_requests/new" id="submit_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="SrgXhpq1dkj5yz7UzFrlC+kmpohSNE//DcqKAdluOcQ="/></div>    <div class="action">
+      <input class="buttonsubmit" id="submit-button" name="commit" onclick="submitRequestForm()" type="button" value="Submit"/>
+    </div>
+</form><div class="grey_box_bottom"><div class="box box_bottom"></div></div></div><div class="box_bottom_clear">&nbsp;</div>
+    </div>
+  </div>
+
+  <div id="sidebar">
+      <div id="widget_fixed" class="draggable"><div><div class="blue_box_top"></div><div class="side-box-content"><h3>Submit a request for assistance</h3>    <p>Fields marked with an asterisk (*) are mandatory.</p><p>You'll be notified when our staff answers your request.</p>
+<div style="clear:left; height:8px;"></div></div><div class="blue_box_bottom">&nbsp;</div></div></div>
+  </div>
+
+</div>
+
+  </div>
+
+  <div id="footer">
+    <p><a href="https://web.archive.org/web/20110102164323/http://www.zendesk.com/">Help Desk Software</a> by Zendesk</p>
+</div>
+
+<!-- Render any mouseover tips on the page -->
+
+<script type="text/javascript">
+//<![CDATA[
+  if(!Zendesk) var Zendesk = {};
+  Zendesk.tab = "new";
+
+//]]>
+</script>
+<script src="https://web.archive.org/web/20110102164323js_/http://asset2.zendesk.com/assets/auto_included.js?1293650915" type="text/javascript"></script>
+<script src="https://web.archive.org/web/20110102164323js_/http://asset3.zendesk.com/assets/widgets.js?1293650915" type="text/javascript"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+  $z.initializeModules(zd.jsInitializers);
+
+//]]>
+</script>
+  <script type="text/javascript" charset="utf-8">
+Event.observe(window, 'load', function() {
+    $$('a[href="/registration"]').each(function (e) { Element.hide(e.parentNode); });
+    $$('a[href="/access/help"]').each(function (e) { Element.hide(e.parentNode); });
+})
+</script>
+<script type="text/javascript" charset="utf-8">
+Event.observe(window, 'load', function() { 
+if ($$('#top-menu #green .tab_new')[0]){ 
+$$('#top-menu #green .tab_new')[0].hide('<a href="/requests/portal/new" class="tab">Ask A Question</a>'); 
+}
+if ($$('#top-menu #green .tab_requests')[0]){ 
+$$('#top-menu #green .tab_requests')[0].hide('<a href="/requests" class="tab">what ever you want</a>'); 
+}});
+</script>
+<script type="text/javascript" charset="utf-8">
+Event.observe(window, 'load', function() { $('#footer')[0].insert('<div style="#color:EEEEEE" align="center"><br>Powered by Pixels</div><br>'); });
+</script>
+
+    <script type="text/javascript" charset="utf-8">
+      $j(document).ready(function () {
+        $j.ajax({
+          url: '/widgets/async.json',
+          data: {"action_method":"get","action_name":"new","controller_name":"anonymous"},
+          success: Widget.asyncInsertion
+        });
+      });
+    </script>
+
+  
+
+<script type="text/javascript">
+//<![CDATA[
+    
+    jQuery(document).ready(function () {
+      
+    });
+
+//]]>
+</script></body>
+</html>
+<!--
+     FILE ARCHIVED ON 16:43:23 Jan 02, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:37:07 Nov 19, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.528
+  exclusion.robots: 0.078
+  exclusion.robots.policy: 0.067
+  esindex: 0.007
+  cdx.remote: 5.983
+  LoadShardBlock: 71.426 (3)
+  PetaboxLoader3.datanode: 63.487 (4)
+  PetaboxLoader3.resolve: 60.304 (2)
+  load_resource: 93.203
+-->

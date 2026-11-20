@@ -1,0 +1,70 @@
+var _____WB$wombat$assign$function_____=function(name){return (globalThis._wb_wombat && globalThis._wb_wombat.local_init && globalThis._wb_wombat.local_init(name))||globalThis[name];};if(!globalThis.__WB_pmw){globalThis.__WB_pmw=function(obj){this.__WB_source=obj;return this;}}{
+let window = _____WB$wombat$assign$function_____("window");
+let self = _____WB$wombat$assign$function_____("self");
+let document = _____WB$wombat$assign$function_____("document");
+let location = _____WB$wombat$assign$function_____("location");
+let top = _____WB$wombat$assign$function_____("top");
+let parent = _____WB$wombat$assign$function_____("parent");
+let frames = _____WB$wombat$assign$function_____("frames");
+let opener = _____WB$wombat$assign$function_____("opener");
+var UserCheck=function() {
+UserCheck.initializeBase(this);
+this._timeout = 0;
+this._userContext = null;
+this._succeeded = null;
+this._failed = null;
+}
+UserCheck.prototype={
+_get_path:function() {
+ var p = this.get_path();
+ if (p) return p;
+ else return UserCheck._staticInstance.get_path();},
+GetRecommendedUsername:function(usernameToTry,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'GetRecommendedUsername',false,{usernameToTry:usernameToTry},succeededCallback,failedCallback,userContext); },
+DoesUserNameExist:function(userName,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'DoesUserNameExist',false,{userName:userName},succeededCallback,failedCallback,userContext); },
+GetSocialNetworkUserName:function(socialNetworkTypeId,sessionData,succeededCallback, failedCallback, userContext) {
+return this._invoke(this._get_path(), 'GetSocialNetworkUserName',false,{socialNetworkTypeId:socialNetworkTypeId,sessionData:sessionData},succeededCallback,failedCallback,userContext); }}
+UserCheck.registerClass('UserCheck',Sys.Net.WebServiceProxy);
+UserCheck._staticInstance = new UserCheck();
+UserCheck.set_path = function(value) { UserCheck._staticInstance.set_path(value); }
+UserCheck.get_path = function() { return UserCheck._staticInstance.get_path(); }
+UserCheck.set_timeout = function(value) { UserCheck._staticInstance.set_timeout(value); }
+UserCheck.get_timeout = function() { return UserCheck._staticInstance.get_timeout(); }
+UserCheck.set_defaultUserContext = function(value) { UserCheck._staticInstance.set_defaultUserContext(value); }
+UserCheck.get_defaultUserContext = function() { return UserCheck._staticInstance.get_defaultUserContext(); }
+UserCheck.set_defaultSucceededCallback = function(value) { UserCheck._staticInstance.set_defaultSucceededCallback(value); }
+UserCheck.get_defaultSucceededCallback = function() { return UserCheck._staticInstance.get_defaultSucceededCallback(); }
+UserCheck.set_defaultFailedCallback = function(value) { UserCheck._staticInstance.set_defaultFailedCallback(value); }
+UserCheck.get_defaultFailedCallback = function() { return UserCheck._staticInstance.get_defaultFailedCallback(); }
+UserCheck.set_enableJsonp = function(value) { UserCheck._staticInstance.set_enableJsonp(value); }
+UserCheck.get_enableJsonp = function() { return UserCheck._staticInstance.get_enableJsonp(); }
+UserCheck.set_jsonpCallbackParameter = function(value) { UserCheck._staticInstance.set_jsonpCallbackParameter(value); }
+UserCheck.get_jsonpCallbackParameter = function() { return UserCheck._staticInstance.get_jsonpCallbackParameter(); }
+UserCheck.set_path("/Login/UserCheck.asmx");
+UserCheck.GetRecommendedUsername= function(usernameToTry,onSuccess,onFailed,userContext) {UserCheck._staticInstance.GetRecommendedUsername(usernameToTry,onSuccess,onFailed,userContext); }
+UserCheck.DoesUserNameExist= function(userName,onSuccess,onFailed,userContext) {UserCheck._staticInstance.DoesUserNameExist(userName,onSuccess,onFailed,userContext); }
+UserCheck.GetSocialNetworkUserName= function(socialNetworkTypeId,sessionData,onSuccess,onFailed,userContext) {UserCheck._staticInstance.GetSocialNetworkUserName(socialNetworkTypeId,sessionData,onSuccess,onFailed,userContext); }
+
+}
+
+/*
+     FILE ARCHIVED ON 13:27:02 Nov 11, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:30:18 Nov 19, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.392
+  exclusion.robots: 0.038
+  exclusion.robots.policy: 0.029
+  esindex: 0.007
+  cdx.remote: 116.424
+  LoadShardBlock: 117.473 (3)
+  PetaboxLoader3.datanode: 117.686 (4)
+  PetaboxLoader3.resolve: 80.981 (3)
+  load_resource: 131.104
+*/

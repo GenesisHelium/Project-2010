@@ -1,0 +1,14 @@
+{
+  "name": "roblox-2010-mirror",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local static mirror of www.roblox.com as captured by the Wayback Machine on 2010-12-10.",
+  "scripts": {
+    "start": "node tools/server.mjs",
+    "serve": "node tools/server.mjs",
+    "audit": "node tools/audit.mjs",
+    "check": "node tools/check-server.mjs",
+    "pipeline": "node tools/fix-refs.mjs && node tools/scrub.mjs && node tools/strip-wombat.mjs && node tools/repair-js.mjs && node tools/repair-scripts.mjs && node tools/merge-twins.mjs && node tools/relink.mjs && node tools/add-compat.mjs"
+  }
+}

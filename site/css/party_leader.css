@@ -1,0 +1,119 @@
+/*
+Verdana 11px black, and #666;
+Small gray text: Verdana 9px #666;
+Chat text: Verdana 11px black.
+Chat names: bold, blue=0066cc, green=007b00
+*/
+
+dd {
+}
+dt {
+	float: left;
+}
+dd {
+	margin-left: 30px;
+}
+
+.grey9{
+	color:gray;
+	font-size:9px;
+}
+.status{
+	color:gray;
+	font-size:11px;
+}
+.name_me {
+	font-weight:bold;
+	color:#0066cc;
+}
+.name_other {
+	font-weight:bold;
+	color:#007b00;
+}
+.name_status {
+	font-weight:bold;
+}
+
+.partyWindow {
+	color:black;
+	font-size:11px;
+	height:auto;
+}
+
+.members dl {
+	padding: 0 0 0 5px;
+}
+.members dt {
+	padding: 4px 0 0 0;
+}
+.members dd {
+	padding: 4px 0 1px 0;
+}
+
+.main p {
+	padding: 10px 0 5px 0px;
+	text-align:center;
+}
+
+#chat_messages {
+	padding: 0px 3px 3px 3px;
+	margin: 5px 5px 0 5px;
+	height:217px;
+	overflow:auto;
+	background-color:white;
+	border-style: solid;
+	border-width:1px;
+	border-color:#aaa;
+}
+#chat_messages li {
+	padding: 6px 0 0 0;
+	list-style-type: none;
+}
+
+
+#chat_input {
+	margin: 5px 5px 0 5px;
+}
+
+#chat_input input {
+	border: 1px solid #ccc;
+	width:236px;
+	height: 40px;
+}
+
+#chat_input textarea {
+	border: 1px solid #aaa;
+	overflow: auto;
+	width:236px;
+	height:50px;
+}
+
+.main #leader_clear {
+	padding: 15px 0 0 0;
+}
+
+
+
+#party_my .main .btn_black21h {
+	/*margin: 20px 0 0 73px;*/
+	margin: 15px 70px 0 0;
+	/*position:absolute;
+	left:83px;
+	top:402px;
+	*/
+}
+/*
+     FILE ARCHIVED ON 20:03:37 Dec 02, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:31:01 Nov 19, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.586
+  load_resource: 102.72
+  PetaboxLoader3.resolve: 53.764
+  PetaboxLoader3.datanode: 39.057
+*/

@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Roblox Blog</title>
+	<atom:link href="http://blog.roblox.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://blog.roblox.com</link>
+	<description>Free Games at Roblox.com</description>
+	<lastBuildDate>Mon, 06 Feb 2012 20:24:36 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.3.1</generator>
+	<div id='fb-root'></div>
+					<script type='text/javascript'>
+						window.fbAsyncInit = function()
+						{
+							FB.init({appId: 138850326224710, status: true, cookie: true, xfbml: true});
+						};
+						(function()
+						{
+							var e = document.createElement('script'); e.async = true;
+							e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+							document.getElementById('fb-root').appendChild(e);
+						}());
+					</script>	
+						<item>
+		<title>ROBLOX Game Conference 2012 &#8211; save the date</title>
+		<link>http://blog.roblox.com/2012/01/roblox-game-conference-2012-save-the-date/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=roblox-game-conference-2012-save-the-date</link>
+		<comments>http://blog.roblox.com/2012/01/roblox-game-conference-2012-save-the-date/#comments</comments>
+		<pubDate>Tue, 31 Jan 2012 23:51:22 +0000</pubDate>
+		<dc:creator>Becky Lee Herndon</dc:creator>
+				<category><![CDATA[Announcements]]></category>
+		<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://community.roblox.com/?p=6995</guid>
+		<description><![CDATA[Date: Saturday July 14, 2012 Location: Santa Clara Convention Center Last year&#8217;s ROBLOX Game Conference &#8211; ROBLOX Rally 2011 &#8211; had one thousand attendees. We would like to double (or more) the number of users attending this year. We are announcing &#8230; <a href="http://blog.roblox.com/2012/01/roblox-game-conference-2012-save-the-date/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<h1>Date: Saturday July 14, 2012<br />
+Location: Santa Clara Convention Center</h1>
+<p><img class="alignright" title="Rally 2011 Speakers" src="http://community.roblox.com/wp-content/uploads/2011/08/famous1.jpg" alt="Rally 2011 Speakers" width="300" height="200" />Last year&#8217;s ROBLOX Game Conference &#8211; <a href="http://community.roblox.com/archives/5472">ROBLOX Rally 2011</a> &#8211; had one thousand attendees. We would like to double (or more) the number of users attending this year. We are announcing the event as early as possible so users have time to make summer travel plans. <span id="more-6995"></span>This year&#8217;s event will be similar in format to ROBLOX Rally 2011, with more of everything that was great &#8211; more demos, more computers, more learning, more ROBLOX. We are tentatively calling the event &#8220;ROBLOX Game Conference 2012&#8243; but will finalize the name when tickets go on sale soon.</p>
+<p>The Conference will be held on Saturday July 14, 2012 at the <a href="http://santaclara.org/conventioncenter/" target="_blank">Santa Clara Convention Center</a>, conveniently located near dozens of hotels and next to the themed amusement park <a href="http://www.cagreatamerica.com/" target="_blank">Great America</a>. We will explore discount Great America tickets for those who wish to visit the day after the conference.</p>
+<p>Santa Clara, California is located in Silicon Valley, 10 minutes away from the San Jose International Airport. It&#8217;s about a 50 minute drive from San Francisco, and 90 minutes from the <a href="http://www.montereybayaquarium.org/" target="_blank">Monterey Bay Aquarium</a>.</p>
+<p>More information will be coming soon, including&#8230;</p>
+<ul>
+<li><strong>Ticket Pricing<br />
+</strong>Ticket prices will be set to cover our expenses for the center, AV equipment, computer rentals and lunch.  We will not make a profit on the conference.</li>
+<li><strong>Agenda</strong><br />
+This is still being developed, but we will have a hard core ROBLOX game development track, along with a gameplay/tech track for players. Like last year, we will have demos of many major upcoming features.</li>
+<li><strong>Hotels<br />
+</strong>Booking information and room discount rates.</li>
+<li><strong>Great America<br />
+</strong>Discount tickets bundled with your Conference package.</li>
+<li><strong>Live Web Cast</strong><br />
+We&#8217;re still working on the details of a live web broadcast from the event.</li>
+</ul>
+<p><img class="alignnone size-full wp-image-5470" title="Rally 2011 Crowd" src="http://community.roblox.com/wp-content/uploads/2011/08/crowd11.jpg" alt="Rally 2011 Crowd" width="500" height="333" /></p>
+<div class='wpfblike' ><fb:like href='http://blog.roblox.com/2012/01/roblox-game-conference-2012-save-the-date/' layout='default' show_faces='false' width='400' action='like' colorscheme='light' send='false' /></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.roblox.com/2012/01/roblox-game-conference-2012-save-the-date/feed/</wfw:commentRss>
+		<slash:comments>119</slash:comments>
+		</item>
+		<item>
+		<title>The dream of LEGO Universe and its subsequent shutdown</title>
+		<link>http://blog.roblox.com/2012/01/the-dream-of-lego-universe-and-its-subsequent-shutdown/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-dream-of-lego-universe-and-its-subsequent-shutdown</link>
+		<comments>http://blog.roblox.com/2012/01/the-dream-of-lego-universe-and-its-subsequent-shutdown/#comments</comments>
+		<pubDate>Tue, 31 Jan 2012 05:08:42 +0000</pubDate>
+		<dc:creator>David Baszucki</dc:creator>
+				<category><![CDATA[Gaming]]></category>
+		<category><![CDATA[Tech]]></category>
+
+		<guid isPermaLink="false">http://blog.roblox.com/?p=307</guid>
+		<description><![CDATA[Today LEGO Universe will shut down after being live for 15 months. The product is beautiful, and many good designers, engineers and animators poured their hearts into bringing it to life. From afar it appears that an unfortunate combination of &#8230; <a href="http://blog.roblox.com/2012/01/the-dream-of-lego-universe-and-its-subsequent-shutdown/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><img class="alignright size-medium wp-image-312" title="bestofE3win1UP_2010" src="http://mimg.ugo.com/201105/4/0/6/196604/3.jpg" alt="" width="75" height="108" />Today <a href="http://universe.lego.com/en-us/default.aspx">LEGO Universe will shut down</a> after being live for 15 months. The product is beautiful, and many good designers, engineers and animators poured their hearts into bringing it to life. From afar it appears that an unfortunate combination of organizational issues, high expectations, and complexity may have all contributed to the shutdown.</p>
+<h2><span id="more-7050"></span>High expectations</h2>
+<p>The dream of LEGO Universe was captured in early press releases and video trailers. Trailers showed a bustling city made of LEGO, with vehicles, monsters, and highly engaged mini-figs. Demonstrations of “creating” were also very cool, with virtual translucent blue-prints and lightning fast vehicle construction. Users were captivated by the dream, and soon the press was talking about how the game might be bigger than World of Warcraft.</p>
+<p>This early press, coupled with LEGO’s incredibly strong brand, must have put enormous pressure on the development team at NetDevil. Everything LEGO does is so exacting, and this game’s expectations were held up to the same standards. These high expectations coupled with LEGO’s quality ethic may have made it difficult to ship the game earlier (and then iterate). It was over two and a half years from when the game was first announced until shipping in October, 2010.</p>
+<p>It also appears that the target may have shifted during this period to include more creation and building, as can be seen by the late inclusion of a building interface similar to LEGO’s Digital Designer CAD system.</p>
+<h2>Difficult organization</h2>
+<p>An MMO or online destination is very different than a PSIII or Xbox360 game. The MMO must “run forever”. This creates a tricky relationship when working with a 3rd party. Because LEGO’s quality and safety standards are so high, it must have been difficult to completely hand off the reigns. When NetDevil was purchased by Gazillion, LEGO had to work with both Gazillion and NetDevil. LEGO Group eventually acquired LEGO Universe from Gazillion and hired many of the core team in February 2011, possibly as a way to simplify these issues.</p>
+<h2>A complex dream</h2>
+<p>The dream of LEGO Universe brought with it technical complexity. An MMO with building and moderation is more complicated than a boxed console game. LEGO Universe was built on the Gamebryo engine, included physics simulation from Havok, and seemed to be integrated with existing LEGO CAD tools. In addition, servers were required, and a moderation system. User creations also had to be uploaded to a server-side “baking engine” of some sort to convert them to in-game objects. This complexity requires many developers, which in turn may have caused organizational overhead.</p>
+<h2>Honesty and transparency</h2>
+<p>LEGO Universe can be viewed as a successful MMO, albeit one that had extremely high product and revenue expectations. It is possible that these expectations could just not be met. In the end, LEGO responded with an <a href="http://universe.lego.com/en-us/help/faq.aspx?id=359551">extremely honest and transparent shutdown</a>.</p>
+<p>LEGO had losses in 2003 and 2004, but returned to profitability in 2005. The introduction of branded products such as<a href="http://www.forbes.com/2008/08/12/lego-earnings-results-markets-equity-cx_je_0812markets21.html"> Star Wars and Indiana Jones in 2007</a> brought double-digit growth. Today, LEGO is as strong as ever, with<a href="http://aboutus.lego.com/en-us/news-room/2011/august/lego-group-reports-strong-interim-result/ "> net sales up 25% in the first half of 2011</a>. The shutdown of LEGO Universe was most likely very difficult, but it may be a sign of an agile and adaptive LEGO.</p>
+<div class='wpfblike' ><fb:like href='http://blog.roblox.com/2012/01/the-dream-of-lego-universe-and-its-subsequent-shutdown/' layout='default' show_faces='false' width='400' action='like' colorscheme='light' send='false' /></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.roblox.com/2012/01/the-dream-of-lego-universe-and-its-subsequent-shutdown/feed/</wfw:commentRss>
+		<slash:comments>63</slash:comments>
+		</item>
+		<item>
+		<title>Tech Demo: Video Thumbnails</title>
+		<link>http://blog.roblox.com/2012/01/tech-demo-video-thumbnails/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tech-demo-video-thumbnails</link>
+		<comments>http://blog.roblox.com/2012/01/tech-demo-video-thumbnails/#comments</comments>
+		<pubDate>Fri, 27 Jan 2012 01:16:54 +0000</pubDate>
+		<dc:creator>Tim Brown</dc:creator>
+				<category><![CDATA[Deep Alpha]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Tech]]></category>
+
+		<guid isPermaLink="false">http://community.roblox.com/?p=6921</guid>
+		<description><![CDATA[Tim Brown&#8217;s Hack Week project would give ROBLOX developers a powerful tool for engaging players.  ROBLOX is about user-created content, and our users have created a lot of content &#8212; so much that you’d be hard-pressed to experience all of &#8230; <a href="http://blog.roblox.com/2012/01/tech-demo-video-thumbnails/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><em><a href="http://community.roblox.com/wp-content/uploads/2012/01/gamePageWithVideo.jpg" rel="lightbox[6921]" title="Video and Image Gallery on Game Page"><img class="alignleft size-medium wp-image-6929" style="margin-left: 3px; margin-right: 8px;" title="Video and Image Gallery on Game Page" src="http://community.roblox.com/wp-content/uploads/2012/01/gamePageWithVideo-300x192.jpg" alt="Video and Image Gallery on Game Page" width="243" height="156" /></a>Tim Brown&#8217;s <a href="http://community.roblox.com/archives/6751">Hack Week</a> project would give ROBLOX developers a powerful tool for engaging players. </em></p>
+<p>ROBLOX is about user-created content, and our users have created a lot of content &#8212; so much that you’d be hard-pressed to experience all of it in a lifetime. ROBLOX players need to be able to get to the good stuff, <em>fast</em>.<span id="more-6921"></span></p>
+<p>Video thumbnails are 30-second YouTube clips that ROBLOX creators can integrate into their game&#8217;s page on ROBLOX.com. They serve two key purposes: Let creators better showcase their content using video clips, and let players preview content with a minimal time investment. Video thumbnails encourage play and make ROBLOX.com’s game pages richer &#8212; like those of some other digital distribution platforms (e.g., <a href="http://store.steampowered.com/" target="_blank">Steam</a> or <a href="http://www.gamefly.com/download-games/?fromd2d=1" target="_blank">Direct2Drive/GameFly</a>).</p>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-6927" title="Gallery Upload Interface" src="http://community.roblox.com/wp-content/uploads/2012/01/video_upload-sized.png" alt="Gallery Upload Interface" width="471" height="734" /></p>
+<p style="text-align: left;">Users would simply record a video using ROBLOX’s built-in capture tool, upload it straight to YouTube and provide the YouTube URL. Video thumbnails would need to be moderated (and moderation takes manpower), so video thumbnails would require a small chunk of ROBUX to post.</p>
+<p>Video thumbnails would open the door to more video integration on ROBLOX.com. Stay tuned because this potential feature barely scratches the surface of what’s possible with video.</p>
+<div class='wpfblike' ><fb:like href='http://blog.roblox.com/2012/01/tech-demo-video-thumbnails/' layout='default' show_faces='false' width='400' action='like' colorscheme='light' send='false' /></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.roblox.com/2012/01/tech-demo-video-thumbnails/feed/</wfw:commentRss>
+		<slash:comments>150</slash:comments>
+		</item>
+		<item>
+		<title>Expanded Browser Compatibility</title>
+		<link>http://blog.roblox.com/2012/01/expanded-browser-compatibility/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=expanded-browser-compatibility</link>
+		<comments>http://blog.roblox.com/2012/01/expanded-browser-compatibility/#comments</comments>
+		<pubDate>Sat, 21 Jan 2012 19:41:28 +0000</pubDate>
+		<dc:creator>ROBLOX</dc:creator>
+				<category><![CDATA[Announcements]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Release Notes]]></category>
+
+		<guid isPermaLink="false">http://community.roblox.com/?p=6883</guid>
+		<description><![CDATA[We are pleased to announce compatibility with all leading browsers.  ROBLOX games can now be launched from Internet Explorer, Firefox, Chrome, Opera and Safari on both PC&#8217;s and Macintosh (Internet Explorer is not available on Macintosh).  All you have to &#8230; <a href="http://blog.roblox.com/2012/01/expanded-browser-compatibility/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><a href="http://community.roblox.com/wp-content/uploads/2012/01/article-1267117675638-087732D4000005DC-220098_636x318.jpg" rel="lightbox[6883]" title="Browser Icons"><img class="alignright size-medium wp-image-6884" title="Browser Icons" src="http://community.roblox.com/wp-content/uploads/2012/01/article-1267117675638-087732D4000005DC-220098_636x318-300x150.jpg" alt="Browser Icons" width="300" height="150" /></a>We are pleased to announce compatibility with all leading browsers.  ROBLOX games can now be launched from Internet Explorer, Firefox, Chrome, Opera and Safari on both PC&#8217;s and Macintosh (Internet Explorer is not available on Macintosh).  All you have to do is press Play on any <a href="http://www.roblox.com/Games.aspx">ROBLOX game</a> from any one of these browsers.</p>
+<div class='wpfblike' ><fb:like href='http://blog.roblox.com/2012/01/expanded-browser-compatibility/' layout='default' show_faces='false' width='400' action='like' colorscheme='light' send='false' /></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.roblox.com/2012/01/expanded-browser-compatibility/feed/</wfw:commentRss>
+		<slash:comments>37</slash:comments>
+		</item>
+		<item>
+		<title>Tech Demo: Dynamic Lighting Exploration</title>
+		<link>http://blog.roblox.com/2012/01/tech-demo-dynamic-lighting-exploration/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tech-demo-dynamic-lighting-exploration</link>
+		<comments>http://blog.roblox.com/2012/01/tech-demo-dynamic-lighting-exploration/#comments</comments>
+		<pubDate>Sat, 21 Jan 2012 00:54:44 +0000</pubDate>
+		<dc:creator>Simon Kozlov</dc:creator>
+				<category><![CDATA[Deep Alpha]]></category>
+		<category><![CDATA[Tech]]></category>
+
+		<guid isPermaLink="false">http://blog.roblox.com/?p=283</guid>
+		<description><![CDATA[My hack week project was to explore rendering styles and visual effects that would take ROBLOX to the next level. The ROBLOX rendering engine works in a difficult environment compared to traditional games – ROBLOX places are made by our &#8230; <a href="http://blog.roblox.com/2012/01/tech-demo-dynamic-lighting-exploration/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><img class="size-thumbnail wp-image-6870 alignright" title="Dynamic Lighting" src="http://community.roblox.com/wp-content/uploads/2012/01/Ambient_Thumb1-150x150.jpg" alt="Dynamic Lighting" width="150" height="150" />My <a href="http://community.roblox.com/archives/6751">hack week</a> project was to explore rendering styles and visual effects that would take ROBLOX to the next level. The ROBLOX rendering engine works in a difficult environment compared to traditional games –</p>
+<ul>
+<li><strong>ROBLOX places are made by our users<br />
+(rather than by hired-on level designers)</strong><br />
+Usually game companies can control their content. They can impose a strict set of rules about how many polygons are used, how to place particular items, and how much of a level is static. ROBLOX is different – builders can come up with anything, with no restrictions and no budgets. <span id="more-7049"></span></li>
+<li><strong>ROBLOX places are very dynamic</strong><br />
+In ROBLOX, any part is physically simulated by default – so it could move or change every frame. Even anchored parts could be changed at any point in time through scripting (they often do). Terrain is a great example – although it’s always anchored and cannot move, scripts and tools change it all time.</li>
+<li><strong>ROBLOX runs on wide range of machines</strong><br />
+ROBLOX works on 10 year old computers with a 32MB video card, as well as on the latest monsters with gigabytes of memory. Any rendering effects we use must gracefully scale down and up immensely.</li>
+</ul>
+<p>Whenever we think about improving the look and rendering effects on ROBLOX we need to keep all of this in mind.</p>
+<p>My idea for hack week was to export ROBLOX scenes to some common format that professional rendering tools can understand (like Autodesk’s 3ds Max or Maya). That way, artists can experiment with different shaders, effects and materials in a matter of minutes – instead of implementing all of them in the engine, which could take a long time!</p>
+<p><a href="http://community.roblox.com/wp-content/uploads/2012/01/Render_Tool_lighting.jpg" rel="lightbox[7049]" title="Render_Tool_lighting"><img class="alignnone size-large wp-image-6863" title="Render_Tool_lighting" src="http://community.roblox.com/wp-content/uploads/2012/01/Render_Tool_lighting-1024x619.jpg" alt="Render_Tool_lighting" width="584" height="353" /></a></p>
+<p>Now artists were able to use the full power of 3ds Max to play with different rendering effects! Here’s what we got one hour later:</p>
+<p><a href="http://community.roblox.com/wp-content/uploads/2012/01/Balance_Shadowing_and_Ambient_Occlusion_lighting.jpg" rel="lightbox[7049]" title="Balance,_Shadowing_and_Ambient_Occlusion_lighting"><img class="alignnone size-large wp-image-6864" title="Balance,_Shadowing_and_Ambient_Occlusion_lighting" src="http://community.roblox.com/wp-content/uploads/2012/01/Balance_Shadowing_and_Ambient_Occlusion_lighting-1024x576.jpg" alt="Balance,_Shadowing_and_Ambient_Occlusion_lighting" width="584" height="328" /></a></p>
+<p><a href="http://community.roblox.com/wp-content/uploads/2012/01/Color_Balance_lighting.jpg" rel="lightbox[7049]" title="Color_Balance_lighting"><img class="alignnone size-large wp-image-6862" title="Color_Balance_lighting" src="http://community.roblox.com/wp-content/uploads/2012/01/Color_Balance_lighting-1024x576.jpg" alt="Color_Balance_lighting" width="584" height="328" /></a></p>
+<p><a href="http://community.roblox.com/wp-content/uploads/2012/01/Shadowing_lighting.jpg" rel="lightbox[7049]" title="Shadowing_lighting"><img class="alignnone size-large wp-image-6860" title="Shadowing_lighting" src="http://community.roblox.com/wp-content/uploads/2012/01/Shadowing_lighting-1024x576.jpg" alt="Shadowing_lighting" width="584" height="328" /></a></p>
+<p>One thing we all realized immediately – it’s all about lighting. Lighting makes all of these shots look good – shadows on the bridge and on the house and occlusion on cracks between the terrain parts.  All the subtle darkening makes it look real.</p>
+<p>The next step is to come up with the right mix of various effects and techniques to see how they all work together. Here is one idea we have for the future look of ROBLOX. Keep in mind, this is all completely experimental, just very early prototyping and brainstorming. Thank you to our friend <a href="http://www.linkedin.com/pub/alexey-vlasov/23/aa0/56" target="_blank">Alexey Vlasov</a> for his insights on this.  Honestly, we haven’t really decided if this is the right look for us at all – so tell us what you think.</p>
+<iframe src="http://www.youtube.com/embed/zEI_aKPXSpI?rel=0" frameborder="0" width="530" height="350" allowfullscreen></iframe>
+<p>Bonus: we are thinking about whether this is possible on an iPad as well. Check this out – again, this is not a ROBLOX engine build, but a sample prototype that just renders chunks of geometry with a particular shader to see what an iPad can do.</p>
+<iframe src="http://www.youtube.com/embed/J0wX9_m63t0?rel=0" frameborder="0" width="530" height="350" allowfullscreen></iframe>
+<p>We did a poll yesterday and received an energetic response from our community asking for dynamic lighting.  These tech demos will pave the way to next generation lighting in ROBLOX.</p>
+<div class='wpfblike' ><fb:like href='http://blog.roblox.com/2012/01/tech-demo-dynamic-lighting-exploration/' layout='default' show_faces='false' width='400' action='like' colorscheme='light' send='false' /></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.roblox.com/2012/01/tech-demo-dynamic-lighting-exploration/feed/</wfw:commentRss>
+		<slash:comments>203</slash:comments>
+		</item>
+		<item>
+		<title>Tech Demo: Water, Buoyancy and Ropes</title>
+		<link>http://blog.roblox.com/2012/01/tech-demo-water-buoyancy-ropes/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tech-demo-water-buoyancy-ropes</link>
+		<comments>http://blog.roblox.com/2012/01/tech-demo-water-buoyancy-ropes/#comments</comments>
+		<pubDate>Thu, 19 Jan 2012 04:14:09 +0000</pubDate>
+		<dc:creator>David Baszucki</dc:creator>
+				<category><![CDATA[Deep Alpha]]></category>
+		<category><![CDATA[Tech]]></category>
+
+		<guid isPermaLink="false">http://blog.roblox.com/?p=258</guid>
+		<description><![CDATA[Hack Week coverage continues with a unified tech demo by Dan Ignatoff, Erik Cassel and Tim Loduha showing water, buoyancy and ropes working together. Water and Buoyancy Dan and Erik teamed up on the water and buoyancy simulation shown in &#8230; <a href="http://blog.roblox.com/2012/01/tech-demo-water-buoyancy-ropes/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><em><a href="http://community.roblox.com/archives/6751">Hack Week</a> coverage continues with a unified tech demo by Dan Ignatoff, <a href="http://community.roblox.com/archives/2083">Erik Cassel</a> and Tim Loduha showing water, buoyancy and ropes working together.</em></p>
+<iframe src="http://www.youtube.com/embed/6WLs1_Ndv9w?rel=0" frameborder="0" width="530" height="350" allowfullscreen></iframe>
+<p><span id="more-7048"></span></p>
+<h1>Water and Buoyancy</h1>
+<p>Dan and Erik teamed up on the water and buoyancy simulation shown in the video. Dan has been working with many types of water simulation, including grid-based and particle based methods. We are showing a grid-based method here, but Dan has also mocked up a Smoothed Particle Hydrodynamics (SPH) model. We have not finalized the method we will use or ship date. In the demo you can see wedging at the lake/shore interface, which we will work out prior to shipping.</p>
+<p>Erik Cassel has created a buoyancy enhancement to the <a href="http://blog.roblox.com/2011/12/brief-history-physics-video-games/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=brief-history-physics-video-games">physics engine</a> that interacts with Dan&#8217;s water simulator. Erik is modelling both density and viscosity in the simulation.  He is keying object density off material, so that less dense objects (wood, plastic) float, while denser objects (metal, rock) sink. The equations of motion and collision detection methods governing buoyancy are very similar to those used for rigid body motion in ROBLOX, so the integration was relatively straightforward.</p>
+<p>The demo does not include swim and wade states for characters (in development), so in Erik&#8217;s demo his character just walks along the bottom of the lake.</p>
+<p>Tim Loduha has been improving our rigid body physics engine and gives a peek at more mechanical parts with the rope bridge. As the bridge falls into the water you get to see water, buoyancy and ropes all working together in the same physics simulation. This is a tech demo from hack week at ROBLOX, so right now we do not have specific ship dates.</p>
+<div class='wpfblike' ><fb:like href='http://blog.roblox.com/2012/01/tech-demo-water-buoyancy-ropes/' layout='default' show_faces='false' width='400' action='like' colorscheme='light' send='false' /></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.roblox.com/2012/01/tech-demo-water-buoyancy-ropes/feed/</wfw:commentRss>
+		<slash:comments>134</slash:comments>
+		</item>
+		<item>
+		<title>iPad Tech Demo</title>
+		<link>http://blog.roblox.com/2012/01/ipad-tech-demo/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ipad-tech-demo</link>
+		<comments>http://blog.roblox.com/2012/01/ipad-tech-demo/#comments</comments>
+		<pubDate>Sat, 14 Jan 2012 16:55:25 +0000</pubDate>
+		<dc:creator>David Baszucki</dc:creator>
+				<category><![CDATA[Deep Alpha]]></category>
+		<category><![CDATA[Tech]]></category>
+
+		<guid isPermaLink="false">http://blog.roblox.com/?p=224</guid>
+		<description><![CDATA[This is a first look at the ROBLOX code stack running on an iPad. Product specs are in development and there is no announced ship date. The tap-to-move interface shown in the demo is a place holder for future thumb &#8230; <a href="http://blog.roblox.com/2012/01/ipad-tech-demo/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<iframe src="http://www.youtube.com/embed/ri9ibUJ4q9k?rel=0" frameborder="0" width="530" height="350" allowfullscreen></iframe>
+<p>This is a first look at the ROBLOX code stack running on an iPad. Product specs are in development and there is no announced ship date. The tap-to-move interface shown in the demo is a place holder for future thumb controls. Textures and skyboxes are disabled.<br />
+<span id="more-7047"></span></p>
+<p>We are building off the same code as our PC and Mac clients. Rendering speed is surprisingly good. Features, bug-fixes and enhancements for the PC/Macintosh ROBLOX will show up on the iPad. Over 95% of our code base is common among all platforms, including networking, rendering, physics, sound, core, threading and lua execution.  The demo is running in full client-server mode with networking.  We can join ROBLOX servers with the iPad demo over WiFi.</p>
+<p>The first version of an iPad product would not include ROBLOX Studio.  We have not tried building ROBLOX on an Android tablet yet.  Android does offer a cool NDK to run native C++ code, so we are optimistic a similar tech demo is possible.</p>
+<div class='wpfblike' ><fb:like href='http://blog.roblox.com/2012/01/ipad-tech-demo/' layout='default' show_faces='false' width='400' action='like' colorscheme='light' send='false' /></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.roblox.com/2012/01/ipad-tech-demo/feed/</wfw:commentRss>
+		<slash:comments>125</slash:comments>
+		</item>
+		<item>
+		<title>The Big Bang at ROBLOX: Universe Creation</title>
+		<link>http://blog.roblox.com/2012/01/the-big-bang-at-roblox-universe-creation/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-big-bang-at-roblox-universe-creation</link>
+		<comments>http://blog.roblox.com/2012/01/the-big-bang-at-roblox-universe-creation/#comments</comments>
+		<pubDate>Sat, 14 Jan 2012 02:13:19 +0000</pubDate>
+		<dc:creator>Navin Lal</dc:creator>
+				<category><![CDATA[Deep Alpha]]></category>
+		<category><![CDATA[Tech]]></category>
+
+		<guid isPermaLink="false">http://community.roblox.com/?p=6756</guid>
+		<description><![CDATA[How will our users create bigger and better games? Navin Lal&#8217;s Hack Week project presents his vision of the future.  Universes would allow ROBLOXians to create massive game spaces by linking multiple games together. You would not only travel to and &#8230; <a href="http://blog.roblox.com/2012/01/the-big-bang-at-roblox-universe-creation/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><span style="color: #000000;"><em><a href="http://community.roblox.com/wp-content/uploads/2012/01/my_universes.png" rel="lightbox[6756]" title="My Universes"><img class="alignleft" style="margin-right: 8px; margin-left: 8px;" title="My Universes" src="http://community.roblox.com/wp-content/uploads/2012/01/my_universes.png" alt="My Universes" width="250" height="240" /></a>How will our users create bigger and better games? Navin Lal&#8217;s</em></span><em><span style="color: #000000;"> <a href="http://community.roblox.com/archives/6751">Hack Week </a></span><span style="color: #000000;">project presents his vision of the future. </span></em></p>
+<p><span style="color: #000000;">Universes would allow ROBLOXians to create massive game spaces by linking multiple games together. You would not only travel to and fro (thanks to the ever-handy means of teleportation), but all of your ROBLOXian character’s previous accomplishments within the &#8220;Universe&#8221; — whether it’s experience, currency, progress, events and more!— would accompany them too.<span id="more-6756"></span></span></p>
+<p><span style="color: #000000;"><span style="color: #000000;">Universes are currently a tech demo and idea exploration, but we still want you to check out the videos below and let us know what you think. There is no release date right now. Keep visiting our blog for release details.</span></span></p>
+<p><span style="color: #000000;"><iframe src="http://www.youtube.com/embed/vKVk7TryTHo?rel=0" frameborder="0" width="530" height="350" allowfullscreen></iframe></span></p>
+<p><span style="color: #000000;">The <a href="http://www.youtube.com/watch?v=vKVk7TryTHo" target="_blank">first clip </a>above </span><strong></strong><span style="color: #000000;">shows the acceptance of a quest and earning 50 points. Watch carefully because the experience will carry over into the second clip.</span></p>
+<p><span style="color: #000000;"><iframe src="http://www.youtube.com/embed/FfzrN6TXC1s?rel=0" frameborder="0" width="530" height="350" allowfullscreen></iframe></span></p>
+<p><span style="color: #000000;"><a href="http://www.youtube.com/watch?v=FfzrN6TXC1s" target="_blank">Clip #2</a> </span><span style="color: #000000;">shows your character in peril, but notice how the experience total increases as the zombies get rubbed out. </span></p>
+<p><span style="color: #000000;"><iframe src="http://www.youtube.com/embed/NDHWvJpStag?rel=0" frameborder="0" width="530" height="350" allowfullscreen></iframe></span></p>
+<p><span style="color: #000000;">The third and <a href="http://www.youtube.com/watch?v=NDHWvJpStag" target="_blank">final clip </a></span><strong></strong><span style="color: #000000;">exhibits how your character has returned to his original location (while the teleporter points to a new location). Note how he still has his earned experience points and the NPC is aware of what you’ve just accomplished based on what it says to your character!</span></p>
+<p><span style="color: #000000;"><a href="http://community.roblox.com/wp-content/uploads/2012/01/my_universes.png">This page</a> is a sample overview of each Universe you own </span><span style="color: #000000;">in addition to where you can create new Universes and manage existing ones.</span></p>
+<p><span style="color: #000000;">Another cool thing about Universes is that they would allow for a spatial relationship amongst worlds (i.e., have the ability to be mapped). Take a look at “The Map.”</span></p>
+<p><span style="color: #000000;"><a href="http://community.roblox.com/wp-content/uploads/2012/01/demo_universe.png" rel="lightbox[6756]" title="The Map"><img class="alignnone size-large wp-image-6764" title="The Map" src="http://community.roblox.com/wp-content/uploads/2012/01/demo_universe-1024x884.png" alt="The Map" width="584" height="504" /></a></span></p>
+
+<h1>How the Universe Would Work</h1>
+
+<p>Let’s begin with a quick refresher of how persistent data on ROBLOX works:</p>
+
+<p>When a player joins a game, the game server retrieves all persistent data for that user for the current place and stores it in an in-memory cache.</p>
+
+<p>The Lua function, player:WaitForDataReady(), is waiting for the persistent data to be retrieved from the website and loaded into memory so that we can make use of it.</p>
+
+<p>Once the data is retrieved, the functions, player:SaveNumber(), player:LoadNumber(), etc. all write/read directly from the cache. This is so that we don’t end up making an unnecessary amount of web requests, especially in a scenario where the data is constantly changing.</p>
+
+<p>When the player leaves or the game shuts down, the game server commits all data in cache back to the website. The website encrypts the data and then pushes it to Amazon S3.</p>
+
+<p>Data on S3 is divided up into buckets and you can store arbitrary “blobs” of data to a bucket by pairing it with a unique key.</p>
+
+<p>Universes should be able to take advantage of much of the underlying infrastructure that is currently used for storing persistent data to places. Throw in a small refactor to our persistence layer to support arbitrary key types, and we were good to go.</p>
+
+<p>Now when data is uploaded to the website, it would first check if the place the data is associated with is part of a universe. If so, it would save it under a Universe key instead of a place key. This approach has the advantage of letting us keep the existing Lua API for storing data unchanged for universes. However, we may decide to revise the current API to give scripters finer grained control over their data.</p>
+
+<p>Next up was the interface. The goal is to build an interface that is simple and intuitive to use. We want a way to visualize the Universe, so this led us to the Universe map interface. With a context sensitive menu and drag-and-drop capability, it should be a cinch to manage your Universe. We also took special care to build something that was cross-browser compatible. Of course, all of this is subject to change.</p>
+
+<p style="padding-left: 30px;"><em>When Navin isn’t playing the DOTA 2 Beta or pedaling around San Francisco, he’s taking web development to a new stratosphere. Actually, he’s aiming a little higher than the stratosphere, as evidenced by his demo of the Universe.</em></p>
+<div class='wpfblike' ><fb:like href='http://blog.roblox.com/2012/01/the-big-bang-at-roblox-universe-creation/' layout='default' show_faces='false' width='400' action='like' colorscheme='light' send='false' /></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.roblox.com/2012/01/the-big-bang-at-roblox-universe-creation/feed/</wfw:commentRss>
+		<slash:comments>150</slash:comments>
+		</item>
+		<item>
+		<title>Hack Week: The Series!</title>
+		<link>http://blog.roblox.com/2012/01/hack-week-the-series/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hack-week-the-series</link>
+		<comments>http://blog.roblox.com/2012/01/hack-week-the-series/#comments</comments>
+		<pubDate>Sat, 14 Jan 2012 02:09:03 +0000</pubDate>
+		<dc:creator>ROBLOX</dc:creator>
+				<category><![CDATA[Deep Alpha]]></category>
+		<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://community.roblox.com/?p=6751</guid>
+		<description><![CDATA[While many were enjoying chestnuts roasting on an open fire (well, not here in the Bay Area, thanks to the nightly Spare the Air alerts), our dev team took advantage of the Holiday break by participating in our first-ever Hack &#8230; <a href="http://blog.roblox.com/2012/01/hack-week-the-series/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>While many were enjoying chestnuts roasting on an open fire (well, not here in the Bay Area, thanks to the nightly Spare the Air alerts), our dev team took advantage of the Holiday break by participating in our first-ever Hack Week.</p>
+<p>What’s Hack Week, you ask?<span id="more-6751"></span></p>
+<p>It’s the opportunity for our illustrious developers to work on anything they wanted to over the break for the sole purpose of improving what our ROBLOX fans see and use in the not-too-distant future. While Hack Week wasn’t a competition, per se, the devs did want to wow their fellow colleagues with their presentations and get the room buzzing about what’s in store for ROBLOX. More importantly, it was their chance to share their demos and how they strengthen our mission of allowing anyone in the world to create and play amazing 3D games.</p>
+<p>And the demos didn’t disappoint, to say the least.</p>
+<p>Stay tuned to see the functional prototypes our dev team created!</p>
+<div class='wpfblike' ><fb:like href='http://blog.roblox.com/2012/01/hack-week-the-series/' layout='default' show_faces='false' width='400' action='like' colorscheme='light' send='false' /></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.roblox.com/2012/01/hack-week-the-series/feed/</wfw:commentRss>
+		<slash:comments>72</slash:comments>
+		</item>
+		<item>
+		<title>Stop Online Piracy Act (SOPA) and ROBLOX: Our Stance</title>
+		<link>http://blog.roblox.com/2012/01/stop-online-piracy-act-sopa-and-roblox-our-stance/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=stop-online-piracy-act-sopa-and-roblox-our-stance</link>
+		<comments>http://blog.roblox.com/2012/01/stop-online-piracy-act-sopa-and-roblox-our-stance/#comments</comments>
+		<pubDate>Wed, 11 Jan 2012 02:15:40 +0000</pubDate>
+		<dc:creator>David Baszucki</dc:creator>
+				<category><![CDATA[Announcements]]></category>
+		<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://blog.roblox.com/?p=206</guid>
+		<description><![CDATA[SOPA is a bill that was introduced by the House Judicial Committee on October 26, 2011. Its purpose, as stated in the text of the bill found in H.R. 3261, is to “promote prosperity, creativity, entrepreneurship, and innovation” within the &#8230; <a href="http://blog.roblox.com/2012/01/stop-online-piracy-act-sopa-and-roblox-our-stance/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><a href="http://en.wikipedia.org/wiki/Stop_Online_Piracy_Act ">SOPA</a> is a bill that was introduced by the House Judicial Committee on October 26, 2011. Its purpose, as stated in the text of the bill found in H.R. 3261, is to “promote prosperity, creativity, entrepreneurship, and innovation” within the multimedia complex. Passage of the bill would broaden the ability of and embolden law enforcement agencies and copyright holders to combat and reduce copyright infringement on the Internet. It is currently pending in the House of Representatives.</p>
+<p>The purpose of this post is to explain why the stance of ROBLOX is in firm opposition to the passage of SOPA. Here are three reasons:<br />
+<span id="more-7046"></span></p>
+<ol>
+<li>SOPA would prevent the natural and necessary replacement of old distribution mechanisms with new and efficient ones.</li>
+<li>Content producers are actually enjoying larger audiences and revenues more now than before the advent of the Internet era, so SOPA would actually undermine the protection of artists, not strengthen it.</li>
+<li>SOPA would grant broad authority to individuals, allowing a single judge to shutdown entire sites rather than the offending content.</li>
+</ol>
+<h1>A Brief History of Innovation</h1>
+<p>The purpose of providing a bit of a historical background is to not only provide perspective, but—additionally—to emphasize the pattern of innovation. Innovation leads to efficiency, especially as it pertains to the business model of content distribution within the multimedia industry. It forces established companies to contend with emerging ones by enhancing their current technologies, resulting in competition and better quality for consumers. In short, pioneering companies working with new business models stand to gain in both reputation and profitability.</p>
+<p>When artistic expression was first exhibited, it came in the forms of cave paintings, spoken-word stories and songs in real time. As civilization evolved, so did the methodology of artistic expression, such as, oil paintings on canvas, sheet music and written text.</p>
+<p>The invention of the printing press allowed artists (or authors, in this case) to share and distribute their work to thousands of readers. This ability to reproduce the printed word at scale was followed by the recording of music (i.e., the phonograph and 78-rpm records) and imagery (i.e., the motion picture).</p>
+<p>Early on, it was recognized that copying was inherently unfair, so copyright laws were created. The purpose of these laws was to protect the content producers of books, music and films. The last century has brought a boom in content-delivery businesses, with the formation of today’s great publishing houses, record labels and motion picture studios. These businesses brought multimedia to the masses, allowing anyone to consume and own content. Initially, copying content was difficult for individuals, necessitating a direct relationship between consumer and industry. This difficulty has relentlessly and continuously evaporated.</p>
+<p>The system of content distribution remained stable until the early 1980s.  Around this time, the video cassette recorder (VCR) and audio cassette recorders gained popularity and enabled individuals to record television programming and transfer music from vinyl albums to cassettes in the comfort of their own homes.</p>
+<p>The Motion Picture Association of America (MPAA) predicted the VCR would be the end of the movie business, with the head of the MPAA Jack Valenti stating with no lack of hyperbole:</p>
+<p style="padding-left: 30px;"><em>&#8220;I say to you that the VCR is to the American film producer and the American public as the Boston strangler is to woman home alone.&#8221; </em></p>
+<p>Luckily for the movie industry, Congress did not ban the VCR (or the cassette recorder, for that matter). The convenience of renting a video at the local store ultimately trounced any losses from people copying movies in their homes. The home video market ultimately became a cornerstone of movie studio revenues throughout the 1980s and 1990s.</p>
+<h1>Innovation Today</h1>
+<p>Fast forward to the emergence of the Internet and then to our present day in 2012, and one can hear SOPA repeating the VCR outcry. This time, though, it’s aimed at web-copying and distribution of books, music and movies. Major book publishers, the Recording Industry Association of America (RIAA), record labels and movie studios are asking Congress to help prevent the copying and distribution of copyrighted content on overseas websites. They argue that businesses are losing money because of illegal copying on sites, such as thepiratebay.org and megaupload.com.</p>
+<p>Take a look at the following graph:</p>
+<p><a href="http://blog.roblox.com/wp-content/uploads/2012/01/SOPA_music_revenues.jpg" rel="lightbox[7046]" title="SOPA_music_revenues"><img class="alignnone size-full wp-image-207" title="SOPA_music_revenues" src="http://blog.roblox.com/wp-content/uploads/2012/01/SOPA_music_revenues.jpg" alt="" width="618" height="437" /></a></p>
+<p>The RIAA’s interpretation of the graph might be, “The music industry used to generate $15B a year in 2001, but is only generating $8B now. Therefore, digital sales are not making up for lost CD sales and this must be because of copying.” Such an assertion, though, would be wrong. In actuality, they’re losing money for an entirely different reason.</p>
+<p>The advent of digital music distribution is a bit like the advent of the computer vs. the typewriter. The U.S.typewriter market used to be huge. Typewriter sales reached a peak in the mid-1950s. Just one company, Smith-Corona of Syracuse, N.Y., sold 12 million typewriters in the last three months of 1953. Now, a grand total of about 400,000 typewriters are sold each year in America.</p>
+<p>If one looks deeper into the music industry revenue loss between 2001 and 2011, one finds that the losses are occurring at music companies, not with artists. See the graph appearing after the legend for music labels and artists showing the change in UK music industry revenues from 2004 to 2008:</p>
+<ul>
+<li>Revenue to music labels (red) is decreasing fast.</li>
+<li>Live music revenue to artists (green) is growing fast.</li>
+<li>Royalty (online, broadcast) revenue to artists (yellow) is increasing .</li>
+<li>Recorded revenue to artists (black) is declining.</li>
+</ul>
+<p><a href="http://blog.roblox.com/wp-content/uploads/2012/01/SOPA_music_artists.jpg" rel="lightbox[7046]" title="SOPA_music_artists"><img class="alignnone size-full wp-image-211" title="SOPA_music_artists" src="http://blog.roblox.com/wp-content/uploads/2012/01/SOPA_music_artists.jpg" alt="" width="578" height="448" /></a></p>
+<p>The sum of artist revenues is actually increasing over time!  As music distribution becomes more liquid, artists are making much more money on live performances (maybe because it is so much more “valuable” to the average music fan in the digital age).</p>
+<p>The revenue being lost with digital distribution is not artist revenue, but it is music label revenue. Much of this lost revenue used to support physical processes. Ten years ago, many people used to work in record stores and CD printing factories. These jobs don’t exist with digital distribution. There used to be several Tower Records stores in the area where I live. These facilities have disappeared, just as typewriter manufacturing facilities did 20 years ago. Simply put, physical distribution has been replaced with cheaper, more ubiquitous and available content. Gone are the days of getting in the car, heading to the nearest retailer and waiting in line, thanks to the very little marginal cost for digital distribution.</p>
+<h1>Liberty at Risk?</h1>
+<p>Then there is the little matter of freedom of speech. <strong><span style="text-decoration: underline;">The risks to freedom of speech outweigh the benefits that might come from SOPA.</span></strong></p>
+<p>If SOPA should pass, a copyright holder may accuse an overseas website of copyright infringement by filing a petition. Think of it as Warner Brothers seeing a file-sharing site in China that hosts Harry Potter movies and them asking for the website to be taken down. The petition would then go before a judge, and if the judge agrees with the copyright holder, the United States Department of Justices (DOJ) would block the website to people in the US.</p>
+<p>The system is presented as having checks and balances because a judge will review cases before granting a take-down. The problem is:</p>
+<ul>
+<li>A takedown can occur for a single piece of offending content.</li>
+<li>A whole company (website) is taken down, rather than just the offending content.</li>
+<li>The takedown occurs because a single judge says, “Take it down.”</li>
+<li>The definition of “overseas” website will become increasingly fuzzier as sites become international.</li>
+</ul>
+<p>Imagine the DOJ attempting to take down the Hearst newspaper empire 50 years ago. Hearst was distributed, with hundreds of newspapers in cities across the country. Stopping all Hearst newspapers would have taken months and would have caused a constitutional crisis. It would have been unimaginable to request a take-down to the Hearst Empire because of a single offending piece of copyrighted content.</p>
+<p>By passing SOPA, such a weighty decision could be made with a virtual snap of the fingers, thanks to the nearly lack of enforcement costs. More and more people continue to get their news from sites on the Internet rather than from newspapers or TV.  If SOPA passes, it would give the DOJ the ability to block major sources of news almost instantly.</p>
+<h1>Summary: How This Affects ROBLOX</h1>
+<p>ROBLOX is a <em>service</em> that provides games based on user-created content<em>. </em>ROBLOX games only run on <a href="http://www.roblox.com/">www.roblox.com</a>. So if you make a cool ROBLOX game, most likely you will not find a foreign website where your game can be played. Unlike a book, movie, music track or Flash game, a lot more than a simple “player” is required to run a ROBLOX game. The ROBLOX infrastructure includes an asset farm, game servers, web services boxes, matchmaking servers and more backend technology.</p>
+<p>We support technological innovation—hey, that’s why we started ROBLOX! We’re excited to see that new distribution mechanisms are allowing consumers to get content more cheaply and ubiquitously, while simultaneously getting more money in the hands of content <em>producers</em>. We also recognize the need to take down offending content, which is why we support the Digital Millennium Copyright Act (DMCA).</p>
+<p>If at some point in the future ROBLOX made it possible for developers to make money from their games, this service business model would help ROBLOX developers by making it difficult for others to steal their games. In the meantime, ROBLOX believes that content producers should be protected and paid.</p>
+<p>SOPA, on the other hand, will reduce payments to artists by strengthening the status quo (specifically, expensive and less ubiquitous distribution of media). This bill also threatens free speech by granting sweeping authority to individuals. As such, we cannot in good conscience support SOPA.</p>
+<p>It is understandable how well-intentioned people might feel that a law such as SOPA would combat overseas piracy, however we strenuously urge our representatives in Congress to consider the points mentioned in this post and to oppose SOPA.</p>
+<p>David Baszucki – Founder and CEO of ROBLOX (Builderman).  Twitter @DavidBaszucki</p>
+<div class='wpfblike' ><fb:like href='http://blog.roblox.com/2012/01/stop-online-piracy-act-sopa-and-roblox-our-stance/' layout='default' show_faces='false' width='400' action='like' colorscheme='light' send='false' /></div>]]></content:encoded>
+			<wfw:commentRss>http://blog.roblox.com/2012/01/stop-online-piracy-act-sopa-and-roblox-our-stance/feed/</wfw:commentRss>
+		<slash:comments>152</slash:comments>
+		</item>
+	</channel>
+</rss>
